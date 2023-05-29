@@ -47,8 +47,8 @@ while True:
       # Merge 2 dicts
       restaurant = dict(restaurant_preview, **restaurant_details)
       # Add time
-      restaurant['create_at'] = date.today().strftime("%B %d, %Y")
-      restaurant['update_at'] = date.today().strftime("%B %d, %Y")
+      restaurant['created_at'] = date.today().strftime("%B %d, %Y")
+      restaurant['updated_at'] = date.today().strftime("%B %d, %Y")
       
       RESTAURANTS.append(restaurant)
 
@@ -58,7 +58,4 @@ while True:
     
     RESTAURANTS = []
     PAGE += 1
-
-      
-        
 

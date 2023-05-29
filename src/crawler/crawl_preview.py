@@ -58,7 +58,7 @@ def get_restaurant_coordinates(html):
   return {
     'short_location_name': short_location_element.text.strip(),
     'lat': coords_element.get('data-lat'),
-    'log': coords_element.get('data-lng')
+    'lng': coords_element.get('data-lng')
   }
 
 def get_restaurent_type(html):

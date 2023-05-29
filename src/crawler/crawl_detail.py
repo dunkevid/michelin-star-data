@@ -7,18 +7,27 @@ def get_detail_address(html):
   return address
 
 def get_detail_phone_number(html):
+  phone_number = ''
   element = html.find_all('a', class_=HTML_CLASS_NAME['d_r_detail_information'])
-  phone_number = element[0].get('href').replace('tel:', '').replace(' ', '') \
-    if len(element) > 1 \
-    else ''
+  if (len(element) > 0 and element[0].get('target') is None):
+    phone_number = element[0].get('href') \
+      .replace('tel:', '') \
+      .replace('-', '') \
+      .replace('+', '') \
+      .replace(' ', '') \
 
   return phone_number
 
 def get_detail_website(html):
+  website = ''
   element = html.find_all('a', class_=HTML_CLASS_NAME['d_r_detail_information'])
-  website = element[1].get('href') \
-    if len(element) > 1 \
-    else ''
+  if (len(element) > 0):
+    if (len(element) == 1 and element[0].get('target') is not None):
+      return element[0].get('href')
+    elif(len(element) == 2 and element[1].get('target') is not None):
+      return element[1].get('href')
+    else:
+      return ''
 
   return website
 

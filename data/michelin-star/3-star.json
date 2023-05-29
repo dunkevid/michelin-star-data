@@ -14,13 +14,13 @@
       "is_bib_gourmand": false
     },
     "coords": {
-      "short_location_name": "Hong Kong, Hong Kong SAR China",
+      "short_location_name": "Hong Kong",
       "lat": "22.282766",
-      "log": "114.15529"
+      "lng": "114.15529"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/hong-kong-region/hong-kong/restaurant/ta-vie",
-    "address": "2F, The Pottinger Hotel, 21 Stanley Street, Hong Kong",
-    "phone": "+85226686488",
+    "address": "2F, The Pottinger Hotel, 21 Stanley Street, Hong Kong, Hong Kong SAR China",
+    "phone": "85226686488",
     "website": "https://www.tavie.com.hk",
     "opening_hours": [
       "19:00-21:30",
@@ -42,8 +42,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Caprice",
@@ -60,13 +60,13 @@
       "is_bib_gourmand": false
     },
     "coords": {
-      "short_location_name": "Hong Kong, Hong Kong SAR China",
+      "short_location_name": "Hong Kong",
       "lat": "22.2857149",
-      "log": "114.1590497"
+      "lng": "114.1590497"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/hong-kong-region/hong-kong/restaurant/caprice",
-    "address": "6F, Four Seasons Hotel, 8 Finance Street, Hong Kong",
-    "phone": "+85231968860",
+    "address": "6F, Four Seasons Hotel, 8 Finance Street, Hong Kong, Hong Kong SAR China",
+    "phone": "85231968860",
     "website": "https://www.fourseasons.com/hongkong",
     "opening_hours": [
       "closed",
@@ -93,8 +93,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Sushi Shikon",
@@ -111,13 +111,13 @@
       "is_bib_gourmand": false
     },
     "coords": {
-      "short_location_name": "Hong Kong, Hong Kong SAR China",
+      "short_location_name": "Hong Kong",
       "lat": "22.2808567",
-      "log": "114.1574159"
+      "lng": "114.1574159"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/hong-kong-region/hong-kong/restaurant/sushi-shikon",
-    "address": "7F, The Landmark Mandarin Oriental Hotel, 15 Queen's Road Central, Hong Kong, Hong Kong SAR China",
-    "phone": "+85226436800",
+    "address": "7F, The Landmark Mandarin Oriental Hotel, 15 Queen's Road Central, Hong Kong",
+    "phone": "85226436800",
     "website": "https://sushi-shikon.com",
     "opening_hours": [],
     "description": "Hailing from Tokyo, the head chef Kakinuma is a master in ageing raw fish for deeper and fuller flavours. Some are aged together with pickled fish entrails that add exceptional umami. He takes meticulous care to keep flavours of each piece pristine without interfering with the next. Apart from sushi, Shimane abalone steamed in sake is also a highlight. The elegant interior design and artisan dinnerware befit the sophisticated food.",
@@ -133,8 +133,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "T'ang Court",
@@ -151,13 +151,13 @@
       "is_bib_gourmand": false
     },
     "coords": {
-      "short_location_name": "Hong Kong, Hong Kong SAR China",
+      "short_location_name": "Hong Kong",
       "lat": "22.296572",
-      "log": "114.1698"
+      "lng": "114.1698"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/hong-kong-region/hong-kong/restaurant/t-ang-court",
-    "address": "1-2F, The Langham Hotel, 8 Peking Road, Hong Kong",
-    "phone": "+85221327898",
+    "address": "1-2F, The Langham Hotel, 8 Peking Road, Hong Kong, Hong Kong SAR China",
+    "phone": "85221327898",
     "website": "https://www.langhamhotels.com/en/the-langham/hong-kong/",
     "opening_hours": [
       "12:00-15:00 18:00-22:00",
@@ -182,8 +182,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Robuchon au D\u00f4me",
@@ -202,11 +202,11 @@
     "coords": {
       "short_location_name": "Macau",
       "lat": "22.189949",
-      "log": "113.54395"
+      "lng": "113.54395"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/macau-region/macau/restaurant/robuchon-au-dome",
     "address": "43F, Grand Lisboa Hotel, Avenida de Lisboa, Macau",
-    "phone": "+85388037878",
+    "phone": "85388037878",
     "website": "https://www.grandlisboahotels.com",
     "opening_hours": [],
     "description": "Its lofty position atop the Grand Lisboa hotel lets diners take in breathtaking views and is a great setting for the renowned contemporary French cuisine. Choose the 7- or 10-course degustation menu at dinner; or one of the sets at lunch. Dishes are intricate, beautifully plated and pack an array of intense flavours, with the stunning dessert trolley providing a fitting finale. The restaurant boasts one of the best wine lists in Asia.",
@@ -224,8 +224,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "8 1/2 Otto e Mezzo - Bombana",
@@ -242,13 +242,13 @@
       "is_bib_gourmand": false
     },
     "coords": {
-      "short_location_name": "Hong Kong, Hong Kong SAR China",
+      "short_location_name": "Hong Kong",
       "lat": "22.2814635",
-      "log": "114.15867"
+      "lng": "114.15867"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/hong-kong-region/hong-kong/restaurant/8%C2%BD-otto-e-mezzo-bombana",
     "address": "Shop 202, 2F, Alexandra House, 18 Chater Road, Hong Kong, Hong Kong SAR China",
-    "phone": "+85225378859",
+    "phone": "85225378859",
     "website": "https://www.ottoemezzobombana.com",
     "opening_hours": [
       "12:00-00:00",
@@ -273,8 +273,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "The Eight",
@@ -293,11 +293,11 @@
     "coords": {
       "short_location_name": "Macau",
       "lat": "22.190475",
-      "log": "113.54341"
+      "lng": "113.54341"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/macau-region/macau/restaurant/the-eight",
     "address": "2F, Grand Lisboa Hotel, Avenida de Lisboa, Macau",
-    "phone": "+85388037788",
+    "phone": "85388037788",
     "website": "https://www.grandlisboahotels.com",
     "opening_hours": [],
     "description": "The lavish interior uses the traditional Chinese goldfish motifs and the number eight to wish all who dine here good fortune. The cuisine is a mix of Cantonese and Huaiyang, but the kitchen also adds its own innovative touches to some dishes. Specialities include steamed spotted coral grouper fillet with crispy black bean and garlic that boasts velvety flesh loaded with umami. At lunchtime, over 40 kinds of dim sum are served.",
@@ -314,8 +314,8 @@
       "Valet parking",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "L'Atelier de Jo\u00ebl Robuchon",
@@ -332,13 +332,13 @@
       "is_bib_gourmand": false
     },
     "coords": {
-      "short_location_name": "Hong Kong, Hong Kong SAR China",
+      "short_location_name": "Hong Kong",
       "lat": "22.281199",
-      "log": "114.15816"
+      "lng": "114.15816"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/hong-kong-region/hong-kong/restaurant/l-atelier-de-joel-robuchon",
     "address": "Shop 401, 4F, Landmark Atrium, 15 Queen's Road Central, Hong Kong",
-    "phone": "+85221669000",
+    "phone": "85221669000",
     "website": "https://www.robuchon.hk",
     "opening_hours": [
       "12:00-14:00 18:30-22:00",
@@ -366,8 +366,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Jade Dragon",
@@ -386,11 +386,11 @@
     "coords": {
       "short_location_name": "Macau",
       "lat": "22.149137",
-      "log": "113.56715"
+      "lng": "113.56715"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/macau-region/macau/restaurant/jade-dragon",
     "address": "2F, The Shops at the Boulevard, City of Dreams, Estrada do Istmo, Macau",
-    "phone": "+85388682822",
+    "phone": "85388682822",
     "website": "https://www.cityofdreamsmacau.com",
     "opening_hours": [
       "12:00-15:00 18:00-22:30",
@@ -415,8 +415,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Forum",
@@ -433,13 +433,13 @@
       "is_bib_gourmand": false
     },
     "coords": {
-      "short_location_name": "Hong Kong, Hong Kong SAR China",
+      "short_location_name": "Hong Kong",
       "lat": "22.2814401",
-      "log": "114.1821991"
+      "lng": "114.1821991"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/hong-kong-region/hong-kong/restaurant/forum",
     "address": "1F, Sino Plaza, 255-257 Gloucester Road, Hong Kong",
-    "phone": "+85228698282",
+    "phone": "85228698282",
     "website": "http://www.forumrestaurant1977.com",
     "opening_hours": [
       "11:30-14:30 18:00-23:00",
@@ -463,8 +463,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "De Librije",
@@ -483,11 +483,11 @@
     "coords": {
       "short_location_name": "Zwolle, Netherlands",
       "lat": "52.5153644",
-      "log": "6.0980183"
+      "lng": "6.0980183"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/overijssel/zwolle/restaurant/de-librije",
     "address": "Spinhuisplein 1, Zwolle, 8011 ZZ, Netherlands",
-    "phone": "+31388530000",
+    "phone": "31388530000",
     "website": "https://www.librije.com/",
     "opening_hours": [],
     "description": "Housed in a former prison, this restaurant has an inner courtyard with a lounge - style dining room crowned by a glass roof. The chef focuses on high quality ingredients, which he uses to create imaginative dishes that are full of flavour.",
@@ -500,8 +500,8 @@
       "Valet parking",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Inter Scaldes",
@@ -520,11 +520,11 @@
     "coords": {
       "short_location_name": "Kruiningen, Netherlands",
       "lat": "51.4571608",
-      "log": "4.0241076"
+      "lng": "4.0241076"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/zeeland/kruiningen/restaurant/inter-scaldes",
     "address": "Zandweg 2, Kruiningen, 4416 NA, Netherlands",
-    "phone": "+31113381753",
+    "phone": "31113381753",
     "website": "https://www.interscaldes.nl",
     "opening_hours": [],
     "description": "Contemporary elegance and abstract art set the tone at this magnificent restaurant situated in the Scheldt Delta. Top quality produce from the area really comes to its own as Chef Brevet creates sublime, surprising, perfectly balanced flavour combinations. He turns his dishes into art and manages to move his guests time and time again.",
@@ -537,8 +537,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "JAN",
@@ -557,11 +557,11 @@
     "coords": {
       "short_location_name": "Munich, Germany",
       "lat": "48.1447975",
-      "log": "11.5629878"
+      "lng": "11.5629878"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/bayern/mnchen/restaurant/jan-1204321",
     "address": "Luisenstra\u00dfe 27, Munich, 80333, Germany",
-    "phone": "+498923708658",
+    "phone": "498923708658",
     "website": "https://jan-hartwig.com/",
     "opening_hours": [],
     "description": "Jan Hartwig has fulfilled his dream of opening his own restaurant. Here he serves a fixed menu with seven courses, expandable with signature dishes. Everything is precise and well thought-out down to the last detail, and each dish has its own distinct identity. The menu is available for lunch and dinner (in a shorter format at lunchtime). The design is sleek, chic and upscale; depending on where you sit, you can look through the open door or open pass into the kitchen, which they like to call the Labor der Liebe(\u201cLaboratory of Love\u201d). The committed and professional service team under the tutelage of ma\u00cetre d\u2019 Kilian Skalet and sommelier Jochen Benz also contributes to the harmonious atmosphere. The wine list includes specialities such as magnums, jeroboams and special vintages.",
@@ -571,8 +571,8 @@
       "Mastercard credit card",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Schwarzwaldstube",
@@ -591,11 +591,11 @@
     "coords": {
       "short_location_name": "Baiersbronn, Germany",
       "lat": "48.5369113",
-      "log": "8.3582803"
+      "lng": "8.3582803"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/baden-wurttemberg/baiersbronn/restaurant/schwarzwaldstube",
     "address": "Tonbachstra\u00dfe 237, Baiersbronn, 72270, Germany",
-    "phone": "+497442492665",
+    "phone": "497442492665",
     "website": "https://www.traube-tonbach.de/restaurants-bar/schwarzwaldstube/",
     "opening_hours": [
       "closed",
@@ -620,8 +620,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Restaurant Bareiss",
@@ -640,11 +640,11 @@
     "coords": {
       "short_location_name": "Baiersbronn, Germany",
       "lat": "48.5205845",
-      "log": "8.3269876"
+      "lng": "8.3269876"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/baden-wurttemberg/baiersbronn/restaurant/restaurant-bareiss",
     "address": "Hermine-Bareiss-Weg 1, Baiersbronn, 72270, Germany",
-    "phone": "+497442470",
+    "phone": "497442470",
     "website": "https://www.bareiss.com/",
     "opening_hours": [
       "closed",
@@ -666,8 +666,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Rutz",
@@ -686,11 +686,11 @@
     "coords": {
       "short_location_name": "Berlin, Germany",
       "lat": "52.5283507",
-      "log": "13.3860867"
+      "lng": "13.3860867"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/berlin-region/berlin/restaurant/rutz",
     "address": "Chausseestra\u00dfe 8, Berlin, 10115, Germany",
-    "phone": "+493024628760",
+    "phone": "493024628760",
     "website": "https://rutz-restaurant.de/",
     "opening_hours": [
       "closed",
@@ -711,8 +711,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Aqua",
@@ -731,11 +731,11 @@
     "coords": {
       "short_location_name": "Wolfsburg, Germany",
       "lat": "52.4331722",
-      "log": "10.789999"
+      "lng": "10.789999"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/niedersachsen/wolfsburg/restaurant/aqua79029",
     "address": "Parkstra\u00dfe 1, Wolfsburg, 38440, Germany",
-    "phone": "+495361606056",
+    "phone": "495361606056",
     "website": "http://www.restaurant-aqua.com",
     "opening_hours": [
       "closed",
@@ -759,8 +759,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Waldhotel Sonnora",
@@ -779,11 +779,11 @@
     "coords": {
       "short_location_name": "Dreis, Germany",
       "lat": "49.9377323",
-      "log": "6.8109342"
+      "lng": "6.8109342"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/rheinland-pfalz/dreis/restaurant/waldhotel-sonnora",
     "address": "Auf'm Eichelfeld 1, Dreis, 54518, Germany",
-    "phone": "+49657898220",
+    "phone": "49657898220",
     "website": "https://www.hotel-sonnora.de/",
     "opening_hours": [],
     "description": "This legendary fine dining establishment has an exemplary pair of hosts in Magdalena Brandst\u00e4tter and Clemens Rambichler. The latter is one of Germany's best chefs and specialises in French haute cuisine with a creative modern touch. Beautiful creations like sole from small-scale fishing served on baby spinach leaves with poached Gillardeau oysters and caviar beurre blanc are joined by house specialities such as \"Kleine Torte\" of fillet of beef tartare topped with Imperial Gold caviar \u2013 the Sonnora's signature dish par excellence! The wine pairings to accompany the set menu are superb. The extremely committed front-of-house team led by Brandst\u00e4tter and Ulrike Thieltges is always on hand. The decor is stylish and elegant with a restrained modern touch. The inviting individually designed guest rooms are equally fabulous.",
@@ -796,8 +796,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "schanz. restaurant.",
@@ -816,11 +816,11 @@
     "coords": {
       "short_location_name": "Piesport, Germany",
       "lat": "49.8776003",
-      "log": "6.9266002"
+      "lng": "6.9266002"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/rheinland-pfalz/piesport/restaurant/schanz-restaurant",
     "address": "Bahnhofstra\u00dfe 8a, Piesport, 54498, Germany",
-    "phone": "+49650792520",
+    "phone": "49650792520",
     "website": "https://www.schanz-restaurant.de/de/",
     "opening_hours": [],
     "description": "Since Thomas Schanz started running his restaurant here, the small town of Piesport, already known for its excellent wines, has also become a mecca for gourmets. The chef is one of Germany's top chefs. With his own distinctive style, he puts a modern spin on classic cuisine, harmoniously combining bold flavours . He is uncompromising when it comes to the quality of his ingredients. A signature dish is the truffle egg. The front-of-house team is friendly, professional and dedicated to recommending the right wines \u2013 including those from their own winery. The owner is not only a trained chef but a hotelier as well, and there are lovely guest rooms in the hotel he has taken over from his parents.",
@@ -834,8 +834,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Restaurant \u00dcberfahrt",
@@ -854,11 +854,11 @@
     "coords": {
       "short_location_name": "Rottach-Egern, Germany",
       "lat": "47.6966846",
-      "log": "11.7582292"
+      "lng": "11.7582292"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/bayern/rottach-egern/restaurant/restaurant-uberfahrt-christian-jurgens",
     "address": "\u00dcberfahrtstra\u00dfe 10, Rottach-Egern, 83700, Germany",
-    "phone": "+4980226690",
+    "phone": "4980226690",
     "website": "https://www.althoffcollection.com/de",
     "opening_hours": [
       "closed",
@@ -879,8 +879,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Victor's Fine Dining by christian bau",
@@ -899,11 +899,11 @@
     "coords": {
       "short_location_name": "Perl, Germany",
       "lat": "49.5351732",
-      "log": "6.3872109"
+      "lng": "6.3872109"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/saarland/perl/restaurant/victor-s-fine-dining-by-christian-bau",
     "address": "Schlossstra\u00dfe 27, Perl, 66706, Germany",
-    "phone": "+49686679118",
+    "phone": "49686679118",
     "website": "https://www.victors-fine-dining.de/",
     "opening_hours": [
       "closed",
@@ -925,8 +925,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "The Table Kevin Fehling",
@@ -945,11 +945,11 @@
     "coords": {
       "short_location_name": "Hamburg, Germany",
       "lat": "53.5426688",
-      "log": "10.0029635"
+      "lng": "10.0029635"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/hamburg-region/hamburg/restaurant/the-table-kevin-fehling",
     "address": "Shanghaiallee 15, Hamburg, 20457, Germany",
-    "phone": "+494022867422",
+    "phone": "494022867422",
     "website": "https://thetable-hamburg.de/",
     "opening_hours": [
       "closed",
@@ -969,8 +969,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Sketch (The Lecture Room & Library)",
@@ -989,11 +989,11 @@
     "coords": {
       "short_location_name": "London, United Kingdom",
       "lat": "51.5126775",
-      "log": "-0.1415369"
+      "lng": "-0.1415369"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/greater-london/london/restaurant/sketch-the-lecture-room-library",
     "address": "9 Conduit Street, London, W1S 2XG, United Kingdom",
-    "phone": "+442076594500",
+    "phone": "442076594500",
     "website": "https://sketch.london/",
     "opening_hours": [
       "09:00-00:00",
@@ -1014,8 +1014,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "L'Enclume",
@@ -1034,11 +1034,11 @@
     "coords": {
       "short_location_name": "Cartmel, United Kingdom",
       "lat": "54.2017254",
-      "log": "-2.9538566"
+      "lng": "-2.9538566"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/cumbria/cartmel/restaurant/l-enclume",
     "address": "Cavendish Street, Cartmel, LA11 6PZ, United Kingdom",
-    "phone": "+441539536362",
+    "phone": "441539536362",
     "website": "https://www.lenclume.co.uk/",
     "opening_hours": [
       "closed",
@@ -1059,8 +1059,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Alain Ducasse at The Dorchester",
@@ -1079,11 +1079,11 @@
     "coords": {
       "short_location_name": "London, United Kingdom",
       "lat": "51.5073381",
-      "log": "-0.152575"
+      "lng": "-0.152575"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/greater-london/london/restaurant/alain-ducasse-at-the-dorchester",
     "address": "Park Lane, London, W1K 1QA, United Kingdom",
-    "phone": "+442076298866",
+    "phone": "442076298866",
     "website": "https://www.alainducasse-dorchester.com/",
     "opening_hours": [
       "closed",
@@ -1106,8 +1106,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "H\u00e9l\u00e8ne Darroze at The Connaught",
@@ -1126,11 +1126,11 @@
     "coords": {
       "short_location_name": "London, United Kingdom",
       "lat": "51.510188",
-      "log": "-0.1492905"
+      "lng": "-0.1492905"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/greater-london/london/restaurant/helene-darroze-at-the-connaught",
     "address": "Carlos Place, London, W1K 2AL, United Kingdom",
-    "phone": "+442031477200",
+    "phone": "442031477200",
     "website": "https://www.the-connaught.co.uk/restaurants-bars/helene-darroze-at-the-connaught/",
     "opening_hours": [
       "closed",
@@ -1152,8 +1152,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Fat Duck",
@@ -1172,11 +1172,11 @@
     "coords": {
       "short_location_name": "Bray, United Kingdom",
       "lat": "51.5078582",
-      "log": "-0.7017529"
+      "lng": "-0.7017529"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/windsor-and-maidenhead/bray/restaurant/fat-duck",
     "address": "High Street, Bray, SL6 2AQ, United Kingdom",
-    "phone": "+441628580333",
+    "phone": "441628580333",
     "website": "https://thefatduck.co.uk/",
     "opening_hours": [
       "closed",
@@ -1198,8 +1198,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "CORE by Clare Smyth",
@@ -1218,11 +1218,11 @@
     "coords": {
       "short_location_name": "London, United Kingdom",
       "lat": "51.5126689",
-      "log": "-0.2030649"
+      "lng": "-0.2030649"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/greater-london/london/restaurant/core-by-clare-smyth",
     "address": "92 Kensington Park Road, London, W11 2PN, United Kingdom",
-    "phone": "+442039375086",
+    "phone": "442039375086",
     "website": "https://www.corebyclaresmyth.com/",
     "opening_hours": [
       "closed",
@@ -1242,8 +1242,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Restaurant Gordon Ramsay",
@@ -1262,11 +1262,11 @@
     "coords": {
       "short_location_name": "London, United Kingdom",
       "lat": "51.4854381",
-      "log": "-0.1621766"
+      "lng": "-0.1621766"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/greater-london/london/restaurant/restaurant-gordon-ramsay",
     "address": "68-69 Royal Hospital Road, London, SW3 4HP, United Kingdom",
-    "phone": "+442073524441",
+    "phone": "442073524441",
     "website": "https://www.gordonramsayrestaurants.com/restaurant-gordon-ramsay/",
     "opening_hours": [
       "closed",
@@ -1288,8 +1288,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Waterside Inn",
@@ -1308,11 +1308,11 @@
     "coords": {
       "short_location_name": "Bray, United Kingdom",
       "lat": "51.5091092",
-      "log": "-0.6994376"
+      "lng": "-0.6994376"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/windsor-and-maidenhead/bray/restaurant/waterside-inn",
     "address": "Ferry Road, Bray, SL6 2AT, United Kingdom",
-    "phone": "+441628620691",
+    "phone": "441628620691",
     "website": "https://www.waterside-inn.co.uk/",
     "opening_hours": [],
     "description": "Guests are welcomed as if they are friends at this illustrious restaurant in a picture perfect spot on a bank of the Thames. The wonderful terrace is fringed by weeping willows and boats and swans vie for positions on the water.A bastion of culinary excellence, it was opened in 1972 by the late brothers Michel and Albert Roux and, despite being the longest-standing Starred restaurant in the UK, it continues to go from strength to strength under the auspices of Michel\u2019s son, Alain.Luxury is at every turn, from the finest crockery and glassware to indulgent ingredients and this, combined with the effortless service, creates a truly memorable dining experience. Menus list all the French classics, from rabbit to lobster, and there\u2019s always a souffl\u00e9 of the day. Flavours are full and sauces are intense but there\u2019s also a lightness of touch to the execution.",
@@ -1328,8 +1328,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Boury",
@@ -1348,11 +1348,11 @@
     "coords": {
       "short_location_name": "Roeselare, Belgium",
       "lat": "50.9374466",
-      "log": "3.1403981"
+      "lng": "3.1403981"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/west-vlaanderen/roeselare/restaurant/boury",
     "address": "Rumbeeksesteenweg 300, Roeselare, 8800, Belgium",
-    "phone": "+3251626462",
+    "phone": "3251626462",
     "website": "https://www.restaurantboury.be/",
     "opening_hours": [
       "closed",
@@ -1376,8 +1376,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Zilte",
@@ -1396,11 +1396,11 @@
     "coords": {
       "short_location_name": "Antwerpen, Belgium",
       "lat": "51.228828",
-      "log": "4.4047543"
+      "lng": "4.4047543"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/antwerpen/be-antwerpen/restaurant/t-zilte",
     "address": "Hanzestedenplaats 5, Antwerpen, 2000, Belgium",
-    "phone": "+3232834040",
+    "phone": "3232834040",
     "website": "https://www.zilte.be/",
     "opening_hours": [
       "12:00-13:00 19:00-20:30",
@@ -1422,8 +1422,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Hof van Cleve",
@@ -1442,11 +1442,11 @@
     "coords": {
       "short_location_name": "Kruishoutem, Belgium",
       "lat": "50.9039501",
-      "log": "3.5098648"
+      "lng": "3.5098648"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/oost-vlaanderen/kruishoutem/restaurant/hof-van-cleve",
     "address": "Riemegemstraat 1, Kruishoutem, 9770, Belgium",
-    "phone": "+3293835848",
+    "phone": "3293835848",
     "website": "https://www.hofvancleve.com/",
     "opening_hours": [
       "closed",
@@ -1470,8 +1470,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "La Vague d'Or - Cheval Blanc St-Tropez",
@@ -1490,11 +1490,11 @@
     "coords": {
       "short_location_name": "Saint-Tropez, France",
       "lat": "43.2665849",
-      "log": "6.6261535"
+      "lng": "6.6261535"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/provence-alpes-cote-dazur/saint-tropez/restaurant/la-vague-d-or-cheval-blanc-st-tropez",
     "address": "Plage de la Bouillabaisse, Saint-Tropez, 83990, France",
-    "phone": "+33494559100",
+    "phone": "33494559100",
     "website": "https://www.chevalblanc.com/fr/maison/st-tropez/",
     "opening_hours": [],
     "description": "Originally from Normandy, Arnaud Donckele has hit upon an enchanting setting in St Tropez \u2013 a hotel framed by pine trees and looking out to sea. La Vague d'Or promises its patrons an exceptional experience every day. First and foremost, the food invites many a superlative. With the best ingredients (vegetables from local market gardeners, fish and shellfish), Donckele pays a heartfelt tribute to the Mediterranean. Intoxicating marriages of flavours, perfect jus and sauces, meticulous attention to textures \u2013 it's impossible to remain unmoved in the face of such inspired work and exacting standards. Take the now-classic tourton (a filled beignet) of Provence vegetables and Mediterranean crayfish, one of the chef's favourite dishes, in which the essence of his philosophy as a cook finds free expression. Ride the \"Golden Wave\"!",
@@ -1513,8 +1513,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Ren\u00e9 et Maxime Meilleur",
@@ -1533,11 +1533,11 @@
     "coords": {
       "short_location_name": "Saint-Martin-de-Belleville, France",
       "lat": "45.3690463",
-      "log": "6.5133065"
+      "lng": "6.5133065"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/auvergne-rhone-alpes/saint-martin-de-belleville/restaurant/rene-et-maxime-meilleur",
     "address": "Hameau de  Saint-Marcel, Saint-Martin-de-Belleville, 73440, France",
-    "phone": "+33479089677",
+    "phone": "33479089677",
     "website": "https://www.la-bouitte.com/fr/",
     "opening_hours": [],
     "description": "Father Ren\u00e9 and son Maxime bear a wonderfully apt surname meaning \"best\". Theirs is an exceptional partnership, a combination of yin and yang that gives expression to the character of the mountain terroir and their own culinary passion. On the yin side, scrupulous attention to produce, such as the herbs and berries that Ren\u00e9 picks every day. On the yang side, Maxime's energy and inspiration. The result is a cuisine that is \"intelligent but intelligible\". This is truly a family affair, as mother, daughter, daughter-in-law and son-in-law run the whole operation. Last but not least, in an adjoining chalet, guestrooms and suites done out in the latest in mountain chic await you.",
@@ -1550,8 +1550,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Kei",
@@ -1570,11 +1570,11 @@
     "coords": {
       "short_location_name": "Paris, France",
       "lat": "48.8643947",
-      "log": "2.3422847"
+      "lng": "2.3422847"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/kei",
     "address": "5 rue du Coq-H\u00e9ron, Paris, 75001, France",
-    "phone": "+33142331474",
+    "phone": "33142331474",
     "website": "https://www.restaurant-kei.fr/",
     "opening_hours": [
       "closed",
@@ -1593,8 +1593,8 @@
       "Mastercard credit card",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Auberge du Vieux Puits",
@@ -1613,11 +1613,11 @@
     "coords": {
       "short_location_name": "Fontjoncouse, France",
       "lat": "43.0481728",
-      "log": "2.7893292"
+      "lng": "2.7893292"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/occitanie/fontjoncouse/restaurant/auberge-du-vieux-puits",
     "address": "5 avenue Saint-Victor, Fontjoncouse, 11360, France",
-    "phone": "+33468440737",
+    "phone": "33468440737",
     "website": "https://www.aubergeduvieuxpuits.fr/fr/",
     "opening_hours": [],
     "description": "Gilles Goujon, sometimes dubbed the innkeeper of the Corbi\u00e8res, is credited with putting the tiny village of Fontjoncouse (in the Aude d\u00e9partement) on the map of French high-end gastronomy. His trademark? Sincerity and expertise. As his regulars know, he puts his heart and soul into every dish. Goujon has no equal when it comes to taking a back seat to the ingredient and letting it do the talking in all its simplicity \u2013 the mark of the greats. We will just mention one creation that is not to be missed: his egg filled with melanosporum truffle and served with mushroom pur\u00e9e, foamy truffle emulsion, warm brioche bun and velout\u00e9. This is the superstar dish of the house, and rightly so! The rest of the meal is in the same vein, namely precise and confident, meticulous and generous, never showy: culinary excellence, quite simply.",
@@ -1631,8 +1631,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "R\u00e9gis et Jacques Marcon",
@@ -1651,11 +1651,11 @@
     "coords": {
       "short_location_name": "Saint-Bonnet-le-Froid, France",
       "lat": "45.1386734",
-      "log": "4.4342679"
+      "lng": "4.4342679"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/auvergne-rhone-alpes/saint-bonnet-le-froid/restaurant/regis-et-jacques-marcon",
     "address": "Larsiallas, Saint-Bonnet-le-Froid, 43290, France",
-    "phone": "+33471599372",
+    "phone": "33471599372",
     "website": "https://www.lesmaisonsmarcon.fr/",
     "opening_hours": [
       "12:00-19:30",
@@ -1677,8 +1677,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Assiette Champenoise",
@@ -1697,11 +1697,11 @@
     "coords": {
       "short_location_name": "Reims, France",
       "lat": "49.2476571",
-      "log": "4.0040608"
+      "lng": "4.0040608"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/grand-est/reims/restaurant/assiette-champenoise",
     "address": "40 avenue Paul-Vaillant-Couturier, \u00e0 Tinqueux, Reims, 51430, France",
-    "phone": "+33326846464",
+    "phone": "33326846464",
     "website": "https://www.assiettechampenoise.com/",
     "opening_hours": [],
     "description": "You might say that Arnaud Lallement grew up at Assiette Champenoise, which was originally opened by his parents. Now at the helm himself, he shows that he has been trained by the best in the business (Verg\u00e9, Gu\u00e9rard, Chapel). He cooks high-calibre cuisine \u2013 classic, generous and above all very tasty \u2013 and lets his Breton roots (on his mother's side) shine through. A larger-than-life presence on the restaurant floor, Lallement loves to engage with guests and certainly doesn't stand on ceremony. The dishes are accessible and enhanced by memorable sauces; ingredients are treated with loving care, as in the blue lobster dubbed \"a tribute to my dad\", and the farm-reared Onjon squab. A fabulous culinary experience!",
@@ -1719,8 +1719,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Troisgros - Le Bois sans Feuilles",
@@ -1739,11 +1739,11 @@
     "coords": {
       "short_location_name": "Ouches, France",
       "lat": "46.01033",
-      "log": "3.99236"
+      "lng": "3.99236"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/auvergne-rhone-alpes/ouches/restaurant/troisgros-le-bois-sans-feuilles",
     "address": "728 route de Villerest, Ouches, 42155, France",
-    "phone": "+33477716697",
+    "phone": "33477716697",
     "website": "https://www.troisgros.com/",
     "opening_hours": [
       "closed",
@@ -1767,8 +1767,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Le Clos des Sens",
@@ -1787,11 +1787,11 @@
     "coords": {
       "short_location_name": "Annecy, France",
       "lat": "45.9176317",
-      "log": "6.1445765"
+      "lng": "6.1445765"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/auvergne-rhone-alpes/annecy/restaurant/le-clos-des-sens",
     "address": "13 rue Jean-Mermoz - \u00e0 Annecy-le-Vieux, Annecy, 74940, France",
-    "phone": "+33450230790",
+    "phone": "33450230790",
     "website": "https://www.closdessens.com/",
     "opening_hours": [],
     "description": "This handsome abode in the upper reaches of Annecy is the haunt of chef Franck Derouet and his associate Thomas Lorival. Together they craft a culinary universe whose veggie and lake-focused slant is clearly motivated by a locavore philosophy and all the ingredients come from their own garden or within a 100km radius. Each dish is sprinkled with seasonal fruit, vegetables, flowers and herbs, adding a poetic, even an artistic flourish, illustrated by their creamy polenta with pike roe, fera (fish) with garden green curry or a wafer-thin chicory tart. In tune with this seasonal ethos, the chef works with meat, but very sparingly, (for example, during the coarse fish close season), depicted by a game jus drizzled over cardoons (heirloom vegetable). Similarly, the wines all come from local wineries. The duo of chefs is committed to exploring new culinary universes, for example, they offer a \u201cfood and jus\u201d pairing of vegetable stocks, broths and herbal teas with the different courses, in addition to wine-food pairings. Their complementary characters and complicity are as apparent in the kitchen as in the dining room, creating a banquet for the senses.",
@@ -1806,8 +1806,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "La Marine",
@@ -1826,11 +1826,11 @@
     "coords": {
       "short_location_name": "L'Herbaudi\u00e8re, France",
       "lat": "47.0237104",
-      "log": "-2.2999341"
+      "lng": "-2.2999341"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/pays-de-la-loire/l-herbaudire/restaurant/la-marine3780",
     "address": "3 rue Marie-Lemonnier, L'Herbaudi\u00e8re, 85330, France",
-    "phone": "+33251392309",
+    "phone": "33251392309",
     "website": "https://www.alexandrecouillon.com/fr/",
     "opening_hours": [
       "closed",
@@ -1851,8 +1851,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "La Villa Madie",
@@ -1871,11 +1871,11 @@
     "coords": {
       "short_location_name": "Cassis, France",
       "lat": "43.2110889",
-      "log": "5.544944"
+      "lng": "5.544944"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/provence-alpes-cote-dazur/cassis/restaurant/la-villa-madie",
     "address": "Avenue de Revestel, Cassis, 13260, France",
-    "phone": "+33496180000",
+    "phone": "33496180000",
     "website": "https://lavillamadie.com/",
     "opening_hours": [
       "12:00-13:15",
@@ -1901,8 +1901,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Les Pr\u00e9s d'Eug\u00e9nie - Michel Gu\u00e9rard",
@@ -1921,11 +1921,11 @@
     "coords": {
       "short_location_name": "Eug\u00e9nie-les-Bains, France",
       "lat": "43.696604",
-      "log": "-0.3797229"
+      "lng": "-0.3797229"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/nouvelle-aquitaine/eugnie-les-bains/restaurant/les-pres-d-eugenie-michel-guerard",
     "address": "Place de l'Imp\u00e9ratrice, Eug\u00e9nie-les-Bains, 40320, France",
-    "phone": "+33558050607",
+    "phone": "33558050607",
     "website": "https://lespresdeugenie.com/",
     "opening_hours": [],
     "description": "Some chefs owe their reputation as much to what they produce in the kitchen as to their human qualities, and Michel Gu\u00e9rard is among them. Considered one of the founding fathers of Nouvelle Cuisine, admired by his peers the world over, he still puts the same passion and dedication into his work. At Les Pr\u00e9s d'Eug\u00e9nie, you get the full experience: the enchanting setting of a gorgeous mansion in verdant grounds, a front-of-house team with laser-like attention to the smallest detail and, above all, cuisine that is exceptional in every way. In the dishes, we find all the DNA of Chef Gu\u00e9rard: the workings of cuisine naturaliste, of course, an omnipresent lightness, and the ability to successfully marry the most diverse flavours, like a conductor guiding an orchestra. The restaurant is set up in the wood-panelled apartments of the Empress, which are steeped in the history of the building.",
@@ -1940,8 +1940,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Le Pr\u00e9 Catelan",
@@ -1960,11 +1960,11 @@
     "coords": {
       "short_location_name": "Paris, France",
       "lat": "48.8639374",
-      "log": "2.2507182"
+      "lng": "2.2507182"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/le-pre-catelan",
     "address": "Route de Suresnes - bois de Boulogne, Paris, 75016, France",
-    "phone": "+33144144114",
+    "phone": "33144144114",
     "website": "https://www.leprecatelan.com/",
     "opening_hours": [],
     "description": "Pierre-Yves Rochon is credited with revolutionising this Napoleon\u00a0III lodge nestled in the Bois de Boulogne, with its designer furniture and palette of green, white and silver tones. At the helm of this illustrious house is a Meilleur Ouvrier de France with an undiminished passion: Fr\u00e9d\u00e9ric Anton. From his mentors (who include Jo\u00ebl Robuchon), the chef has inherited precision and rigour, to which he has added his own distinct taste for original combinations of flavours. Often centred on an ingredient of choice (red mullet, morel, squab, langoustine), the dishes combine balance, harmony and generosity: each one is a gem, down to its design on the plate. Let's not forget, of course, the prestigious wine cellar and perfect service.",
@@ -1981,8 +1981,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Le 1947 \u00e0 Cheval Blanc",
@@ -2001,11 +2001,11 @@
     "coords": {
       "short_location_name": "Courchevel, France",
       "lat": "45.4094877",
-      "log": "6.6338696"
+      "lng": "6.6338696"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/auvergne-rhone-alpes/courchevel/restaurant/le-1947",
     "address": "Le Jardin Alpin, Courchevel 1850, Courchevel, 73120, France",
-    "phone": "+33479005050",
+    "phone": "33479005050",
     "website": "https://www.chevalblanc.com/fr/maison/courchevel/",
     "opening_hours": [],
     "description": "Yannick All\u00e9no has trodden a remarkable path! At one great restaurant after another, the chef from the Paris region has always been adept at channelling his passion into fulfilling his ambition. Within the H\u00f4tel Cheval Blanc, he regales a few lucky diners (just five tables) with a striking repertoire of contemporary cuisine, in which creativity and audacity are entirely guided by the quest for flavours. The Savoie region is shown in its best light through his use of superb ingredients, each of these edible treasures being prepared with the greatest care. This chef's true passion are his sauces, which are truly unforgettable \u2013 they are the fruit of a long-term labour of love revolving around extraction and fermentation, as well as consummate technical skill: a master class in haute cuisine.",
@@ -2019,8 +2019,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "\u00c9picure",
@@ -2039,11 +2039,11 @@
     "coords": {
       "short_location_name": "Paris, France",
       "lat": "48.871762",
-      "log": "2.314625"
+      "lng": "2.314625"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/epicure",
     "address": "Le Bristol, 112 rue du Faubourg-Saint-Honor\u00e9, Paris, 75008, France",
-    "phone": "+33153434340",
+    "phone": "33153434340",
     "website": "https://www.oetkercollection.com/fr/hotels/le-bristol-paris/restaurants-et-bar/epicure/",
     "opening_hours": [
       "07:00-10:30",
@@ -2066,8 +2066,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Arp\u00e8ge",
@@ -2086,11 +2086,11 @@
     "coords": {
       "short_location_name": "Paris, France",
       "lat": "48.855731",
-      "log": "2.3169648"
+      "lng": "2.3169648"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/arpege",
     "address": "84 rue de Varenne, Paris, 75007, France",
-    "phone": "+33147050906",
+    "phone": "33147050906",
     "website": "https://www.alain-passard.com/",
     "opening_hours": [
       "12:00-14:30 19:30-22:30",
@@ -2111,8 +2111,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "L'Ambroisie",
@@ -2131,11 +2131,11 @@
     "coords": {
       "short_location_name": "Paris, France",
       "lat": "48.855494",
-      "log": "2.3645215"
+      "lng": "2.3645215"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/l-ambroisie",
     "address": "9 place des Vosges, Paris, 75004, France",
-    "phone": "+33142785145",
+    "phone": "33142785145",
     "website": "https://www.ambroisie-paris.com/",
     "opening_hours": [
       "closed",
@@ -2155,8 +2155,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Le Louis XV - Alain Ducasse \u00e0 l'H\u00f4tel de Paris",
@@ -2175,11 +2175,11 @@
     "coords": {
       "short_location_name": "Monaco, France",
       "lat": "43.7391839",
-      "log": "7.4271047"
+      "lng": "7.4271047"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/monaco-region/monaco/restaurant/le-louis-xv-alain-ducasse-a-l-hotel-de-paris",
     "address": "Place du Casino, Monaco, 98000, France",
-    "phone": "+37798068864",
+    "phone": "37798068864",
     "website": "https://www.ducasse-paris.com/",
     "opening_hours": [
       "19:30-21:15",
@@ -2203,8 +2203,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Maison Lameloise",
@@ -2223,11 +2223,11 @@
     "coords": {
       "short_location_name": "Chagny, France",
       "lat": "46.9078385",
-      "log": "4.7529917"
+      "lng": "4.7529917"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/bourgogne-franche-comte/chagny/restaurant/maison-lameloise",
     "address": "36 place d'Armes, Chagny, 71150, France",
-    "phone": "+33385876565",
+    "phone": "33385876565",
     "website": "https://www.lameloise.fr/",
     "opening_hours": [],
     "description": "Ah, Lameloise! Just saying the name makes the connoisseurs of Burgundy and beyond quiver with pleasure. It is impossible to summarise in a few lines the history of this institution which began its star-studded career in\u2026 hold on to your hats\u2026 1926! But make no mistake: despite its advanced age, Lameloise does not deal in nostalgia. Eric Pras, who arrived to head up the establishment in 2009, sums it up in one sentence, which is almost a mantra: \"Tradition is the future.\" Suffice to say, he has no intention of resting on his laurels. Faithful to the spirit of the place, as inspired as he is meticulous, the chef serenely turns out dishes that will knock your socks off, paying homage to the land (snails, Bresse poultry, Charolais beef, Morvan cazette), while remaining tuned into the zeitgeist. Very good selection of wines, especially by the glass. Expertly done.",
@@ -2239,8 +2239,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Le Cinq",
@@ -2259,11 +2259,11 @@
     "coords": {
       "short_location_name": "Paris, France",
       "lat": "48.8687604",
-      "log": "2.3008612"
+      "lng": "2.3008612"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/le-cinq6102",
     "address": "Four Seasons Hotel George V, 31 avenue George-V, Paris, 75008, France",
-    "phone": "+33149527154",
+    "phone": "33149527154",
     "website": "https://www.fourseasons.com",
     "opening_hours": [
       "closed",
@@ -2286,8 +2286,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "L'Oustau de Baumani\u00e8re",
@@ -2306,11 +2306,11 @@
     "coords": {
       "short_location_name": "Les Baux-de-Provence, France",
       "lat": "43.7402659",
-      "log": "4.7873628"
+      "lng": "4.7873628"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/provence-alpes-cote-dazur/les-baux-de-provence/restaurant/l-oustau-de-baumaniere",
     "address": "Mas de Baumani\u00e8re, Les Baux-de-Provence, 13520, France",
-    "phone": "+33490543307",
+    "phone": "33490543307",
     "website": "https://www.baumaniere.com/",
     "opening_hours": [],
     "description": "A formidable ambassador of the Mediterranean art de vivre, this Proven\u00e7al country estate promises a uniquely tranquil, bucolic and elegant ambience. Glenn Viel creates high-calibre cuisine, making good use of the wealth of local produce (olive oil from the Vall\u00e9e des Baux, organic vegetables from the Baumani\u00e8re garden; also chicken and pork) to compose disarmingly simple dishes. His creations are enhanced by a number of nice touches: food and bread pairings, tableware made by a partner ceramicist. The chef also tries his hand at rejuvenating classic dishes \u2013  (fattened hen with morels), agneau des Alpilles en cro\u00fbte (local lamb) etc. Pastry chef Brandon Dehan conjures up delicious original desserts that demonstrate the same spirit of authenticity and flavour that infuses the chef's dishes; indeed, the pair share a strong bond. In fine weather, you can eat on the shaded terrace looking out over the Alpilles.",
@@ -2328,8 +2328,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Pic",
@@ -2348,11 +2348,11 @@
     "coords": {
       "short_location_name": "Valence, France",
       "lat": "44.9177848",
-      "log": "4.8854965"
+      "lng": "4.8854965"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/auvergne-rhone-alpes/valence/restaurant/pic",
     "address": "285 avenue Victor-Hugo, Valence, 26000, France",
-    "phone": "+33475441532",
+    "phone": "33475441532",
     "website": "http://www.anne-sophie-pic.com",
     "opening_hours": [],
     "description": "The first thing to mention about Maison Pic (in the Dr\u00f4me d\u00e9partement of southeast France) is its special atmosphere. An artfully lit room designed to cast light on the dishes, floral creations, a thick carpet that muffles the steps of a front-of-house team dressed in classic attire. Here, they serve food the old-fashioned way, on a porcelain plate under a cloche. The lofty culinary obsessions of a chef who has been dubbed \"the tightrope walker of flavours\" \u2013 adulation of Japan, original presentations \u2013 make themselves felt in the dishes. Anne-Sophie Pic now serves a single set menu with ten \"ports of call\". A member of the highly exclusive club of female three-starred chefs, she is now director of the foundation \"Donnons du go\u00fbt \u00e0 l'enfance\". Beyond her boundless talent, she is an iconic figure.",
@@ -2369,8 +2369,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Pl\u00e9nitude - Cheval Blanc Paris",
@@ -2389,11 +2389,11 @@
     "coords": {
       "short_location_name": "Paris, France",
       "lat": "48.8588148",
-      "log": "2.3421588"
+      "lng": "2.3421588"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/plenitude-cheval-blanc-paris",
     "address": "8 quai du Louvre, Paris, 75001, France",
-    "phone": "+33179355011",
+    "phone": "33179355011",
     "website": "https://www.chevalblanc.com/fr/maison/paris/",
     "opening_hours": [
       "closed",
@@ -2416,8 +2416,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Pierre Gagnaire",
@@ -2436,11 +2436,11 @@
     "coords": {
       "short_location_name": "Paris, France",
       "lat": "48.8732506",
-      "log": "2.3003862"
+      "lng": "2.3003862"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/pierre-gagnaire6112",
     "address": "6 rue Balzac, Paris, 75008, France",
-    "phone": "+33158361250",
+    "phone": "33158361250",
     "website": "http://www.pierregagnaire.com/restaurants/pierre_gagnaire",
     "opening_hours": [
       "12:00-13:30 19:30-21:30",
@@ -2462,8 +2462,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Flocons de Sel",
@@ -2482,11 +2482,11 @@
     "coords": {
       "short_location_name": "Meg\u00e8ve, France",
       "lat": "45.82354",
-      "log": "6.60007"
+      "lng": "6.60007"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/auvergne-rhone-alpes/megve/restaurant/flocons-de-sel",
     "address": "1775 route du Leutaz, Le Leutaz, Meg\u00e8ve, 74120, France",
-    "phone": "+33450214999",
+    "phone": "33450214999",
     "website": "https://www.floconsdesel.com/fr/",
     "opening_hours": [],
     "description": "Emmanuel Renaut fell in love with Haute Savoie as a child, long before achieving his Meilleur Ouvrier de France title, and has an ingrained predilection for Alpine produce (pike, char and whitefish from Lake Geneva, mushrooms and wild herbs, mountain cheeses\u2026). But he does not restrict himself in any way: going against the grain of the regional cooking that is sometimes expected is a source of amusement to him \u2013 a case in point being his superb langoustines marinated in citron, caviar with zesty grapefruit and gentian roots. Plants are also given an increasingly important role in his cooking. The meal would not be complete without a dessert by the talented Aur\u00e9lie Collomb-Clerc, who is just as adept at reinterpreting the house classics (oh, the fir tree souffl\u00e9!) as at dreaming up beautiful creations, such as her elegant white monochrome of Swiss meringue and Alpine milk ice cream, encasing mirabelle compote or orange marmalade, depending on the season. An enchanting high-altitude chalet for the summit of fine dining.",
@@ -2503,8 +2503,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "All\u00e9no Paris au Pavillon Ledoyen",
@@ -2523,11 +2523,11 @@
     "coords": {
       "short_location_name": "Paris, France",
       "lat": "48.8660932",
-      "log": "2.3164993"
+      "lng": "2.3164993"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/ile-de-france/paris/restaurant/alleno-paris-au-pavillon-ledoyen",
     "address": "8 avenue Dutuit, Paris, 75008, France",
-    "phone": "+33153051000",
+    "phone": "33153051000",
     "website": "https://www.yannick-alleno.com",
     "opening_hours": [
       "19:00-00:00",
@@ -2550,8 +2550,8 @@
       "Valet parking",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Le Petit Nice",
@@ -2570,11 +2570,11 @@
     "coords": {
       "short_location_name": "Marseille, France",
       "lat": "43.2803346",
-      "log": "5.3521929"
+      "lng": "5.3521929"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/provence-alpes-cote-dazur/marseille/restaurant/le-petit-nice",
     "address": "Anse de Maldorm\u00e9, Marseille, 13007, France",
-    "phone": "+33491592592",
+    "phone": "33491592592",
     "website": "https://www.passedat.fr",
     "opening_hours": [],
     "description": "Le Petit Nice is inextricably linked to its city, Marseille, and to G\u00e9rald Passedat's personality. \"I dive into the Mediterranean, in every sense of the word,\" says the chef. \"It carries me and inspires me, as well as all the lands that surround it.\" It would be an understatement to say that he has drawn inspiration from the Mediterranean terroir (fruit, vegetables, cereals, fish, spices etc) to forge his culinary identity. For example, over 65 types of fish are used in the kitchen, from sea bream, dentex and pike-perch to whiting, comber, and sometimes even moray eel. G\u00e9rald Passedat, heir to a family of artists and once a student of Alain Chapel, the Troisgros brothers and Michel Gu\u00e9rard, has lost none of the pleasure he takes in cooking and in surprising and thrilling diners. A taste of the Calanques...",
@@ -2592,8 +2592,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "AM par Alexandre Mazzia",
@@ -2612,11 +2612,11 @@
     "coords": {
       "short_location_name": "Marseille, France",
       "lat": "43.2701104",
-      "log": "5.3862325"
+      "lng": "5.3862325"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/provence-alpes-cote-dazur/marseille/restaurant/am-par-alexandre-mazzia",
     "address": "9 rue Fran\u00e7ois-Rocca, Marseille, 13008, France",
-    "phone": "+33491248363",
+    "phone": "33491248363",
     "website": "https://www.alexandre-mazzia.com/",
     "opening_hours": [
       "closed",
@@ -2636,8 +2636,8 @@
       "Mastercard credit card",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Mirazur",
@@ -2656,11 +2656,11 @@
     "coords": {
       "short_location_name": "Menton, France",
       "lat": "43.7859304",
-      "log": "7.5280514"
+      "lng": "7.5280514"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/provence-alpes-cote-dazur/menton/restaurant/mirazur",
     "address": "30 avenue Aristide-Briand, Menton, 06500, France",
-    "phone": "+33492418686",
+    "phone": "33492418686",
     "website": "https://www.mirazur.fr/",
     "opening_hours": [
       "closed",
@@ -2685,8 +2685,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Georges Blanc",
@@ -2705,11 +2705,11 @@
     "coords": {
       "short_location_name": "Vonnas, France",
       "lat": "46.219982",
-      "log": "4.989383"
+      "lng": "4.989383"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/auvergne-rhone-alpes/vonnas/restaurant/georges-blanc",
     "address": "Place du March\u00e9, Vonnas, 01540, France",
-    "phone": "+33474509090",
+    "phone": "33474509090",
     "website": "https://www.georgesblanc.com/fr/",
     "opening_hours": [],
     "description": "This Bourg-en-Bresse native whose ancestors used to make lemonade and sell coal has come a long way! That said, Georges Blanc's grandmother was once named best cook in the world by food writer Curnonsky. Nowadays the chef is at the head of a small empire in Vonnas. Out of a 100m2 house, he has built an estate of several hectares: the illuminated village gardens and houses are a magical sight at night. But the show also takes place at your table, where the Bresse province is represented by its emblematic poularde AOP, and deep-flavoured sauces and skilful cooking techniques come into their own. Georges Blanc is the oldest Michelin-starred establishment in the world, having received its first star in 1929. It will also delight fans of fine wines, with a wine list to make Bacchus blush.",
@@ -2723,8 +2723,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Amador",
@@ -2743,11 +2743,11 @@
     "coords": {
       "short_location_name": "Vienna, Austria",
       "lat": "48.2539745",
-      "log": "16.3586534"
+      "lng": "16.3586534"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/vienna/wien/restaurant/amador",
     "address": "Grinzinger Stra\u00dfe 86, Vienna, 1190, Austria",
-    "phone": "+436609070500",
+    "phone": "436609070500",
     "website": "https://www.restaurant-amador.com/",
     "opening_hours": [
       "closed",
@@ -2769,8 +2769,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "King's Joy",
@@ -2789,11 +2789,11 @@
     "coords": {
       "short_location_name": "Beijing, China Mainland",
       "lat": "39.946681",
-      "log": "116.410004"
+      "lng": "116.410004"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/beijing-municipality/beijing/restaurant/king-s-joy",
     "address": "2 Wudaoying Hutong, Beijing, China Mainland",
-    "phone": "+861084049191",
+    "phone": "861084049191",
     "website": "",
     "opening_hours": [],
     "description": "Just a stone\u2019s throw from Yonghe Temple, this serene restaurant is remodelled from a courtyard house and features a glass-roofed dining room. The chef honed his skills at his grandparents\u2019 restaurant of the same name. Only set menus are available; try the classic menu to sample their specialities all at once. Regulars may opt for the solar-term menu that changes every 15 days. Live harp performance befits the restaurant\u2019s classy elegance.",
@@ -2815,8 +2815,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Xin Rong Ji (Xinyuan South Road)",
@@ -2835,11 +2835,11 @@
     "coords": {
       "short_location_name": "Beijing, China Mainland",
       "lat": "39.94638",
-      "log": "116.450148"
+      "lng": "116.450148"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/beijing-municipality/beijing/restaurant/xin-rong-ji-xinyuan-south-road",
     "address": "1F, East Tower, Genesis Beijing, 8 Xinyuan South Road, Beijing, China Mainland",
-    "phone": "+861065015501",
+    "phone": "861065015501",
     "website": "",
     "opening_hours": [],
     "description": "This branch of the chain restaurant opened in 2019 and features an elegant but relaxed dining room decorated in a modern Chinese style. Counter seats affording views of the open kitchen are good for couples or solo diners. The menu is essentially the same as other branches, focusing on Taizhou and Cantonese cooking, and fish from the East China Sea. But the 28-day-old baby Peking duck is available exclusively at this location and needs pre-ordering.",
@@ -2855,8 +2855,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Taian Table",
@@ -2875,11 +2875,11 @@
     "coords": {
       "short_location_name": "Shanghai, China Mainland",
       "lat": "31.221807",
-      "log": "121.474049"
+      "lng": "121.474049"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/shanghai-municipality/shanghai/restaurant/taian-table",
     "address": "101-102, Building No. 1, Garden Office, No.161, Lane 465, Zhenning Road, Shanghai, China Mainland",
-    "phone": "+8617301605350",
+    "phone": "8617301605350",
     "website": "https://taian-table.cn/",
     "opening_hours": [],
     "description": "A fixture on the city\u2019s dining scene since 2016, this brainchild of Chef Stefan Stiller is familiar to all local foodies. With counter seats enclosing an island where the chefs cook, guest gets to witness the birth of each course up close. The 10- or 12-course menu features 8 dishes that change entirely every 6-8 weeks. Diners then choose the rest from the classics or specials menu. The food is well-executed, sophisticated and original.",
@@ -2895,8 +2895,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Ultraviolet by Paul Pairet",
@@ -2915,12 +2915,12 @@
     "coords": {
       "short_location_name": "Shanghai, China Mainland",
       "lat": "31.240358",
-      "log": "121.48509"
+      "lng": "121.48509"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/shanghai-municipality/shanghai/restaurant/ultraviolet-by-paul-pairet",
     "address": "'somewhere in Shanghai' - meet at Mr & Mrs Bund restaurant - 6F, Bund 18, 18 Zhongshan Dong Yi Road, Shanghai, China Mainland",
-    "phone": "https://uvbypp.cc/",
-    "website": "",
+    "phone": "",
+    "website": "https://uvbypp.cc/",
     "opening_hours": [],
     "description": "This multi-sensory experience at a secret location that combines a 20-course meal with lights, sounds and scents will give you quite an adrenaline rush. After the success of Mr & Mrs Bund, chef Paul Pairet created this clever concept where 10 lucky diners are taken on an interactive culinary journey beyond their wildest dreams. Be dazzled by the creative mix of tastes, unconventional presentations and enthusiastic service, all enhanced by imagination.",
     "facilities_and_services": [
@@ -2934,8 +2934,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Quince",
@@ -2954,11 +2954,11 @@
     "coords": {
       "short_location_name": "San Francisco, USA",
       "lat": "37.7975054",
-      "log": "-122.4032607"
+      "lng": "-122.4032607"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/california/san-francisco/restaurant/quince",
     "address": "470 Pacific Ave., San Francisco, 94133, USA",
-    "phone": "+1415-775-8500",
+    "phone": "14157758500",
     "website": "http://www.quincerestaurant.com",
     "opening_hours": [
       "closed",
@@ -2980,8 +2980,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Atelier Crenn",
@@ -3000,11 +3000,11 @@
     "coords": {
       "short_location_name": "San Francisco, USA",
       "lat": "37.79835",
-      "log": "-122.43586"
+      "lng": "-122.43586"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/california/san-francisco/restaurant/atelier-crenn",
     "address": "3127 Fillmore St., San Francisco, 94123, USA",
-    "phone": "+1415-440-0460",
+    "phone": "14154400460",
     "website": "https://www.ateliercrenn.com/",
     "opening_hours": [
       "closed",
@@ -3022,8 +3022,8 @@
       "Particularly interesting wine list",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Addison",
@@ -3042,11 +3042,11 @@
     "coords": {
       "short_location_name": "San Diego, USA",
       "lat": "32.9412972",
-      "log": "-117.1988908"
+      "lng": "-117.1988908"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/california/us-san-diego/restaurant/addison",
     "address": "5200 Grand Del Mar Way, San Diego, 92130, USA",
-    "phone": "+1858-314-1900",
+    "phone": "18583141900",
     "website": "https://www.addisondelmar.com/",
     "opening_hours": [
       "closed",
@@ -3071,8 +3071,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Benu",
@@ -3091,11 +3091,11 @@
     "coords": {
       "short_location_name": "San Francisco, USA",
       "lat": "37.7853763",
-      "log": "-122.3990601"
+      "lng": "-122.3990601"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/california/san-francisco/restaurant/benu",
     "address": "22 Hawthorne St., San Francisco, 94105, USA",
-    "phone": "+1415-685-4860",
+    "phone": "14156854860",
     "website": "https://www.benusf.com/",
     "opening_hours": [
       "closed",
@@ -3113,8 +3113,8 @@
       "Valet parking",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "SingleThread",
@@ -3133,11 +3133,11 @@
     "coords": {
       "short_location_name": "Healdsburg, USA",
       "lat": "38.6122599",
-      "log": "-122.8697229"
+      "lng": "-122.8697229"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/california/healdsburg/restaurant/singlethread",
     "address": "131 North St., Healdsburg, 95448, USA",
-    "phone": "+1707-723-4646",
+    "phone": "17077234646",
     "website": "https://www.singlethreadfarms.com/",
     "opening_hours": [],
     "description": "Here, in the bucolic loveliness at the heart of Sonoma Wine Country, sense of place combines exquisitely with the deeply personal vision of owners Chef Kyle Connaughton and head farmer Katina Connaughton. The nearby 24-acre farm provides much of the bounty prepared in the kitchen, and the couple\u2019s time in Japan informs the restaurant\u2019s ethos, from the kaiseki-influenced cuisine to the practice of omotenashi, a spirit of wholehearted hospitality. The menu begins, unforgettably, with a botanical landscape interspersed with impeccable first bites, serving to introduce the meal\u2019s central themes: impeccable ingredients, precise, artistic presentation and pure, harmonious flavors. The expert use of the donabe (Japanese claypot) is a signature, transforming seafood and vegetables alike.",
@@ -3147,8 +3147,8 @@
       "Particularly interesting wine list",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "The French Laundry",
@@ -3167,11 +3167,11 @@
     "coords": {
       "short_location_name": "Yountville, USA",
       "lat": "38.40443",
-      "log": "-122.36474"
+      "lng": "-122.36474"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/california/yountville/restaurant/the-french-laundry",
     "address": "6640 Washington St., Yountville, 94599, USA",
-    "phone": "+1707-944-2380",
+    "phone": "17079442380",
     "website": "https://www.thomaskeller.com/tfl",
     "opening_hours": [
       "16:00-20:00",
@@ -3193,8 +3193,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Lasarte",
@@ -3213,11 +3213,11 @@
     "coords": {
       "short_location_name": "Barcelona, Spain",
       "lat": "41.3936278",
-      "log": "2.1622018"
+      "lng": "2.1622018"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/catalunya/barcelona/restaurant/lasarte",
     "address": "Mallorca 259, Barcelona, 08008, Spain",
-    "phone": "+34934453242",
+    "phone": "34934453242",
     "website": "https://www.restaurantlasarte.com/",
     "opening_hours": [
       "closed",
@@ -3240,8 +3240,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "ABaC",
@@ -3260,11 +3260,11 @@
     "coords": {
       "short_location_name": "Barcelona, Spain",
       "lat": "41.4103822",
-      "log": "2.1367664"
+      "lng": "2.1367664"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/catalunya/barcelona/restaurant/abac",
     "address": "Avenida del Tibidabo 1, Barcelona, 08022, Spain",
-    "phone": "+34933196600",
+    "phone": "34933196600",
     "website": "https://abacrestaurant.com/es",
     "opening_hours": [
       "13:00-14:00 20:00-21:00",
@@ -3284,8 +3284,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Cocina Hermanos Torres",
@@ -3304,11 +3304,11 @@
     "coords": {
       "short_location_name": "Barcelona, Spain",
       "lat": "41.3865273",
-      "log": "2.1400168"
+      "lng": "2.1400168"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/catalunya/barcelona/restaurant/cocina-hermanos-torres",
     "address": "Taqu\u00edgraf Serra 20, Barcelona, 08029, Spain",
-    "phone": "+34934100020",
+    "phone": "34934100020",
     "website": "http://www.cocinahermanostorres.com",
     "opening_hours": [
       "closed",
@@ -3329,8 +3329,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Akela\u0155e",
@@ -3349,11 +3349,11 @@
     "coords": {
       "short_location_name": "Donostia / San Sebasti\u00e1n, Spain",
       "lat": "43.3027805",
-      "log": "-2.0731493"
+      "lng": "-2.0731493"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/pais-vasco/es-donostia-san-sebastian/restaurant/akelare",
     "address": "Paseo del Padre Orcolaga 56, Donostia / San Sebasti\u00e1n, 20008, Spain",
-    "phone": "+34943311209",
+    "phone": "34943311209",
     "website": "https://akelarre.net/",
     "opening_hours": [],
     "description": "With his impressive CV and distinctive moustache, chef Pedro Subijana is an icon of the restaurant scene and commands the utmost respect. As one of the founding fathers of the New Basque Cuisine movement, he believes in constant evolution, and even if the focus is always squarely on creativity and technique his approach is rooted in tradition.Akela\u0155e, located inside the spectacular hotel of the same name on Mt Igueldo, has already celebrated its golden jubilee. It bowls diners over with its interior design, views of the Bay of Biscay and clever culinary concept. Inviting you to embark on a magical gastronomic adventure, the two versatile tasting menus, with dishes that can be mixed and matched, are based on both well-established house specialities and the most innovative of recipes.",
@@ -3369,8 +3369,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Atrio",
@@ -3389,11 +3389,11 @@
     "coords": {
       "short_location_name": "C\u00e1ceres, Spain",
       "lat": "39.4730183",
-      "log": "-6.3713456"
+      "lng": "-6.3713456"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/extremadura/cceres/restaurant/atrio",
     "address": "Plaza San Mateo 1, C\u00e1ceres, 10003, Spain",
-    "phone": "+34927242928",
+    "phone": "34927242928",
     "website": "https://restauranteatrio.com/",
     "opening_hours": [
       "13:30-15:30 20:30-22:30",
@@ -3414,8 +3414,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Quique Dacosta",
@@ -3434,11 +3434,11 @@
     "coords": {
       "short_location_name": "D\u00e9nia, Spain",
       "lat": "38.8537884",
-      "log": "0.0852209"
+      "lng": "0.0852209"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/comunidad-valenciana/dnia/restaurant/quique-dacosta",
     "address": "Rascassa 1, D\u00e9nia, 03700, Spain",
-    "phone": "+34965784179",
+    "phone": "34965784179",
     "website": "https://www.quiquedacosta.es/",
     "opening_hours": [
       "closed",
@@ -3458,8 +3458,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Aponiente",
@@ -3478,11 +3478,11 @@
     "coords": {
       "short_location_name": "El Puerto de Santa Mar\u00eda, Spain",
       "lat": "36.6033273",
-      "log": "-6.2164435"
+      "lng": "-6.2164435"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/andalucia/el-puerto-de-santa-maria/restaurant/aponiente",
     "address": "Francisco Cossi Ochoa, El Puerto de Santa Mar\u00eda, 11500, Spain",
-    "phone": "+34606225859",
+    "phone": "34606225859",
     "website": "https://www.aponiente.com/",
     "opening_hours": [],
     "description": "\u00c1ngel Le\u00f3n, whose restaurant is housed in a tide mill dating from 1815, is known as \"the chef of the sea\" and talking about him invariably means wading into uncharted waters. As he says himself, at Aponiente \"the aim is to raise awareness, open people's minds and introduce them to new concepts that are impossible to find anywhere else\".Totally committed to sustainability, this is a chef who seeks to surprise diners with new ingredients, innovative techniques and incredible combinations, always honing his philosophy, which revolves around recycling, renewable energies, making the most of what the natural estuaries have to offer and championing the salvaging of discarded fish. You will encounter such concotions as seafood sausages, plankton and bioluminescence, seawater cooking, marine honey. Pure culinary magic!",
@@ -3497,8 +3497,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "DiverXO",
@@ -3517,11 +3517,11 @@
     "coords": {
       "short_location_name": "Madrid, Spain",
       "lat": "40.4582913",
-      "log": "-3.6856715"
+      "lng": "-3.6856715"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/comunidad-de-madrid/madrid/restaurant/diverxo",
     "address": "Padre Dami\u00e1n 23, Madrid, 28036, Spain",
-    "phone": "+34915700766",
+    "phone": "34915700766",
     "website": "https://diverxo.com/",
     "opening_hours": [
       "closed",
@@ -3542,8 +3542,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Mart\u00edn Berasategui",
@@ -3562,11 +3562,11 @@
     "coords": {
       "short_location_name": "Lasarte - Oria, Spain",
       "lat": "43.2664755",
-      "log": "-2.0152402"
+      "lng": "-2.0152402"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/pais-vasco/lasarte-oria/restaurant/martin-berasategui",
     "address": "Loidi 4, Lasarte - Oria, 20160, Spain",
-    "phone": "+34943366471",
+    "phone": "34943366471",
     "website": "http://www.martinberasategui.com/es/inicio",
     "opening_hours": [
       "closed",
@@ -3590,8 +3590,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Azurmendi",
@@ -3610,11 +3610,11 @@
     "coords": {
       "short_location_name": "Larrabetzu, Spain",
       "lat": "43.26065",
-      "log": "-2.81454"
+      "lng": "-2.81454"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/pais-vasco/larrabetzu/restaurant/azurmendi",
     "address": "Legina Auzoa, Larrabetzu, 48195, Spain",
-    "phone": "+34944558359",
+    "phone": "34944558359",
     "website": "http://www.azurmendi.restaurant",
     "opening_hours": [],
     "description": "A flagship of the Biscayan fine dining scene and a leading light in the field of sustainability, Azurmendi is a shining example of how to work with the environment. It has adapted its architecture and produce, and integrated new technologies in its quest to become a responsible restaurant business that sets out to cook for a better future.Chef Eneko Atxa nurtures a sapling of the Tree of Gernika at the entrance of the restaurant in a manifestation of his desire to preserve the area's indigenous flora and fauna and safeguard the values of Basque culture. He proposes a creative and informative culinary experience that is dedicated to the conservation of endemic species. The \"Adarrak\" set menu comprises a fascinating overview (courses dubbed \"Welcome Picnic\", \"The Kitchen Table\", \"The Greenhouse\") and ends with a gift in the form of a complimentary bar of recycled soap!",
@@ -3630,8 +3630,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "El Celler de Can Roca",
@@ -3650,11 +3650,11 @@
     "coords": {
       "short_location_name": "Girona, Spain",
       "lat": "41.9932026",
-      "log": "2.807927"
+      "lng": "2.807927"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/catalunya/girona/restaurant/el-celler-de-can-roca",
     "address": "Can Sunyer 48, Girona, 17007, Spain",
-    "phone": "+34972222157",
+    "phone": "34972222157",
     "website": "http://www.cellercanroca.com",
     "opening_hours": [
       "closed",
@@ -3677,8 +3677,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Cenador de Am\u00f3s",
@@ -3697,11 +3697,11 @@
     "coords": {
       "short_location_name": "Villaverde de Pontones, Spain",
       "lat": "43.4124884",
-      "log": "-3.6988243"
+      "lng": "-3.6988243"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/cantabria/villaverde-de-pontones/restaurant/cenador-de-amos",
     "address": "Plaza del Sol, Villaverde de Pontones, 39793, Spain",
-    "phone": "+34942508243",
+    "phone": "34942508243",
     "website": "https://www.cenadordeamos.com/",
     "opening_hours": [
       "closed",
@@ -3722,8 +3722,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Arzak",
@@ -3742,11 +3742,11 @@
     "coords": {
       "short_location_name": "Donostia / San Sebasti\u00e1n, Spain",
       "lat": "43.3214016",
-      "log": "-1.9490932"
+      "lng": "-1.9490932"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/pais-vasco/es-donostia-san-sebastian/restaurant/arzak",
     "address": "Avenida Alcalde Jos\u00e9 Elosegi 273, Donostia / San Sebasti\u00e1n, 20015, Spain",
-    "phone": "+34943278465",
+    "phone": "34943278465",
     "website": "http://www.arzak.es",
     "opening_hours": [
       "closed",
@@ -3769,8 +3769,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "L'OSIER",
@@ -3789,11 +3789,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.669667",
-      "log": "139.761203"
+      "lng": "139.761203"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/l-osier",
     "address": "7-5-5 Ginza, Chuo-ku, Tokyo, 104-0061, Japan",
-    "phone": "+813-3571-6050",
+    "phone": "81335716050",
     "website": "https://losier.shiseido.co.jp/",
     "opening_hours": [],
     "description": "The elegant dining room, pleasant service, highly skilled sommeliers and other features make this one of Japan\u2019s world-class restaurants. The founder of the restaurant said, \u201cEverything must be rich\u201d.Olivier Chaignon visits the production areas himself to select the best ingredients and puts them together in beautiful modern dishes. His philosophy is to catch up with and overtake France in his dishes. We can\u2019t wait to see his next idea.",
@@ -3808,8 +3808,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Quintessence",
@@ -3828,11 +3828,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.624038",
-      "log": "139.732977"
+      "lng": "139.732977"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/quintessence-1193907",
     "address": "1F, Garden City Shinagawa Gotenyama, 6-7-29 Kitashinagawa, Shinagawa-ku, Tokyo, 141-0001, Japan",
-    "phone": "+813-6277-0090",
+    "phone": "81362770090",
     "website": "https://www.quintessence.jp/",
     "opening_hours": [
       "17:00-23:30",
@@ -3855,8 +3855,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "L'Effervescence",
@@ -3875,11 +3875,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.660299",
-      "log": "139.719454"
+      "lng": "139.719454"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/l-effervescence",
     "address": "2-26-4 Nishiazabu, Minato-ku, Tokyo, 106-0031, Japan",
-    "phone": "+813-5766-9500",
+    "phone": "81357669500",
     "website": "http://www.leffervescence.jp/",
     "opening_hours": [
       "closed",
@@ -3901,8 +3901,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Azabu Kadowaki",
@@ -3921,11 +3921,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.655993",
-      "log": "139.733551"
+      "lng": "139.733551"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/azabu-kadowaki",
     "address": "2-7-2 Azabujuban, Minato-ku, Tokyo, 106-0045, Japan",
-    "phone": "+813-5772-2553",
+    "phone": "81357722553",
     "website": "",
     "opening_hours": [],
     "description": "The surprising and delightful dishes here stem from owner-chef Toshiya Kadowaki\u2019s pursuit of undiscovered flavours. One example is the \u2018Truffles and Rice\u2019, representing a combination of his experience and inventiveness. He demonstrates his creativity by adding a Western ingredient and seeks out seasonal truffles so that he can serve them year-round. He\u2019s pioneering a future Japanese cuisine with his refined sensibilities, which refuse to be categorised.",
@@ -3939,8 +3939,8 @@
       "Mastercard credit card",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Kohaku",
@@ -3959,11 +3959,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.700701",
-      "log": "139.741008"
+      "lng": "139.741008"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/kohaku",
     "address": "3-4 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825, Japan",
-    "phone": "+8150-3138-5225",
+    "phone": "815031385225",
     "website": "http://kagurazaka-kohaku.jp/",
     "opening_hours": [],
     "description": "Koji Koizumi is the creator of an innovative brand of Japanese cuisine. He crosses new frontiers by incorporating ingredients from outside the realm of existing concepts: fried ayu (sweetfish) in a cream and truffle soup, for example, or corn nikogori (jelled broth) with caviar and junsai (watershield), or matsutake mushroom spring rolls. Take a seat at the counter to watch the energy of the young chefs at work. If seated at a table, a waitress in kimono provides gracious service.",
@@ -3973,8 +3973,8 @@
       "Credit card / Debit card accepted",
       "Particularly interesting wine list"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "RyuGin",
@@ -3993,11 +3993,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.673583",
-      "log": "139.759193"
+      "lng": "139.759193"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/ryugin-1194232",
     "address": "7F, Tokyo Midtown Hibiya, 1-1-2 Yurakucho, Chiyoda-ku, Tokyo, 100-0006, Japan",
-    "phone": "+813-6630-0007",
+    "phone": "81366300007",
     "website": "https://www.nihonryori-ryugin.com/",
     "opening_hours": [],
     "description": "Seiji Yamamoto expresses Japan\u2019s bounty of natural beauty and ingredients through his cuisine. His choice, all-natural ingredients, sourced from throughout the country, resonate with and entertain the five senses. Pouring out his skill with knives, fire and seasonings unstintingly, Yamamoto captures the essence of the season in each dish. He prepares his cuisine with skill and with respect for the spiritual nature of Japan, spreading its culinary culture far and wide.",
@@ -4012,8 +4012,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Kagurazaka Ishikawa",
@@ -4032,11 +4032,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.701212",
-      "log": "139.739466"
+      "lng": "139.739466"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/kagurazaka-ishikawa",
     "address": "5-37 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825, Japan",
-    "phone": "+8150-3138-5225",
+    "phone": "815031385225",
     "website": "http://www.kagurazaka-ishikawa.co.jp/",
     "opening_hours": [],
     "description": "In Japanese cooking we speak of kakushiaji, subtle seasoning that brings out the flavour. At Kagurazaka Ishikawa, the charm is in the parts that are hidden. For example, the Daitokuji natto accompanying the steamed black rockfish is served in a kombu-and-shellfish dashi with reduced salt for an elegant taste. Slices of finest awabi and shabu-shabu somen of wagyu impart a sense of delicacy. Cooking makes the man, and the fare here attests to the character of owner-chef Hideki Ishikawa.",
@@ -4051,8 +4051,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Sushi Yoshitake",
@@ -4071,11 +4071,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.668923",
-      "log": "139.761942"
+      "lng": "139.761942"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/sushi-yoshitake",
     "address": "9F, 7-8-13 Ginza, Chuo-ku, Tokyo, 104-0061, Japan",
-    "phone": "+813-6253-7331",
+    "phone": "81362537331",
     "website": "http://sushi-yoshitake.com/",
     "opening_hours": [
       "18:00-22:30",
@@ -4097,8 +4097,8 @@
       "Mastercard credit card",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Sazenka",
@@ -4117,11 +4117,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.649578",
-      "log": "139.728395"
+      "lng": "139.728395"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/sazenka",
     "address": "4-7-5 Minamiazabu, Minato-ku, Tokyo, 106-0047, Japan",
-    "phone": "+8150-3188-8819",
+    "phone": "815031888819",
     "website": "https://sazenka.com/",
     "opening_hours": [
       "closed",
@@ -4143,8 +4143,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Jo\u00ebl Robuchon",
@@ -4163,11 +4163,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.641903",
-      "log": "139.714528"
+      "lng": "139.714528"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/joel-robuchon-1193981",
     "address": "Yebisu Garden Place, 1-13-1 Mita, Meguro-ku, Tokyo, 153-0062, Japan",
-    "phone": "+813-5424-1347",
+    "phone": "81354241347",
     "website": "https://www.robuchon.jp/",
     "opening_hours": [
       "17:30-22:00",
@@ -4190,8 +4190,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Kanda",
@@ -4210,11 +4210,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.6658",
-      "log": "139.748"
+      "lng": "139.748"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/kanda",
     "address": "1F, Toranomon Hills Residential Tower, 1-1-1 Atago, Minato-ku, Tokyo, 105-0002, Japan",
-    "phone": "+813-6459-0176",
+    "phone": "81364590176",
     "website": "http://www.nihonryori-kanda.com/",
     "opening_hours": [
       "17:00-20:30",
@@ -4236,8 +4236,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Makimura",
@@ -4256,11 +4256,11 @@
     "coords": {
       "short_location_name": "Tokyo, Japan",
       "lat": "35.590865",
-      "log": "139.735449"
+      "lng": "139.735449"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/tokyo-region/tokyo/restaurant/makimura",
     "address": "3-11-5 Minamioi, Shinagawa-ku, Tokyo, 140-0013, Japan",
-    "phone": "+813-3768-6388",
+    "phone": "81337686388",
     "website": "",
     "opening_hours": [
       "18:00-22:00",
@@ -4282,8 +4282,8 @@
       "Mastercard credit card",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "St. Hubertus",
@@ -4302,11 +4302,11 @@
     "coords": {
       "short_location_name": "San Cassiano, Italy",
       "lat": "46.5717631",
-      "log": "11.9305901"
+      "lng": "11.9305901"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/trentino-alto-adige/san-cassiano/restaurant/st-hubertus",
     "address": "strada Micura de Rue 20, San Cassiano, 39030, Italy",
-    "phone": "+390471849500",
+    "phone": "390471849500",
     "website": "http://www.st-hubertus.it",
     "opening_hours": [
       "closed",
@@ -4326,8 +4326,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Osteria Francescana",
@@ -4346,11 +4346,11 @@
     "coords": {
       "short_location_name": "Modena, Italy",
       "lat": "44.6448099",
-      "log": "10.9215518"
+      "lng": "10.9215518"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/emilia-romagna/modena/restaurant/osteria-francescana",
     "address": "via Stella 22, Modena, 41121, Italy",
-    "phone": "+39059223912",
+    "phone": "39059223912",
     "website": "http://osteriafrancescana.it",
     "opening_hours": [
       "12:30-16:00 20:00-23:30",
@@ -4372,8 +4372,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Reale",
@@ -4392,11 +4392,11 @@
     "coords": {
       "short_location_name": "Castel di Sangro, Italy",
       "lat": "41.77379",
-      "log": "14.10107"
+      "lng": "14.10107"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/abruzzo/castel-di-sangro/restaurant/reale",
     "address": "contrada Santa Liberata, localit\u00e0 Casadonna, Castel di Sangro, 67031, Italy",
-    "phone": "+39086469382",
+    "phone": "39086469382",
     "website": "http://www.nikoromito.com/reale",
     "opening_hours": [],
     "description": "This 16C monastery in a secluded and elevated setting overlooking Castel di Sangro has been sympathetically renovated in a manner that fully respects the building\u2019s history, transforming it into a superb restaurant with a splendid terrace and charming guestrooms, while the sublime cuisine served here is as impressive as the magnificent setting. The chef focuses on the essence of his ingredients in dishes which are apparently simple yet often the result of complex preparation and different cooking methods (smoking, the use of essences and extractions etc) so that the unique flavours of the dishes really shine through. An emphasis on healthy cuisine is also apparent: over the years, the cuisine has evolved to include more fish and vegetables (the tasting menu is entirely vegetarian), and less meat and fat. The bread, which the chef has been successfully developing over the past few years, also deserves a special mention thanks to its deliciously moist texture. As the chef himself says, this bread is a course in itself!",
@@ -4412,8 +4412,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Enoteca Pinchiorri",
@@ -4432,11 +4432,11 @@
     "coords": {
       "short_location_name": "Florence, Italy",
       "lat": "43.770066",
-      "log": "11.2621974"
+      "lng": "11.2621974"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/toscana/firenze/restaurant/enoteca-pinchiorri",
     "address": "via Ghibellina 87, Florence, 50122, Italy",
-    "phone": "+3905526311",
+    "phone": "3905526311",
     "website": "http://www.enotecapinchiorri.com",
     "opening_hours": [
       "closed",
@@ -4458,8 +4458,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Villa Crespi",
@@ -4478,11 +4478,11 @@
     "coords": {
       "short_location_name": "Orta San Giulio, Italy",
       "lat": "45.7964778",
-      "log": "8.4159486"
+      "lng": "8.4159486"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/piemonte/orta-san-giulio/restaurant/villa-crespi",
     "address": "via Fava 18, Orta San Giulio, 28016, Italy",
-    "phone": "+390322911902",
+    "phone": "390322911902",
     "website": "http://www.villacrespi.it",
     "opening_hours": [],
     "description": "It was Cristoforo Benigno Crespi, the owner of this splendid villa amid the beautiful landscapes of Lake D\u2019Orta, who chose its Moorish style in 1879, creating an exuberant decor of stucco and inlaid wood that conjures up exotic images of the Middle East. Today, careful renovation of the elegant dining rooms and veranda overlooking the garden adds to the charm. However, it was talented chef Antonino Cannavacciuolo who made this villa famous throughout Italy and further afield. This chef from Vico Equense has poured heart and soul into this restaurant (he has even named one of his menus \u201cAnima\u201d, the Italian for \u201csoul\u201d), using all his technical skill and precision to create dishes full of clean and distinct flavours. Two further tasting menus are available: the classic\u00a0Itinerario dal sud al nord Italia (A Journey from southern to northern Italy) and Traccia which explores flavours from Campania up to Piedmont with all the confidence that only truly great chefs can muster. Highly attentive service, plus a wine selection that includes labels from around the world.",
@@ -4497,8 +4497,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Dal Pescatore",
@@ -4517,11 +4517,11 @@
     "coords": {
       "short_location_name": "Runate, Italy",
       "lat": "45.1712728",
-      "log": "10.3565788"
+      "lng": "10.3565788"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/lombardia/runate/restaurant/dal-pescatore",
     "address": "localit\u00e0 Runate 15, Runate, 46013, Italy",
-    "phone": "+390376723001",
+    "phone": "390376723001",
     "website": "http://www.dalpescatore.com",
     "opening_hours": [],
     "description": "Having held three Michelin stars since 1996 (an Italian record), this restaurant is situated in the village of Runate which lies between Cremona and Mantova and has just a few dozen inhabitants. Now close to celebrating half a century in business, Dal Pescatore is run by an extraordinary couple who have transformed what was an old family inn into a temple of elegance and hospitality. Antonio Santini oversees the front of house, while his wife Nadia is at the helm in the kitchen, aided by sons Giovanni and Alberto. In a setting boasting an elegant mix of old and new, where space, light and colours combine to create an enchanting ambience, enjoy memorable dishes that have evolved over the decades, improving year after year without ever succumbing to modern trends so that the focus is always on flavour and the joy of good food. Dal Pescatore boasts a fairy-tale setting, occupying a delightful country house in the Parco dell\u2019Oglio.",
@@ -4538,8 +4538,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Da Vittorio",
@@ -4558,11 +4558,11 @@
     "coords": {
       "short_location_name": "Brusaporto, Italy",
       "lat": "45.6756778",
-      "log": "9.7692511"
+      "lng": "9.7692511"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/lombardia/brusaporto/restaurant/da-vittorio",
     "address": "via Cantalupa 17, Brusaporto, 24060, Italy",
-    "phone": "+39035681024",
+    "phone": "39035681024",
     "website": "http://www.davittorio.com",
     "opening_hours": [
       "12:30-14:30 19:30-22:00",
@@ -4587,8 +4587,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "La Pergola",
@@ -4607,11 +4607,11 @@
     "coords": {
       "short_location_name": "Rome, Italy",
       "lat": "41.9187946",
-      "log": "12.4461151"
+      "lng": "12.4461151"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/lazio/roma/restaurant/la-pergola69016",
     "address": "via Cadlolo 101, Rome, 00136, Italy",
-    "phone": "+390635092152",
+    "phone": "390635092152",
     "website": "https://romecavalieri.com/it/la-pergola-it/",
     "opening_hours": [
       "closed",
@@ -4636,8 +4636,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Piazza Duomo",
@@ -4656,11 +4656,11 @@
     "coords": {
       "short_location_name": "Alba, Italy",
       "lat": "44.7005555",
-      "log": "8.0359341"
+      "lng": "8.0359341"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/piemonte/alba/restaurant/piazza-duomo",
     "address": "vicolo dell'Arco 1, angolo piazza Risorgimento 4, Alba, 12051, Italy",
-    "phone": "+390173366167",
+    "phone": "390173366167",
     "website": "http://www.piazzaduomoalba.it",
     "opening_hours": [
       "closed",
@@ -4681,8 +4681,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Uliassi",
@@ -4701,11 +4701,11 @@
     "coords": {
       "short_location_name": "Senigallia, Italy",
       "lat": "43.7194609",
-      "log": "13.2206503"
+      "lng": "13.2206503"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/marche/senigallia/restaurant/uliassi",
     "address": "banchina di Levante 6, Senigallia, 60019, Italy",
-    "phone": "+3907165463",
+    "phone": "3907165463",
     "website": "http://www.uliassi.com",
     "opening_hours": [],
     "description": "The Adriatic Riviera, a picture-postcard summer holiday destination, is the setting for this fine restaurant run by chef Mauro Uliassi. Hidden among the private beach clubs that crowd Senigallia\u2019s seafront, this three-Michelin-starred restaurant comes as a surprise, surrounded as it is by beach parasols and the sound of the sea lapping on the shore. The strength and originality of Uliassi\u2019s cuisine lies in his ability to make good use of local ingredients, taking inspiration from the culinary traditions that have been so familiar and successful along this coastline over the past few decades and giving them a personal, creative twist. Fish and seafood obviously take pride of place, although there\u2019s also room on the menu for meat, inspired by the Marche\u2019s traditional game dishes, so that the sea and the mountains come together in a perfect reflection of the region\u2019s soul. The dining experience here is enhanced by the owners\u2019 warm welcome: Mauro\u2019s sister Catia and his son Filippo work alongside the chef. It\u2019s also worth mentioning that the restaurant is doing its bit for the local environment by banning the use of plastic and doing its utmost to persuade its fish suppliers not to use polystyrene to transport their fish.",
@@ -4720,8 +4720,8 @@
       "Terrace",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Le Calandre",
@@ -4740,11 +4740,11 @@
     "coords": {
       "short_location_name": "Rubano, Italy",
       "lat": "45.4215425",
-      "log": "11.8096633"
+      "lng": "11.8096633"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/veneto/rubano/restaurant/le-calandre",
     "address": "via Liguria 1, localit\u00e0 Sarmeola, Rubano, 35030, Italy",
-    "phone": "+39049630303",
+    "phone": "39049630303",
     "website": "http://alajmo.it",
     "opening_hours": [
       "closed",
@@ -4766,8 +4766,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Enrico Bartolini al Mudec",
@@ -4786,11 +4786,11 @@
     "coords": {
       "short_location_name": "Milan, Italy",
       "lat": "45.4516",
-      "log": "9.161865"
+      "lng": "9.161865"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/lombardia/milano/restaurant/enrico-bartolini-al-mudec",
     "address": "via Tortona 56, Milan, 20144, Italy",
-    "phone": "+390284293701",
+    "phone": "390284293701",
     "website": "http://www.enricobartolini.net",
     "opening_hours": [
       "closed",
@@ -4813,8 +4813,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Memories",
@@ -4833,11 +4833,11 @@
     "coords": {
       "short_location_name": "Bad Ragaz, Switzerland",
       "lat": "47.0002941",
-      "log": "9.5037741"
+      "lng": "9.5037741"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/sankt-gallen-region/bad-ragaz/restaurant/memories",
     "address": "Bernhard-Simon-Strasse 2, Bad Ragaz, 7310, Switzerland",
-    "phone": "+41813033036",
+    "phone": "41813033036",
     "website": "https://memories.ch/",
     "opening_hours": [
       "closed",
@@ -4862,8 +4862,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Restaurant de l'H\u00f4tel de Ville",
@@ -4882,11 +4882,11 @@
     "coords": {
       "short_location_name": "Crissier, Switzerland",
       "lat": "46.553994",
-      "log": "6.5766897"
+      "lng": "6.5766897"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/vaud/crissier/restaurant/restaurant-de-l-hotel-de-ville",
     "address": "Rue d'Yverdon 1, Crissier, 1023, Switzerland",
-    "phone": "+41216340505",
+    "phone": "41216340505",
     "website": "https://www.restaurantcrissier.com/",
     "opening_hours": [],
     "description": "Just ten minutes from Lausanne, this institution, referred to simply as the \u201cCrissier\u201d by its regulars, boasts a star-studded history that began back in 1955. Since its first stars acquired with Fr\u00e9dy Girardet in 1975, the Crissier has played host to a stellar cast of gifted chefs, among whom Philippe Rochat and Beno\u00eet Violier, and, now Franck Giovannini, who is at the helm of the imposing kitchen brigade after many years as second chef. He and his team craft high-flying and high-precision dishes that pay homage to culinary traditions, following in the footsteps of his illustrious predecessors: blue lobster marinated in F\u00e9chy single malt and iced Black Krim tomato juice; ravioles of green beans, Oscietra caviar and green juice of savory; red mullet, crispy olives, confit of aubergines in whole-grain mustard\u2026 In addition to set menus, the \u00e0 la carte offering is staggering. Consummate technique, impeccable balance and flawless service: the pinnacle of fine dining for an unforgettable meal.",
@@ -4901,8 +4901,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Schloss Schauenstein",
@@ -4921,11 +4921,11 @@
     "coords": {
       "short_location_name": "F\u00fcrstenau, Switzerland",
       "lat": "46.7211969",
-      "log": "9.4462648"
+      "lng": "9.4462648"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/graubunden/frstenau/restaurant/schloss-schauenstein",
     "address": "Schlossgass 77, F\u00fcrstenau, 7414, Switzerland",
-    "phone": "+41816321080",
+    "phone": "41816321080",
     "website": "https://schauenstein.ch/",
     "opening_hours": [
       "closed",
@@ -4947,8 +4947,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Cheval Blanc by Peter Knogl",
@@ -4967,11 +4967,11 @@
     "coords": {
       "short_location_name": "Basel, Switzerland",
       "lat": "47.5604261",
-      "log": "7.5875706"
+      "lng": "7.5875706"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/basel-stadt/basel/restaurant/cheval-blanc-by-peter-knogl",
     "address": "Blumenrain 8, Basel, 4001, Switzerland",
-    "phone": "+41612605007",
+    "phone": "41612605007",
     "website": "https://www.chevalblancbasel.com/en",
     "opening_hours": [
       "closed",
@@ -4993,8 +4993,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Mosu",
@@ -5013,11 +5013,11 @@
     "coords": {
       "short_location_name": "Seoul, South Korea",
       "lat": "37.53644",
-      "log": "126.99935"
+      "lng": "126.99935"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/seoul-capital-area/kr-seoul/restaurant/mosu",
     "address": "45 Itaewon-ro 55ga-gil, Yongsan-gu, Seoul, South Korea",
-    "phone": "+822-793-5995",
+    "phone": "8227935995",
     "website": "http://mosuseoul.com",
     "opening_hours": [
       "closed",
@@ -5033,8 +5033,8 @@
       "Particularly interesting wine list",
       "Valet parking"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Gaon",
@@ -5053,11 +5053,11 @@
     "coords": {
       "short_location_name": "Seoul, South Korea",
       "lat": "37.52265",
-      "log": "127.03595"
+      "lng": "127.03595"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/seoul-capital-area/kr-seoul/restaurant/gaon",
     "address": "M Floor Horim Art Center, 317 Dosan-daero, Gangnam-gu, Seoul, South Korea",
-    "phone": "+822-545-9845",
+    "phone": "8225459845",
     "website": "http://gaonkr.com",
     "opening_hours": [
       "closed",
@@ -5074,8 +5074,8 @@
       "Valet parking",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Chef's Table at Brooklyn Fare",
@@ -5094,11 +5094,11 @@
     "coords": {
       "short_location_name": "New York, USA",
       "lat": "40.7560823",
-      "log": "-73.9964997"
+      "lng": "-73.9964997"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/new-york-state/new-york/restaurant/chef-s-table-at-brooklyn-fare",
     "address": "431 W. 37th St., New York, 10018, USA",
-    "phone": "+1718-243-0050",
+    "phone": "17182430050",
     "website": "https://www.brooklynfare.com/",
     "opening_hours": [
       "17:00-22:00",
@@ -5117,8 +5117,8 @@
       "Particularly interesting wine list",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Per Se",
@@ -5137,11 +5137,11 @@
     "coords": {
       "short_location_name": "New York, USA",
       "lat": "40.7680545",
-      "log": "-73.9825882"
+      "lng": "-73.9825882"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/new-york-state/new-york/restaurant/per-se",
     "address": "10 Columbus Circle, New York, 10019, USA",
-    "phone": "+1212-823-9335",
+    "phone": "12128239335",
     "website": "https://www.thomaskeller.com/perseny",
     "opening_hours": [
       "16:30-20:30",
@@ -5162,8 +5162,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Le Bernardin",
@@ -5182,11 +5182,11 @@
     "coords": {
       "short_location_name": "New York, USA",
       "lat": "40.76177",
-      "log": "-73.98223"
+      "lng": "-73.98223"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/new-york-state/new-york/restaurant/le-bernardin",
     "address": "155 W. 51st St., New York, 10019, USA",
-    "phone": "+1212-554-1515",
+    "phone": "12125541515",
     "website": "https://www.le-bernardin.com/",
     "opening_hours": [
       "12:00-14:30 17:00-22:30",
@@ -5207,8 +5207,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Masa",
@@ -5227,11 +5227,11 @@
     "coords": {
       "short_location_name": "New York, USA",
       "lat": "40.76819",
-      "log": "-73.98234"
+      "lng": "-73.98234"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/new-york-state/new-york/restaurant/masa",
     "address": "10 Columbus Circle, New York, 10019, USA",
-    "phone": "+1212-823-9800",
+    "phone": "12128239800",
     "website": "https://www.masanyc.com/",
     "opening_hours": [
       "closed",
@@ -5250,8 +5250,8 @@
       "Notable sake list",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Eleven Madison Park",
@@ -5270,11 +5270,11 @@
     "coords": {
       "short_location_name": "New York, USA",
       "lat": "40.7415543",
-      "log": "-73.9872414"
+      "lng": "-73.9872414"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/new-york-state/new-york/restaurant/eleven-madison-park",
     "address": "11 Madison Ave., New York, 10010, USA",
-    "phone": "+1212-889-0905",
+    "phone": "12128890905",
     "website": "https://www.elevenmadisonpark.com/",
     "opening_hours": [
       "17:30-22:00",
@@ -5296,8 +5296,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Kashiwaya Osaka Senriyama",
@@ -5316,11 +5316,11 @@
     "coords": {
       "short_location_name": "Osaka, Japan",
       "lat": "34.770287",
-      "log": "135.501289"
+      "lng": "135.501289"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/osaka-region/osaka/restaurant/kashiwaya-1193128",
     "address": "2-5-18 Senriyamanishi, Suita, Osaka, 565-0851, Japan",
-    "phone": "+816-6386-2234",
+    "phone": "81663862234",
     "website": "https://jp-kashiwaya.com/",
     "opening_hours": [
       "12:00-15:30 18:00-22:00",
@@ -5344,8 +5344,8 @@
       "Shoes must be removed",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Isshisoden Nakamura",
@@ -5364,11 +5364,11 @@
     "coords": {
       "short_location_name": "Kyoto, Japan",
       "lat": "35.010397",
-      "log": "135.765083"
+      "lng": "135.765083"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/kyoto-region/kyoto/restaurant/isshisoden-nakamura",
     "address": "136 Matsushitacho, Nakagyo-ku, Kyoto, 604-8093, Japan",
-    "phone": "+8175-221-5511",
+    "phone": "81752215511",
     "website": "http://www.kyoryori-nakamura.com/",
     "opening_hours": [],
     "description": "The name \u2018Isshisoden\u2019 does not refer to a closely guarded preparation method; rather it refers to the fact that, through the generations, the owner-chefs have preserved the Nakamura taste in the same way that miso and soy sauce flavours are adjusted to suit the season. Sweetness, saltiness, sourness, bitterness and umami come together in the shiromiso zoni. It perfectly embodies the \u2018harmony of five flavours\u2019 spoken of by the current, sixth-generation owner-chef Motokazu Nakamura.",
@@ -5382,8 +5382,8 @@
       "Shoes must be removed",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Mizai",
@@ -5402,11 +5402,11 @@
     "coords": {
       "short_location_name": "Kyoto, Japan",
       "lat": "35.002993",
-      "log": "135.782364"
+      "lng": "135.782364"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/kyoto-region/kyoto/restaurant/mizai",
     "address": "613 Maruyamacho, Higashiyama-ku, Kyoto, 605-0071, Japan",
-    "phone": "+8175-551-3310",
+    "phone": "81755513310",
     "website": "https://mizai.jp/",
     "opening_hours": [],
     "description": "\u2018Mizai\u2019 means \u2018not there yet\u2019, the creed by which owner-chef Hitoshi Ishihara lives. All guests are served at the same time under the concept of \u2018building together\u2019 to facilitate communication. Rice is served freshly steamed rice and scorched to signify thanksgiving to Japan for her bounty. The matcha is made with holy water from Yasaka Shrine. Taking to heart the counsel of 16C tea master Sen-no-Rikyu, \u2018arrive before the appointed time\u2019, Ishihara is already waiting for customers at 6:00 p.m.",
@@ -5416,8 +5416,8 @@
       "Counter dining",
       "Notable sake list"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Hyotei",
@@ -5436,11 +5436,11 @@
     "coords": {
       "short_location_name": "Kyoto, Japan",
       "lat": "35.011328",
-      "log": "135.786603"
+      "lng": "135.786603"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/kyoto-region/kyoto/restaurant/hyotei",
     "address": "35 Nanzenji Kusagawacho, Sakyo-ku, Kyoto, 606-8437, Japan",
-    "phone": "+8175-771-4116",
+    "phone": "81757714116",
     "website": "http://hyotei.co.jp/",
     "opening_hours": [],
     "description": "The main building with its shingled roof and the tearoom, Kuzuya, testify to 450 years of history. The ryotei has been in the same family for 15 generations, but no single approach rules when it comes to the cooking, say the chefs. In place of the katsuo-bushi, the dashi is drawn from dried tuna, after the style of a previous owner-chef, Eiichi Takahashi. Seasoning the Akashi tai tsukuri with tomato soy sauce was the idea of the current owner-chef, Yoshihiro Takahashi.",
@@ -5455,8 +5455,8 @@
       "Shoes must be removed",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Maeda",
@@ -5475,11 +5475,11 @@
     "coords": {
       "short_location_name": "Kyoto, Japan",
       "lat": "35.001599",
-      "log": "135.774161"
+      "lng": "135.774161"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/kyoto-region/kyoto/restaurant/maeda",
     "address": "570-118 Giommachi Minamigawa, Higashiyama-ku, Kyoto, 605-0074, Japan",
-    "phone": "+8175-525-5577",
+    "phone": "81755255577",
     "website": "",
     "opening_hours": [
       "17:00-21:00",
@@ -5501,8 +5501,8 @@
       "Mastercard credit card",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Gion Sasaki",
@@ -5521,11 +5521,11 @@
     "coords": {
       "short_location_name": "Kyoto, Japan",
       "lat": "34.998881",
-      "log": "135.775049"
+      "lng": "135.775049"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/kyoto-region/kyoto/restaurant/gion-sasaki",
     "address": "566-27 Komatsucho, Higashiyama-ku, Kyoto, 605-0811, Japan",
-    "phone": "+8175-551-5000",
+    "phone": "81755515000",
     "website": "http://gionsasaki.com/",
     "opening_hours": [],
     "description": "Due to renovation, this restaurant is temporarily closed until mid-July. Owner-chef Hiroshi Sasaki pursues dishes that are at once fun and delicious, an approach he calls \u201crakumi\u201d. He charms with the boundless creativity of his menu and his own lively manner. Ingredients such as bamboo shoots and awabi are baked in a stone oven at high heat to draw out the flavour. As soon as the lids are lifted on the bowls of stewed items, the aroma bursts out. Classic service with a creative twist is the Sasaki style that so impresses diners.",
@@ -5540,8 +5540,8 @@
       "Shoes must be removed",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "HAJIME",
@@ -5560,11 +5560,11 @@
     "coords": {
       "short_location_name": "Osaka, Japan",
       "lat": "34.688612",
-      "log": "135.496084"
+      "lng": "135.496084"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/osaka-region/osaka/restaurant/hajime",
     "address": "1-9-11 Edobori, Nishi-ku, Osaka, 550-0002, Japan",
-    "phone": "+816-6447-6688",
+    "phone": "81664476688",
     "website": "http://www.hajime-artistes.com/",
     "opening_hours": [
       "17:30-20:30",
@@ -5587,8 +5587,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Taian",
@@ -5607,11 +5607,11 @@
     "coords": {
       "short_location_name": "Osaka, Japan",
       "lat": "34.673353",
-      "log": "135.507205"
+      "lng": "135.507205"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/osaka-region/osaka/restaurant/taian",
     "address": "1-21-2 Shimanouchi, Chuo-ku, Osaka, 542-0082, Japan",
-    "phone": "+816-6120-0790",
+    "phone": "81661200790",
     "website": "",
     "opening_hours": [],
     "description": "Hitoshi Takahata pushes his craft forward every day and borrows ingredients from French cuisine. White asparagus are coated in ground senbei rice crackers and deep fried; in autumn, the takikomi-gohan features mushrooms such as hen-of-the-woods and chanterelle; and duck from Challans is charcoal-grilled and seasoned with sansho salt. By fusing the ingredients and cultures of France and Japan, Taian reveals a new generation of Japanese cuisine.",
@@ -5625,8 +5625,8 @@
       "Mastercard credit card",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Kikunoi Honten",
@@ -5645,11 +5645,11 @@
     "coords": {
       "short_location_name": "Kyoto, Japan",
       "lat": "35.001535",
-      "log": "135.782079"
+      "lng": "135.782079"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/kyoto-region/kyoto/restaurant/kikunoi-honten",
     "address": "459 Shimokawaracho, Higashiyama-ku, Kyoto, 605-0825, Japan",
-    "phone": "+8175-561-0015",
+    "phone": "81755610015",
     "website": "https://kikunoi.jp/",
     "opening_hours": [],
     "description": "\u201cThe ryotei is the art gallery of the Japanese aesthetic\u201d, observes owner-chef Yoshihiro Murata. His restaurant\u2019s elegant garden and interior bespeak a gracious atmosphere born of unbroken tradition. The fare is presented in a menu that encapsulates elegant simplicity with an affectionate, pretty aspect to it, known as \u201ckirei sabi\u201d. Innovation gives birth to tradition as Western elements such as foie gras and truffles blow a fresh breeze through the halls of Japanese cuisine.",
@@ -5664,8 +5664,8 @@
       "Shoes must be removed",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Le Palais",
@@ -5684,11 +5684,11 @@
     "coords": {
       "short_location_name": "Taipei, Taiwan",
       "lat": "25.049071",
-      "log": "121.51696"
+      "lng": "121.51696"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/taipei-region/taipei/restaurant/le-palais",
     "address": "17F, Palais de Chine Hotel, 3, Section 1, Chengde Road, Datong District, Taipei, 103, Taiwan",
-    "phone": "+886221819985",
+    "phone": "886221819985",
     "website": "https://www.palaisdechinehotel.com/p/pdc_tw/pages/lepalais",
     "opening_hours": [
       "11:30-14:30 17:30-21:30",
@@ -5711,8 +5711,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Les Amis",
@@ -5731,11 +5731,11 @@
     "coords": {
       "short_location_name": "Singapore",
       "lat": "1.30626",
-      "log": "103.83204"
+      "lng": "103.83204"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/singapore-region/singapore/restaurant/les-amis",
     "address": "Shaw Centre, #01-16, 1 Scotts Road, 228208, Singapore",
-    "phone": "+6567332225",
+    "phone": "6567332225",
     "website": "https://www.lesamis.com.sg/",
     "opening_hours": [
       "12:00-14:00 19:00-21:00",
@@ -5762,8 +5762,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Odette",
@@ -5782,11 +5782,11 @@
     "coords": {
       "short_location_name": "Singapore",
       "lat": "1.2896459",
-      "log": "103.8516"
+      "lng": "103.8516"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/singapore-region/singapore/restaurant/odette",
     "address": "National Gallery, #01-04, 1 St. Andrew's Road (entrance via Supreme Court wing's foyer), 178957, Singapore",
-    "phone": "+6563850498",
+    "phone": "6563850498",
     "website": "http://www.odetterestaurant.com",
     "opening_hours": [
       "closed",
@@ -5812,8 +5812,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Z\u00e9n",
@@ -5832,11 +5832,11 @@
     "coords": {
       "short_location_name": "Singapore",
       "lat": "1.2796271",
-      "log": "103.84042"
+      "lng": "103.84042"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/singapore-region/singapore/restaurant/zen",
     "address": "41 Bukit Pasoh Road, 089855, Singapore",
-    "phone": "+6592366368",
+    "phone": "6592366368",
     "website": "http://www.restaurantzen.com",
     "opening_hours": [
       "closed",
@@ -5857,8 +5857,8 @@
       "Restaurant offering vegetarian menus",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Maaemo",
@@ -5877,11 +5877,11 @@
     "coords": {
       "short_location_name": "Oslo, Norway",
       "lat": "59.9075293",
-      "log": "10.7586363"
+      "lng": "10.7586363"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/oslo-region/oslo/restaurant/maaemo-1194933",
     "address": "Dronning Eufemias gate 23, Oslo, 0194, Norway",
-    "phone": "+4722179969",
+    "phone": "4722179969",
     "website": "http://www.maaemo.no",
     "opening_hours": [
       "18:00-00:00",
@@ -5900,8 +5900,8 @@
       "Mastercard credit card",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Geranium",
@@ -5920,11 +5920,11 @@
     "coords": {
       "short_location_name": "Copenhagen, Denmark",
       "lat": "55.7040847",
-      "log": "12.5725289"
+      "lng": "12.5725289"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/capital-region/copenhagen/restaurant/geranium",
     "address": "Per Henrik Lings All\u00e9, Parken National Stadium, Copenhagen, 2100 \u00d8, Denmark",
-    "phone": "+4569960020",
+    "phone": "4569960020",
     "website": "https://www.geranium.dk/",
     "opening_hours": [
       "closed",
@@ -5948,8 +5948,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "noma",
@@ -5968,11 +5968,11 @@
     "coords": {
       "short_location_name": "Copenhagen, Denmark",
       "lat": "55.6833118",
-      "log": "12.6106175"
+      "lng": "12.6106175"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/capital-region/copenhagen/restaurant/noma",
     "address": "Refshalevej 96, Copenhagen, 1432 K, Denmark",
-    "phone": "+4532963297",
+    "phone": "4532963297",
     "website": "https://noma.dk",
     "opening_hours": [
       "closed",
@@ -5994,8 +5994,8 @@
       "Visa credit card",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Frantz\u00e9n",
@@ -6014,11 +6014,11 @@
     "coords": {
       "short_location_name": "Stockholm, Sweden",
       "lat": "59.3341673",
-      "log": "18.0597575"
+      "lng": "18.0597575"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/stockholm-region/stockholm/restaurant/frantzen",
     "address": "Klara Norra Kyrkogata 26, Stockholm, 111 22, Sweden",
-    "phone": "+468208580",
+    "phone": "468208580",
     "website": "https://www.restaurantfrantzen.com/",
     "opening_hours": [
       "closed",
@@ -6040,8 +6040,8 @@
       "Particularly interesting wine list",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "The Inn at Little Washington",
@@ -6060,11 +6060,11 @@
     "coords": {
       "short_location_name": "Washington, USA",
       "lat": "38.7134767",
-      "log": "-78.1595348"
+      "lng": "-78.1595348"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/district-of-columbia/washington-dc/restaurant/the-inn-at-little-washington",
     "address": "309 Middle St., Washington, 22747, USA",
-    "phone": "+1540-675-3800",
+    "phone": "15406753800",
     "website": "https://www.theinnatlittlewashington.com/",
     "opening_hours": [],
     "description": "Set 90 minutes from DC in a town whose very existence seems tied to the restaurant, this is a destination in every sense of the word. Embellished to the very last inch, the dining room resembles a jewel box lined with patterned carpets, lush wallpaper and shimmering fabrics.The restaurant may be over 40 years old, but Chef Patrick O\u2019Connell\u2019s cuisine shines as brightly as ever. Each menu has a\u00a0unique focus, as in the \u201cGastronaut\" and \u201cThe Good Earth,\u201d offering superb vegetarian items. Guests can also graze through the menus to get a full sense of what the team can do. Sauces work a particular magic, as evidenced by the truffle-infused tartar with morel \u201ccrabcake.\u201d Desserts, like coconut sorbet with ginger granit\u00e9, are perfection.",
@@ -6078,8 +6078,8 @@
       "Valet parking",
       "Visa credit card"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   },
   {
     "name": "Alinea",
@@ -6098,11 +6098,11 @@
     "coords": {
       "short_location_name": "Chicago, USA",
       "lat": "41.9132737",
-      "log": "-87.648174"
+      "lng": "-87.648174"
     },
     "link_to_detail_url": "https://guide.michelin.com/at/en/illinois/chicago/restaurant/alinea",
     "address": "1723 N. Halsted St., Chicago, 60614, USA",
-    "phone": "+1312-867-0110",
+    "phone": "13128670110",
     "website": "https://www.alinearestaurant.com/",
     "opening_hours": [
       "17:00-22:00",
@@ -6122,7 +6122,7 @@
       "Valet parking",
       "Wheelchair access"
     ],
-    "create_at": "May 29, 2023",
-    "update_at": "May 29, 2023"
+    "created_at": "May 29, 2023",
+    "updated_at": "May 29, 2023"
   }
 ]

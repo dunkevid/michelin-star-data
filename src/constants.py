@@ -19,7 +19,7 @@ HTML_CLASS_NAME = {
   'd_r_detail_address': 'restaurant-details__heading--address',
   'd_r_detail_description': 'restaurant-details__description--text',
   'd_r_detail_facilities_and_services': 'row restaurant-details__services--list',
-  'd_r_detail_information': 'link js-dtm-link',
+  'd_r_detail_information': 'link js-dtm-link', # Phone and Website
   'd_r_detail_opening_hours': 'open__time d-flex',
 }
 
