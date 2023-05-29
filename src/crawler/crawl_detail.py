@@ -8,13 +8,17 @@ def get_detail_address(html):
 
 def get_detail_phone_number(html):
   element = html.find_all('a', class_=HTML_CLASS_NAME['d_r_detail_information'])
-  phone_number = element[0].get('href').replace('tel:', '').replace(' ', '')
+  phone_number = element[0].get('href').replace('tel:', '').replace(' ', '') \
+    if len(element) > 1 \
+    else ''
 
   return phone_number
 
 def get_detail_website(html):
   element = html.find_all('a', class_=HTML_CLASS_NAME['d_r_detail_information'])
-  website = element[1].get('href')
+  website = element[1].get('href') \
+    if len(element) > 1 \
+    else ''
 
   return website
 

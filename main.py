@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from datetime import date
 
 from src.constants import HTML_CLASS_NAME
 from src.request import request_to_restaurant_list_page, request_to_restaurant_details_page
@@ -6,12 +7,12 @@ from src.crawler.main import get_restaurant, get_restaurant_details
 from src.file import write_data_to_json_file
 from src.utils import get_michelin_star_data_path
 
-MICHELIN_STAR_NUM = 3
+MICHELIN_STAR_NUM = 1
 PAGE = 1
 RESTAURANTS = []
 
 while True:
-  print('Page: {}'.format(PAGE))
+  print('Star: {} - Crawling page: {}'.format(MICHELIN_STAR_NUM ,PAGE))
   # Get Restaurant List
   res_restaurant_list = request_to_restaurant_list_page(MICHELIN_STAR_NUM, PAGE)
   if (res_restaurant_list):
@@ -23,8 +24,12 @@ while True:
     )
   
   if (len(list_restaurants_elements) == 0):
-    print('Not found')
-    break
+    if (MICHELIN_STAR_NUM < 3):
+      MICHELIN_STAR_NUM += 1
+      PAGE = 1
+    else:
+      print('✨ Done')
+      break
   else:
     for item in list_restaurants_elements:
       restaurant_preview = get_restaurant(item)
@@ -41,13 +46,18 @@ while True:
 
       # Merge 2 dicts
       restaurant = dict(restaurant_preview, **restaurant_details)
+      # Add time
+      restaurant['create_at'] = date.today().strftime("%B %d, %Y")
+      restaurant['update_at'] = date.today().strftime("%B %d, %Y")
       
       RESTAURANTS.append(restaurant)
 
-    # PAGE += 1
+    # Store data to json file
     path = get_michelin_star_data_path(MICHELIN_STAR_NUM)
     write_data_to_json_file(RESTAURANTS, path)
-    break
+    
+    RESTAURANTS = []
+    PAGE += 1
 
       
         
