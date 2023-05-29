@@ -51,8 +51,9 @@ def get_detail_facilities_and_services(html):
   services = []
   element = html.find('ul', class_=HTML_CLASS_NAME['d_r_detail_facilities_and_services'])
 
-  for item in element.find_all('li'):
-    service = item.text.strip()
-    services.append(service)
+  if element:
+    for item in element.find_all('li'):
+      service = item.text.strip()
+      services.append(service)
 
   return services
