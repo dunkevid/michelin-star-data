@@ -1,5 +1,5 @@
-from src.constants import HTML_CLASS_NAME, ROOT_URL
 from bs4 import BeautifulSoup
+from src.constants import HTML_CLASS_NAME, ROOT_URL
 
 def get_restaurant_name(html):
   element = html.find('h3', class_=HTML_CLASS_NAME['l_r_name'])
@@ -76,4 +76,3 @@ def get_retaurent_detail_url(html):
   detail_url = '{}{}'.format(ROOT_URL, href)
 
   return detail_url
-
