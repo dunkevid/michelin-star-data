@@ -33,6 +33,6 @@ jobs:
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
 
-        git add ./storage/vinepair
+        git add ./data/michelin-star
         git commit -m "actions: add new michelin star data"
         git push
