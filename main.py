@@ -21,13 +21,13 @@ def main(
   current_date = get_current_date_str()
 
   while True:
-    if (START_PAGE >= END_PAGE and END_PAGE != -1):
+    if START_PAGE >= END_PAGE and END_PAGE != -1:
       break
     
     logger.info('Star: {} - Crawling page: {}'.format(MICHELIN_STAR_NUM, START_PAGE))
     # Get Restaurant List
     res_restaurant_list = request_to_restaurant_list_page(MICHELIN_STAR_NUM, START_PAGE)
-    if (res_restaurant_list):
+    if res_restaurant_list:
       list_restaurant_elements = get_list_restaurant_elements(res_restaurant_list)
     
     if len(list_restaurant_elements) == 0:
@@ -63,5 +63,3 @@ def main(
       
       RESTAURANTS = []
       START_PAGE += 1
-
-main()

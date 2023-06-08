@@ -1,3 +1,4 @@
 request
 bs4
 lxml
+coloredlogs

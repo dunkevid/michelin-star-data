@@ -1,0 +1,38 @@
+name: Schedule daily crawling of Michelin star data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  michelin-crawler:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+    
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.10.11'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
+    - run: python index.py
+    
+    - name: Verify Changed files
+      uses: tj-actions/verify-changed-files@v12
+      id: verify-changed-files
+      with:
+        files: |
+          data/michelin-star
+    
+    - name: Commit and Push when any of the above files change
+      if: steps.verify-changed-files.outputs.files_changed == 'true'
+      run: |
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+
+        git add ./storage/vinepair
+        git commit -m "actions: add new michelin star data"
+        git push

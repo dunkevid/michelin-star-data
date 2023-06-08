@@ -1,11 +1,9 @@
 import os
 import json
-
-def _is_file_exists(path):
-  return os.path.isfile(path)
+from src.utils.check_file_exists import is_file_exists
 
 def write_data_to_json_file(data, path):
-  if not _is_file_exists(path):
+  if not is_file_exists(path):
     f = open(path, 'x')
     f.close()
 
