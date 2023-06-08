@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from src.constants import HTML_CLASS_NAME
+from src.utils.constants import HTML_CLASS_NAME
 
 def get_list_restaurant_elements(res_restaurant_list):
   soup = BeautifulSoup(res_restaurant_list, 'lxml')

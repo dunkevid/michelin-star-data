@@ -4,12 +4,12 @@ from src.crawler.crawl_detail import *
 def get_restaurant(html):
   restaurant_preview = {
     'name': get_restaurant_name(html),
-    'image_thumb': get_restaurant_image_thumb(html),
+    'image': get_restaurant_image_thumb(html),
     'price': get_restaurant_price(html),
     'type': get_restaurent_type(html),
     'awards': get_restaurant_awards(html),
-    'coords': get_restaurant_coordinates(html),
-    'link_to_detail_url': get_retaurent_detail_url(html)
+    'position': get_restaurant_coordinates(html),
+    'link': get_retaurent_detail_url(html)
   }
 
   return restaurant_preview

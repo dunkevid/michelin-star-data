@@ -1,4 +1,4 @@
-from src.constants import HTML_CLASS_NAME
+from src.utils.constants import HTML_CLASS_NAME
 
 def get_detail_address(html):
   element = html.find('li', class_=HTML_CLASS_NAME['d_r_detail_address'])

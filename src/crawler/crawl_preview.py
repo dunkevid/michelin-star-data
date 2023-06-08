@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from src.constants import HTML_CLASS_NAME, ROOT_URL
+from src.utils.constants import HTML_CLASS_NAME, ROOT_URL
 
 def get_restaurant_name(html):
   element = html.find('h3', class_=HTML_CLASS_NAME['l_r_name'])
@@ -55,10 +55,15 @@ def get_restaurant_coordinates(html):
   short_location_element = html.find('div', class_=HTML_CLASS_NAME['l_r_short_location'])
   coords_element = html.find('div', class_=HTML_CLASS_NAME['l_r_coords'])
 
+  short_location_name = short_location_element.text.strip()
+
   return {
-    'short_location_name': short_location_element.text.strip(),
-    'lat': coords_element.get('data-lat'),
-    'lng': coords_element.get('data-lng')
+    'location': {
+      'region': short_location_name.split(',')[-1].strip(),
+      'city': short_location_name.split(',')[0].strip()
+    },
+    'latitude': coords_element.get('data-lat'),
+    'longtitude': coords_element.get('data-lng')
   }
 
 def get_restaurent_type(html):

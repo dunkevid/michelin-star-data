@@ -51,3 +51,6 @@ docs/_build/
 
 # Macos
 .DS_Store
+
+# Test
+test.py
