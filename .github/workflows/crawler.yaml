@@ -42,4 +42,4 @@ jobs:
 
         git add ./data/michelin-star
         git commit -m "actions: add new michelin star data"
-        git push
+        git push origin main
