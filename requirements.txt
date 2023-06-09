@@ -1,4 +1,4 @@
-request
-bs4
-lxml
-coloredlogs
+requests==2.30.0
+bs4==0.0.1
+lxml==4.9.2
+coloredlogs==15.0.1
