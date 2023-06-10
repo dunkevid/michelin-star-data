@@ -6,7 +6,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  michelin-crawler:
+  crawl:
     runs-on: ubuntu-latest
 
     permissions:
@@ -24,7 +24,7 @@ jobs:
     - run: python3 -m pip install --upgrade pip
     # Install dependencies
     - run: pip3 install -r requirements.txt
-    # Run crawling script
+    # Run crawl script
     - run: python index.py
     
     - name: Verify Changed files
@@ -42,4 +42,44 @@ jobs:
 
         git add ./data/michelin-star
         git commit -m "actions: add new michelin star data"
+        git push origin main
+
+  aggregate:
+    needs: crawl
+    
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+    
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.10.11'
+        cache: 'pip'
+    # Upgrade pip
+    - run: python3 -m pip install --upgrade pip
+    # Install dependencies
+    - run: pip3 install -r requirements.txt
+    # Run aggregator script
+    - run: python aggregator.py
+    
+    - name: Verify Changed files
+      uses: tj-actions/verify-changed-files@v12
+      id: verify-changed-files
+      with:
+        files: |
+          data
+    
+    - name: Commit and Push when any of the above files change
+      if: steps.verify-changed-files.outputs.files_changed == 'true'
+      run: |
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+
+        git add ./data
+        git commit -m "actions: add aggregated data"
         git push origin main
