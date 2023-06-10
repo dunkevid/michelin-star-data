@@ -2,3 +2,6 @@ requests>=2.31.0
 bs4==0.0.1
 lxml==4.9.2
 coloredlogs==15.0.1
+pandas==2.0.1
+# google-cloud-bigquery==3.11.0
+# google-cloud-bigquery-storage==2.20.0
