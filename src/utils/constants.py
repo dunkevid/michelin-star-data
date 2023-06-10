@@ -25,3 +25,4 @@ HTML_CLASS_NAME = {
   'd_r_detail_opening_hours': 'open__time d-flex',
 }
 
+DATE_FORMAT = '%Y-%m-%d'
