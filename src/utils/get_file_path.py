@@ -43,6 +43,6 @@ def get_or_create_change_logs_file_path():
   return path
 
 def get_gcb_credential_file_path():
-  path = './src/config/credential/michelin-star-data-5f4549b1d661.json'
+  path = './credential/gcb-credentials.json'
 
   return path
