@@ -98,6 +98,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    env:
+      GCB_CREDENTIALS: ${{ secrets.GCB_CREDENTIALS }}
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -106,10 +109,7 @@ jobs:
         with:
           python-version: '3.10.11'
           cache: 'pip'
-
-      - name: Set up Google Cloud credentials
-        run: echo "${{ secrets.GCB_CREDENTIALS }}" > gcb_credentials.json
       
       - run: python3 -m pip install --upgrade pip
       - run: pip3 install -r requirements.txt
-      - run: python load_into_gcb.py gcb_credentials.json
+      - run: python load_into_gcb.py

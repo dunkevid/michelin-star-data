@@ -16,7 +16,7 @@ def _get_credients():
       .from_service_account_file(path)
   else:
     logger.info('GET GCB CREDENTIALS FROM SECRET VARIABLES')
-    secret_value = os.getenv('SECRET_GCB_CREDENTIALS')
+    secret_value = os.environ['GCB_CREDENTIALS']
     secret_value_json = json.loads(secret_value)
     return service_account.Credentials \
       .from_service_account_info(secret_value_json)
