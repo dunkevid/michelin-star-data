@@ -41,3 +41,8 @@ def get_or_create_change_logs_file_path():
     f.close()
 
   return path
+
+def get_gcb_credential_file_path():
+  path = './src/config/credential/michelin-star-data-5f4549b1d661.json'
+
+  return path
