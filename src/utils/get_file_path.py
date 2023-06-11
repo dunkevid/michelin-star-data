@@ -41,3 +41,8 @@ def get_or_create_change_logs_file_path():
     f.close()
 
   return path
+
+def get_gcb_credential_file_path():
+  path = './credential/gcb-credentials.json'
+
+  return path
