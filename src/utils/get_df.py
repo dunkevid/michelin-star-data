@@ -4,6 +4,7 @@ from src.utils.get_file_path import \
   get_latest_michelin_data_file_path, \
   get_or_create_aggregator_file_path, \
   get_or_create_change_logs_file_path
+from src.utils.get_iso_3166_1_alpha_2_code import get_iso_3166_1_alpha_2_code
 
 def get_latest_restaurants_df():
   path = get_latest_michelin_data_file_path()
@@ -27,6 +28,12 @@ def get_latest_restaurants_df():
       'position.location.city': 'city',
     },
     inplace=True
+  )
+
+  # Add iso_3166_1_alpha_2 code
+  df['iso_3166_1_alpha_2_code'] = df.apply(
+    lambda x: get_iso_3166_1_alpha_2_code(x['region']),
+    axis=1
   )
 
   return df

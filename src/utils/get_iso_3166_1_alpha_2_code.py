@@ -1,0 +1,51 @@
+COUNTRY_CODES = {
+  'Abu Dhabi': 'AE',
+  'Andorra': 'AD',
+  'Austria': 'AT',
+  'Belgium': 'BE',
+  'Brazil': 'BR',
+  'Canada': 'CA',
+  'China Mainland': 'CN',
+  'Croatia': 'HR',
+  'Czech Republic': 'CZ',
+  'Denmark': 'DK',
+  'Dubai': 'AE',
+  'Estonia': 'EE',
+  'Finland': 'FI',
+  'France': 'FR',
+  'Germany': 'DE',
+  'Greece': 'GR',
+  'Hong Kong': 'HK',
+  'Hong Kong SAR China': 'HK',
+  'Hungary': 'HU',
+  'Iceland': 'IS',
+  'Ireland': 'IE',
+  'Italy': 'IT',
+  'Japan': 'JP',
+  'Luxembourg': 'LU',
+  'Macau': 'MO',
+  'Malaysia': 'MY',
+  'Malta': 'MT',
+  'Netherlands': 'NL',
+  'Norway': 'NO',
+  'Poland': 'PL',
+  'Portugal': 'PT',
+  'Singapore': 'SG',
+  'Slovenia': 'SI',
+  'South Korea': 'KR',
+  'Spain': 'ES',
+  'Sweden': 'SE',
+  'Switzerland': 'CH',
+  'Taiwan': 'TW',
+  'Thailand': 'TH',
+  'Türkiye': 'TR',
+  'USA': 'US',
+  'United Kingdom': 'GB',
+  'Vietnam': 'VN'
+}
+
+def get_iso_3166_1_alpha_2_code(country_name):
+  try:
+    return COUNTRY_CODES[country_name]
+  except:
+    return None
