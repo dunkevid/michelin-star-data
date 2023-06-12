@@ -62,6 +62,13 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+
+      - name: Get current branch name
+        id: branch_name
+        run: echo "BRANCH_NAME=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
+
+      - name: Git Pull
+        run: git pull origin ${{ env.BRANCH_NAME }}
       
       - uses: actions/setup-python@v4
         with:
@@ -77,10 +84,6 @@ jobs:
         with:
           files: |
             data
-      
-      - name: Get current branch name
-        id: branch_name
-        run: echo "BRANCH_NAME=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
 
       - name: Commit and Push when any of the above files change
         if: steps.verify-changed-files.outputs.files_changed == 'true'
@@ -104,6 +107,13 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+
+      - name: Get current branch name
+        id: branch_name
+        run: echo "BRANCH_NAME=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
+
+      - name: Git Pull
+        run: git pull origin ${{ env.BRANCH_NAME }}
       
       - uses: actions/setup-python@v4
         with:
