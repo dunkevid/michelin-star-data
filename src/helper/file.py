@@ -41,18 +41,22 @@ def write_aggregated_df_to_aggregator_csv_file(date, df):
 def write_diff_df_to_change_logs_csv_file(date, df):
   path = get_or_create_change_logs_file_path()
 
+  values_str = ''
   # Extract the values from the dataframe
-  name = df['name'].values[0]
-  previous_star = df['previous_star'].values[0]
-  is_new_restaurant = df['is_new_restaurant'].values[0]
-  is_removed = df['is_removed'].values[0]
-  increase_star_num = df['increase_star_num'].values[0]
+  for _, row in df.iterrows():
+    name = row['name'].replace("'", '')
+    previous_star = row['previous_star']
+    is_new_restaurant = row['is_new_restaurant']
+    is_removed = row['is_removed']
+    increase_star_num = row['increase_star_num']
 
-  values_str = f"{date},'{name}',{previous_star},{is_new_restaurant},{is_removed},{increase_star_num}"
+    values_str += f"{date},{name},{previous_star},{is_new_restaurant},{is_removed},{increase_star_num}\n"
+  
+  logger.info('Data change:\n {}'.format(values_str))
 
   try:
     with open(path, 'a') as file:
-      row = values_str + '\n'
+      row = values_str
       file.write(row)
     return True
   except Exception as ex:

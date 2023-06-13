@@ -1,3 +1,25 @@
 date,name,previous_star,is_new_restaurant,is_removed,increase_star_num
-2023-06-09,'Claudia',1,False,True,-1
-2023-06-13,'Villa Vest',0,True,False,1
+2023-06-09,Claudia,1,False,True,-1
+2023-06-13,Villa Vest,0,True,False,1
+2023-06-13,K2,0,True,False,1
+2023-06-13,Sabi Omakase Oslo,0,True,False,1
+2023-06-13,VÅR,0,True,False,1
+2023-06-13,Grand Royal,0,True,False,1
+2023-06-13,Mon Oncle,0,True,False,1
+2023-06-13,ARO,0,True,False,1
+2023-06-13,Stallen,0,True,False,1
+2023-06-13,Tri,0,True,False,1
+2023-06-13,À Laise,0,True,False,1
+2023-06-13,Domæne,0,True,False,1
+2023-06-13,SAVAGE,0,True,False,1
+2023-06-13,Moss,0,True,False,1
+2023-06-13,Le Val dAuge,0,True,False,1
+2023-06-13,ION Harbour by Simon Rogan,0,True,False,1
+2023-06-13,Koan,0,True,False,2
+2023-06-13,AIRA,1,False,False,1
+2023-06-13,Val dAuge,1,False,True,-1
+2023-06-13,ION - The Harbour,1,False,True,-1
+2023-06-13,AIRA,1,False,False,0
+2023-06-13,Kiin Kiin,1,False,True,-1
+2023-06-13,Kokkeriet,1,False,True,-1
+2023-06-13,Aimsir,2,False,True,-2
