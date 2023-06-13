@@ -1,4 +1,25 @@
-# michelin-star-data
+# Analyze Michelin Star Data
+
+## Introduction
+
+![michelin-guide-logo](https://guide.michelin.com/assets/images/michelin-guide-logo-dark.svg)
+
+The Michelin star, a symbol of culinary excellence, is awarded by the renowned Michelin Guide to exceptional restaurants worldwide. It signifies the highest level of culinary artistry, innovation, and dedication to delivering an extraordinary gastronomic experience.
+
+## Method
+
+### Tools
+- Python
+- Github Actions
+- Google BigQuery
+- Preset (Power by Superset)
+
+### Flows
+- Automatic daily crawling script execution is facilitated by `GitHub Actions`
+- A `Python` crawling script is used to create a crawler that retrieves data from https://guide.michelin.com/
+- The received data from crawler is stored in this `GitHub Repository`
+- The data is then aggregated and stored on `Google BigQuery Storage`
+- The aggregated data is sent to a `Preset` to create a dashboard
 
 ### Example data
 
@@ -51,3 +72,13 @@
   "updated_at": "2023-06-08"
 }
 ```
+
+## [Dashboard 📎](https://157fedb3.us2a.app.preset.io/superset/dashboard/michelin-star-data/?native_filters_key=6lQrP3amBbhtcFQ5HpPwUdH_Xv89wr-pnLW-YarunA1rr7jUMk6aYA76YrKqV5qZ)
+
+
+![dashboard-1](./public/dashboard/component-1.png)
+![dashboard-2](./public/dashboard/component-2.png)
+![dashboard-3](./public/dashboard/component-3.png)
+![dashboard-4](./public/dashboard/component-4.png)
+![dashboard-5](./public/dashboard/component-5.png)
+![dashboard-6](./public/dashboard/component-6.png)
