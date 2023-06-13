@@ -21,6 +21,8 @@ The Michelin star, a symbol of culinary excellence, is awarded by the renowned M
 - The data is then aggregated and stored on `Google BigQuery Storage`
 - The aggregated data is sent to a `Preset` to create a dashboard
 
+![flows-chart](./public/flows.png)
+
 ### Example data
 
 ```json
