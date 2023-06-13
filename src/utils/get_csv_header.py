@@ -16,6 +16,7 @@ def get_change_logs_header_str():
   CHANGE_LOGS_HEADER_LIST = [
     'date',
     'name',
+    'region',
     'previous_star',
     'is_new_restaurant',
     'is_removed',

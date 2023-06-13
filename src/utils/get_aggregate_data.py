@@ -8,11 +8,13 @@ def _get_michelin_data_by_date(date):
     df = pd.read_json(path)
 
     df['star'] = df['awards'].apply(lambda x: x['star'])
+    df['region'] = df.apply(lambda row: row['position']['location']['region'], axis=1)
     # df['is_green_star'] = df['awards'].apply(lambda x: x['is_green_star'])
     # df['is_bib_gourmand'] = df['awards'].apply(lambda x: x['is_bib_gourmand'])
 
     selected_list = [
       'name',
+      'region',
       'star',
       # 'is_green_star',
       # 'is_bib_gourmand'
@@ -84,7 +86,10 @@ def get_diff_data(date):
 
     selected = ['name', 'previous_star', 'is_new_restaurant', 'is_removed', 'increase_star_num']
     
-    return diff[selected]
+    # Remove duplicates by restaurant name and keep the first record
+    diff_df = diff[selected].drop_duplicates(subset='name', keep='first')
+
+    return diff_df
 
 def get_michelin_aggregate_data(date):
   df = _get_michelin_data_by_date(date)
