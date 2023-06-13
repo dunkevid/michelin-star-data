@@ -86,8 +86,8 @@ The Michelin star, a symbol of culinary excellence, is awarded by the renowned M
 
 > You need to go to Google Cloud -> IAM & Admin -> Service Accounts -> Create Service Account -> Create new key (JSON). And then save it (JSON keys) to the credential folder with the filename 'gcb-credentials.json'.
 
-## [Dashboard 📎](https://157fedb3.us2a.app.preset.io/superset/dashboard/michelin-star-data/?native_filters_key=6lQrP3amBbhtcFQ5HpPwUdH_Xv89wr-pnLW-YarunA1rr7jUMk6aYA76YrKqV5qZ)
 
+## <a href="https://157fedb3.us2a.app.preset.io/superset/dashboard/michelin-star-data/?native_filters_key=6lQrP3amBbhtcFQ5HpPwUdH_Xv89wr-pnLW-YarunA1rr7jUMk6aYA76YrKqV5qZ"  target="_blank">Dashboard 📎</a>
 
 ![dashboard-1](./public/dashboard/component-1.png)
 ![dashboard-2](./public/dashboard/component-2.png)
