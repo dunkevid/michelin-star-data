@@ -1,25 +1,28 @@
-date,name,previous_star,is_new_restaurant,is_removed,increase_star_num
-2023-06-09,Claudia,1,False,True,-1
-2023-06-13,Villa Vest,0,True,False,1
-2023-06-13,K2,0,True,False,1
-2023-06-13,Sabi Omakase Oslo,0,True,False,1
-2023-06-13,VÅR,0,True,False,1
-2023-06-13,Grand Royal,0,True,False,1
-2023-06-13,Mon Oncle,0,True,False,1
-2023-06-13,ARO,0,True,False,1
-2023-06-13,Stallen,0,True,False,1
-2023-06-13,Tri,0,True,False,1
-2023-06-13,À Laise,0,True,False,1
-2023-06-13,Domæne,0,True,False,1
-2023-06-13,SAVAGE,0,True,False,1
-2023-06-13,Moss,0,True,False,1
-2023-06-13,Le Val dAuge,0,True,False,1
-2023-06-13,ION Harbour by Simon Rogan,0,True,False,1
-2023-06-13,Koan,0,True,False,2
-2023-06-13,AIRA,1,False,False,1
-2023-06-13,Val dAuge,1,False,True,-1
-2023-06-13,ION - The Harbour,1,False,True,-1
-2023-06-13,AIRA,1,False,False,0
-2023-06-13,Kiin Kiin,1,False,True,-1
-2023-06-13,Kokkeriet,1,False,True,-1
-2023-06-13,Aimsir,2,False,True,-2
+date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
+2023-06-09,Tang Court,Hong Kong,1,False,False,2
+2023-06-09,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-06-09,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-06-09,Forum,Hong Kong,1,False,False,2
+2023-06-09,Claudia,USA,1,False,True,-1
+2023-06-13,Villa Vest,Denmark,0,True,False,1
+2023-06-13,K2,Norway,0,True,False,1
+2023-06-13,Sabi Omakase Oslo,Norway,0,True,False,1
+2023-06-13,VÅR,Finland,0,True,False,1
+2023-06-13,Grand Royal,Denmark,0,True,False,1
+2023-06-13,Mon Oncle,Norway,0,True,False,1
+2023-06-13,ARO,Denmark,0,True,False,1
+2023-06-13,Stallen,Norway,0,True,False,1
+2023-06-13,Tri,Denmark,0,True,False,1
+2023-06-13,À Laise,Norway,0,True,False,1
+2023-06-13,Domæne,Denmark,0,True,False,1
+2023-06-13,SAVAGE,Norway,0,True,False,1
+2023-06-13,Moss,Iceland,0,True,False,1
+2023-06-13,Le Val dAuge,France,0,True,False,1
+2023-06-13,ION Harbour by Simon Rogan,Malta,0,True,False,1
+2023-06-13,Koan,Denmark,0,True,False,2
+2023-06-13,AIRA,Sweden,1,False,False,1
+2023-06-13,Val dAuge,France,1,False,True,-1
+2023-06-13,ION - The Harbour,Malta,1,False,True,-1
+2023-06-13,Kiin Kiin,Denmark,1,False,True,-1
+2023-06-13,Kokkeriet,Denmark,1,False,True,-1
+2023-06-13,Aimsir,Ireland,2,False,True,-2

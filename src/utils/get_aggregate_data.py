@@ -84,7 +84,7 @@ def get_diff_data(date):
       axis=1
     )
 
-    selected = ['name', 'previous_star', 'is_new_restaurant', 'is_removed', 'increase_star_num']
+    selected = ['name', 'region', 'previous_star', 'is_new_restaurant', 'is_removed', 'increase_star_num']
     
     # Remove duplicates by restaurant name and keep the first record
     diff_df = diff[selected].drop_duplicates(subset='name', keep='first')

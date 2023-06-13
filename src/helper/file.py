@@ -45,14 +45,19 @@ def write_diff_df_to_change_logs_csv_file(date, df):
   # Extract the values from the dataframe
   for _, row in df.iterrows():
     name = row['name'].replace("'", '')
+    region = row['region'].replace("'", '')
     previous_star = row['previous_star']
     is_new_restaurant = row['is_new_restaurant']
     is_removed = row['is_removed']
     increase_star_num = row['increase_star_num']
 
-    values_str += f"{date},{name},{previous_star},{is_new_restaurant},{is_removed},{increase_star_num}\n"
+    if is_new_restaurant == False and is_removed == False and increase_star_num == 0:
+      continue
+
+    values_str += f"{date},{name},{region},{previous_star},{is_new_restaurant},{is_removed},{increase_star_num}\n"
   
-  logger.info('Data change:\n {}'.format(values_str))
+  if len(values_str) > 0:
+    logger.info('[{}] Data change:\n {}'.format(date, values_str))
 
   try:
     with open(path, 'a') as file:
