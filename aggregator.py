@@ -7,5 +7,4 @@ def aggregator():
   sync_aggregate_data(latest_synced_date)
   logger.info('✨ Done')
 
-
 aggregator()

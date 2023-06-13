@@ -75,6 +75,17 @@ The Michelin star, a symbol of culinary excellence, is awarded by the renowned M
 }
 ```
 
+## Run
+- Install Python (3.10.11)
+- Install Dependencies: `pip3 install -r requirements.txt`
+- Run crawling script: `python index.py`
+
+### Others
+- Aggregate data: `python aggregator.py`
+- Store aggregated data on Google BigQuery Storage `python load_into_gcb.py`
+
+> You need to go to Google Cloud -> IAM & Admin -> Service Accounts -> Create Service Account -> Create new key (JSON). And then save it (JSON keys) to the credential folder with the filename 'gcb-credentials.json'.
+
 ## [Dashboard 📎](https://157fedb3.us2a.app.preset.io/superset/dashboard/michelin-star-data/?native_filters_key=6lQrP3amBbhtcFQ5HpPwUdH_Xv89wr-pnLW-YarunA1rr7jUMk6aYA76YrKqV5qZ)
 
 
