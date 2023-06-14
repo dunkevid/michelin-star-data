@@ -26,3 +26,4 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-06-13,Kiin Kiin,Denmark,1,False,True,-1
 2023-06-13,Kokkeriet,Denmark,1,False,True,-1
 2023-06-13,Aimsir,Ireland,2,False,True,-2
+2023-06-14,Shoun Ryugin,Taiwan,2,False,True,-2
