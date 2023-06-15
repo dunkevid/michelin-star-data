@@ -27,3 +27,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-06-13,Kokkeriet,Denmark,1,False,True,-1
 2023-06-13,Aimsir,Ireland,2,False,True,-2
 2023-06-14,Shoun Ryugin,Taiwan,2,False,True,-2
+2023-06-15,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-06-15,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-06-15,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-06-15,Forum,Hong Kong SAR China,1,False,False,2
+2023-06-15,La Teinturerie,Switzerland,1,False,True,-1
