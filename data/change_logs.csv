@@ -54,3 +54,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-06-20,Da Candida,Italy,1,False,True,-1
 2023-06-23,Château Attisholz,Switzerland,0,True,False,1
 2023-06-23,Attisholz,Switzerland,1,False,True,-1
+2023-06-27,Briketenia,France,0,True,False,1
+2023-06-27,Restaurant Girardin,France,0,True,False,1
+2023-06-27,Brikéténia,France,1,False,True,-1
+2023-06-27,Girardin - Gastronomique,France,1,False,True,-1
