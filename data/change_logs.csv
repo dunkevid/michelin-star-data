@@ -58,3 +58,15 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-06-27,Restaurant Girardin,France,0,True,False,1
 2023-06-27,Brikéténia,France,1,False,True,-1
 2023-06-27,Girardin - Gastronomique,France,1,False,True,-1
+2023-06-28,Sushi Sakuta,Singapore,0,True,False,1
+2023-06-28,Shisen Hanten,Singapore,2,False,False,-1
+2023-06-28,Seroja,Singapore,0,True,False,1
+2023-06-28,Born,Singapore,0,True,False,1
+2023-06-28,Poise,Singapore,0,True,False,1
+2023-06-28,Willow,Singapore,0,True,False,1
+2023-06-28,Maison Chenet - Entre Vigne et Garrigue,France,0,True,False,1
+2023-06-28,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-06-28,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-06-28,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-06-28,Forum,Hong Kong SAR China,1,False,False,2
+2023-06-28,Entre Vigne et Garrigue,France,1,False,True,-1
