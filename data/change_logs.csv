@@ -70,3 +70,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-06-28,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2023-06-28,Forum,Hong Kong SAR China,1,False,False,2
 2023-06-28,Entre Vigne et Garrigue,France,1,False,True,-1
+2023-06-29,Le Relais de la Poste,France,0,True,False,1
+2023-06-29,Maison Caillet,France,0,True,False,1
+2023-06-29,Guillaume Scheer - Les Plaisirs Gourmands,France,0,True,False,1
+2023-06-29,La Maison Caillet,France,1,False,True,-1
+2023-06-29,Les Plaisirs Gourmands,France,1,False,True,-1
