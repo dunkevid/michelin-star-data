@@ -85,3 +85,12 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-07-11,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
 2023-07-11,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2023-07-11,Forum,Hong Kong SAR China,1,False,False,2
+2023-07-12,Pastis Restaurant,France,0,True,False,1
+2023-07-12,TURK FATİH TUTAK,Türkiye,0,True,False,2
+2023-07-12,Tang Court,Hong Kong,1,False,False,2
+2023-07-12,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-07-12,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-07-12,Forum,Hong Kong,1,False,False,2
+2023-07-12,Pastis,France,1,False,True,-1
+2023-07-12,Le Moissonnier,Germany,2,False,True,-2
+2023-07-12,Turk Fatih Tutak,Türkiye,2,False,True,-2
