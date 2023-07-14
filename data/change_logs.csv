@@ -94,3 +94,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-07-12,Pastis,France,1,False,True,-1
 2023-07-12,Le Moissonnier,Germany,2,False,True,-2
 2023-07-12,Turk Fatih Tutak,Türkiye,2,False,True,-2
+2023-07-14,Yong,China Mainland,0,True,False,1
+2023-07-14,La Table de Cédric Béchade - LAuberge Basque,France,0,True,False,1
+2023-07-14,LAuberge Basque,France,1,False,True,-1
+2023-07-14,Famous Cuisine (Tianhe),China Mainland,1,False,True,-1
