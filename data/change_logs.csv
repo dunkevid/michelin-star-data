@@ -98,3 +98,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-07-14,La Table de Cédric Béchade - LAuberge Basque,France,0,True,False,1
 2023-07-14,LAuberge Basque,France,1,False,True,-1
 2023-07-14,Famous Cuisine (Tianhe),China Mainland,1,False,True,-1
+2023-07-17,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-07-17,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-07-17,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-07-17,Forum,Hong Kong SAR China,1,False,False,2
