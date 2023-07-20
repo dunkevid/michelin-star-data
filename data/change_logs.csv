@@ -108,3 +108,16 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-07-18,Forum,Hong Kong,1,False,False,2
 2023-07-19,Ron Gastrobar,Netherlands,0,True,False,1
 2023-07-19,RON Gastrobar,Netherlands,1,False,True,-1
+2023-07-20,Aphotic,USA,0,True,False,1
+2023-07-20,Nari,USA,0,True,False,1
+2023-07-20,Auro,USA,0,True,False,1
+2023-07-20,Heritage,USA,0,True,False,1
+2023-07-20,Valle,USA,0,True,False,1
+2023-07-20,Chez Noir,USA,0,True,False,1
+2023-07-20,logy,Taiwan,0,True,False,2
+2023-07-20,Sushi by Scratch Restaurants: Montecito,USA,1,False,True,-1
+2023-07-20,Omakase,USA,1,False,True,-1
+2023-07-20,Spruce,USA,1,False,True,-1
+2023-07-20,Adega,USA,1,False,True,-1
+2023-07-20,Hatchet Hall,USA,1,False,True,-1
+2023-07-20,Logy,Taiwan,2,False,True,-2
