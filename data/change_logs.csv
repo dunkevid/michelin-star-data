@@ -121,3 +121,5 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-07-20,Adega,USA,1,False,True,-1
 2023-07-20,Hatchet Hall,USA,1,False,True,-1
 2023-07-20,Logy,Taiwan,2,False,True,-2
+2023-07-21,Bare,Norway,1,False,True,-1
+2023-07-21,Gaon,South Korea,3,False,True,-3
