@@ -127,3 +127,5 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-07-22,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2023-07-22,Forum,Hong Kong SAR China,1,False,False,2
 2023-07-22,Moulin de Rosmadec,France,1,False,True,-1
+2023-07-24,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-07-24,Forum,Hong Kong,1,False,False,2
