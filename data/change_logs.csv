@@ -135,3 +135,5 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-07-26,Cracco in Galleria,Italy,0,True,False,1
 2023-07-26,Espacio N,Spain,1,False,True,-1
 2023-07-26,Cracco,Italy,1,False,True,-1
+2023-07-27,Restaurant Marcon,France,0,True,False,3
+2023-07-27,Régis et Jacques Marcon,France,3,False,True,-3
