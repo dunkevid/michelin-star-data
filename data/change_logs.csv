@@ -137,3 +137,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-07-26,Cracco,Italy,1,False,True,-1
 2023-07-27,Restaurant Marcon,France,0,True,False,3
 2023-07-27,Régis et Jacques Marcon,France,3,False,True,-3
+2023-07-28,KOL,United Kingdom,0,True,False,1
+2023-07-28,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-07-28,Forum,Hong Kong SAR China,1,False,False,2
+2023-07-28,Kol,United Kingdom,1,False,True,-1
