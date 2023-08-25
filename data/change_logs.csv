@@ -202,3 +202,6 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-08-24,Tang Court,Hong Kong,1,False,False,2
 2023-08-24,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
 2023-08-24,RenéSens par Jean-François Bérard,France,1,False,True,-1
+2023-08-25,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-08-25,Forum,Hong Kong SAR China,1,False,False,2
+2023-08-25,Le Gourmet,Germany,1,False,True,-1
