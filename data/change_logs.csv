@@ -205,3 +205,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-08-25,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2023-08-25,Forum,Hong Kong SAR China,1,False,False,2
 2023-08-25,Le Gourmet,Germany,1,False,True,-1
+2023-08-26,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-08-26,Forum,Hong Kong,1,False,False,2
+2023-08-26,Epoca by Tristan Brandt,Switzerland,1,False,True,-1
+2023-08-26,tobias buholzer,Switzerland,1,False,True,-1
