@@ -209,3 +209,6 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-08-26,Forum,Hong Kong,1,False,False,2
 2023-08-26,Epoca by Tristan Brandt,Switzerland,1,False,True,-1
 2023-08-26,tobias buholzer,Switzerland,1,False,True,-1
+2023-08-29,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-08-29,Forum,Hong Kong SAR China,1,False,False,2
+2023-08-29,Sens,Switzerland,2,False,True,-2
