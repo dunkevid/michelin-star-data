@@ -215,3 +215,18 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-08-30,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
 2023-08-30,Forum,Hong Kong,1,False,False,2
 2023-08-30,Maximilien,France,1,False,True,-1
+2023-09-01,La Maison de Win,Taiwan,0,True,False,1
+2023-09-01,Ban Bo,Taiwan,0,True,False,1
+2023-09-01,ZEA,Taiwan,0,True,False,1
+2023-09-01,Ad Astra,Taiwan,0,True,False,1
+2023-09-01,A Cut,Taiwan,0,True,False,1
+2023-09-01,INITA,Taiwan,0,True,False,1
+2023-09-01,The Guest House,Taiwan,2,False,False,-1
+2023-09-01,Haili,Taiwan,0,True,False,1
+2023-09-01,lélan,Japan,0,True,False,1
+2023-09-01,Molino de Urdániz,Taiwan,1,False,False,1
+2023-09-01,Mudan,Taiwan,1,False,False,1
+2023-09-01,Liberté,Taiwan,1,False,False,1
+2023-09-01,Taïrroir,Taiwan,2,False,False,1
+2023-09-01,JL Studio,Taiwan,2,False,False,1
+2023-09-01,élan,Japan,1,False,True,-1
