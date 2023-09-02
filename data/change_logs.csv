@@ -230,3 +230,5 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-01,Taïrroir,Taiwan,2,False,False,1
 2023-09-01,JL Studio,Taiwan,2,False,False,1
 2023-09-01,élan,Japan,1,False,True,-1
+2023-09-02,Le 1825 - La Table,France,0,True,False,1
+2023-09-02,Le 1825 - La Table gastronomique,France,1,False,True,-1
