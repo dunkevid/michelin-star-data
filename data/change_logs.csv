@@ -233,3 +233,6 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-02,Le 1825 - La Table,France,0,True,False,1
 2023-09-02,Le 1825 - La Table gastronomique,France,1,False,True,-1
 2023-09-04,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-09-05,Coto de Quevedo Evolución,Spain,0,True,False,1
+2023-09-05,Tang Court,Hong Kong,1,False,False,2
+2023-09-05,Coto de Quevedo,Spain,1,False,True,-1
