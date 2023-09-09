@@ -251,3 +251,9 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-08,Forum,Hong Kong SAR China,1,False,False,2
 2023-09-08,Chic Nonna di Vito Mollica,Italy,1,False,True,-1
 2023-09-08,Chengdu Restaurant,China Mainland,1,False,True,-1
+2023-09-09,Carters at Westlands,United Kingdom,0,True,False,1
+2023-09-09,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-09-09,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-09-09,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-09-09,Forum,Hong Kong,1,False,False,2
+2023-09-09,Carters of Moseley,United Kingdom,1,False,True,-1
