@@ -279,3 +279,6 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-15,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2023-09-15,Forum,Hong Kong SAR China,1,False,False,2
 2023-09-15,SANT PAU,Japan,1,False,True,-1
+2023-09-16,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-09-16,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-09-16,Forum,Hong Kong,1,False,False,2
