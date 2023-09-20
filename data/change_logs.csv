@@ -288,3 +288,11 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-19,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
 2023-09-19,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2023-09-19,Forum,Hong Kong SAR China,1,False,False,2
+2023-09-20,Milka,Slovenia,1,False,False,1
+2023-09-20,Casa Perbellini 12 Apostoli,Italy,0,True,False,2
+2023-09-20,Hiša Franko,Slovenia,2,False,False,1
+2023-09-20,Tang Court,Hong Kong,1,False,False,2
+2023-09-20,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-09-20,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-09-20,Forum,Hong Kong,1,False,False,2
+2023-09-20,Casa Perbellini,Italy,2,False,True,-2
