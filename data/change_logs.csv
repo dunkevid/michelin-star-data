@@ -298,3 +298,5 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-20,Casa Perbellini,Italy,2,False,True,-2
 2023-09-21,La Rotonde,France,1,False,True,-1
 2023-09-21,Le Montgomerie,France,2,False,True,-2
+2023-09-23,ODEÓN,Spain,0,True,False,1
+2023-09-23,ODEÓN Nazario Cano,Spain,1,False,True,-1
