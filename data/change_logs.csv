@@ -300,3 +300,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-21,Le Montgomerie,France,2,False,True,-2
 2023-09-23,ODEÓN,Spain,0,True,False,1
 2023-09-23,ODEÓN Nazario Cano,Spain,1,False,True,-1
+2023-09-24,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-09-24,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-09-24,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-09-24,Forum,Hong Kong SAR China,1,False,False,2
