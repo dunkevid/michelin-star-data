@@ -318,3 +318,12 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-27,Huaiyang Fu (Dongcheng),China Mainland,0,True,False,1
 2023-09-27,The Beijing Kitchen,China Mainland,1,False,True,-1
 2023-09-27,Huaiyang Fu,China Mainland,1,False,True,-1
+2023-09-28,Genießer Stube - Daniel Raub,Germany,0,True,False,1
+2023-09-28,Tang Court,Hong Kong,1,False,False,2
+2023-09-28,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-09-28,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-09-28,Forum,Hong Kong,1,False,False,2
+2023-09-28,Genießer Stube,Germany,1,False,True,-1
+2023-09-28,ODEÓN,Spain,1,False,True,-1
+2023-09-28,Écriture,Hong Kong,2,False,True,-2
+2023-09-28,Sushi Masaki Saito,Canada,2,False,True,-2
