@@ -327,3 +327,14 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-28,ODEÓN,Spain,1,False,True,-1
 2023-09-28,Écriture,Hong Kong,2,False,True,-2
 2023-09-28,Sushi Masaki Saito,Canada,2,False,True,-2
+2023-09-29,Kappo Sato,Canada,0,True,False,1
+2023-09-29,Restaurant 20 Victoria,Canada,0,True,False,1
+2023-09-29,Casala - das Restaurant,Germany,0,True,False,1
+2023-09-29,Sushi Masaki Saito,Canada,0,True,False,2
+2023-09-29,The House of Rong,China Mainland,0,True,False,2
+2023-09-29,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-09-29,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-09-29,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-09-29,Forum,Hong Kong SAR China,1,False,False,2
+2023-09-29,Casala,Germany,1,False,True,-1
+2023-09-29,Xin Rong Ji (Nanyang Road),China Mainland,2,False,True,-2
