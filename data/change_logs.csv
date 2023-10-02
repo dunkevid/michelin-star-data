@@ -345,3 +345,4 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-30,Forum,Hong Kong,1,False,False,2
 2023-09-30,Julien Binz,France,1,False,True,-1
 2023-09-30,LEtoile - Nova,Switzerland,1,False,True,-1
+2023-10-02,Sushiyoshi,Japan,1,False,False,1
