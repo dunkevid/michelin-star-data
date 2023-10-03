@@ -346,3 +346,34 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-09-30,Julien Binz,France,1,False,True,-1
 2023-09-30,LEtoile - Nova,Switzerland,1,False,True,-1
 2023-10-02,Sushiyoshi,Japan,1,False,False,1
+2023-10-03,Hôtel de Ville,Switzerland,0,True,False,1
+2023-10-03,La Dispensa,Switzerland,0,True,False,1
+2023-10-03,elmira,Switzerland,0,True,False,1
+2023-10-03,Cà dOro,Switzerland,0,True,False,1
+2023-10-03,Gasthaus zum Kreuz - Bijou,Switzerland,0,True,False,1
+2023-10-03,Wöschi,Switzerland,0,True,False,1
+2023-10-03,Gasthaus zum Kreuz - Stübli,Switzerland,0,True,False,1
+2023-10-03,La Pinte des Mossettes,Switzerland,0,True,False,1
+2023-10-03,Colonnade,Switzerland,0,True,False,1
+2023-10-03,Osteria Enoteca Cuntitt,Switzerland,0,True,False,1
+2023-10-03,Birdys by Achtien - The Nest,Switzerland,0,True,False,1
+2023-10-03,Wiesner Mysterion - Zauber,Switzerland,0,True,False,1
+2023-10-03,Osteria dellEnoteca,Switzerland,0,True,False,1
+2023-10-03,Domaine de Châteauvieux,Switzerland,2,False,False,-1
+2023-10-03,RICOS,Switzerland,2,False,False,-1
+2023-10-03,Au 1465,Switzerland,0,True,False,1
+2023-10-03,Restaurant GERBER WYSS,Switzerland,0,True,False,1
+2023-10-03,1910 Gourmet by Hausers,Switzerland,0,True,False,1
+2023-10-03,Radius by Stefan Beer,Switzerland,0,True,False,1
+2023-10-03,Gilles Varone,Switzerland,0,True,False,1
+2023-10-03,ZOE,Switzerland,0,True,False,1
+2023-10-03,Mammertsberg,Switzerland,0,True,False,2
+2023-10-03,The Japanese Restaurant,Switzerland,1,False,False,1
+2023-10-03,La Table du Lausanne Palace,Switzerland,1,False,False,1
+2023-10-03,LAtelier Robuchon,Switzerland,1,False,False,1
+2023-10-03,La Table du Valrose,Switzerland,1,False,False,1
+2023-10-03,Osteria TRE,Switzerland,1,False,True,-1
+2023-10-03,Le Café Suisse,Switzerland,1,False,True,-1
+2023-10-03,Le Flacon,Switzerland,1,False,True,-1
+2023-10-03,Les Ateliers,Switzerland,1,False,True,-1
+2023-10-03,Principe Leopoldo,Switzerland,1,False,True,-1
