@@ -377,3 +377,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-10-03,Le Flacon,Switzerland,1,False,True,-1
 2023-10-03,Les Ateliers,Switzerland,1,False,True,-1
 2023-10-03,Principe Leopoldo,Switzerland,1,False,True,-1
+2023-10-04,La table de LIncomparable,France,0,True,False,1
+2023-10-04,La Table de Yoann Conte,France,0,True,False,2
+2023-10-04,LIncomparable,France,1,False,True,-1
+2023-10-04,Yoann Conte,France,2,False,True,-2
