@@ -381,3 +381,10 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-10-04,La Table de Yoann Conte,France,0,True,False,2
 2023-10-04,LIncomparable,France,1,False,True,-1
 2023-10-04,Yoann Conte,France,2,False,True,-2
+2023-10-05,La Table de LIncomparable,France,0,True,False,1
+2023-10-05,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-10-05,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-10-05,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-10-05,Forum,Hong Kong SAR China,1,False,False,2
+2023-10-05,La table de LIncomparable,France,1,False,True,-1
+2023-10-05,Chefs Table at Brooklyn Fare,USA,3,False,True,-3
