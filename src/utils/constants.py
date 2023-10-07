@@ -7,7 +7,7 @@ HTML_CLASS_NAME = {
   'total_restaurants': 'flex-fill search-results__stats js-restaurant__stats pl-text pl-big',
 
   # Restaurant card item
-  'l_r_name': 'card__menu-content--title pl-text pl-big',
+  'l_r_name': 'card__menu-content--title pl-text pl-big js-match-height-title',
   'l_r_image_thumb': 'image-wrapper pl-image',
   'l_r_award': 'michelin-award',
   'l_r_price': 'card__menu-footer--price pl-text',
