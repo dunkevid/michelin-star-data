@@ -388,3 +388,24 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-10-05,Forum,Hong Kong SAR China,1,False,False,2
 2023-10-05,La table de LIncomparable,France,1,False,True,-1
 2023-10-05,Chefs Table at Brooklyn Fare,USA,3,False,True,-3
+2023-10-13,MO Jasmine,China Mainland,0,True,False,1
+2023-10-13,Lamdre,China Mainland,0,True,False,1
+2023-10-13,Giada Garden,China Mainland,0,True,False,1
+2023-10-13,Restaurant Kunz,Germany,0,True,False,1
+2023-10-13,ROTER HAHN by Maximilian Schmidt,Germany,0,True,False,1
+2023-10-13,Ren He Guan (Xuhui),China Mainland,0,True,False,1
+2023-10-13,Lu Style (Huangpu),China Mainland,0,True,False,1
+2023-10-13,Chao Shang Chao (Chaoyang),China Mainland,2,False,False,1
+2023-10-13,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-10-13,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-10-13,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-10-13,Forum,Hong Kong SAR China,1,False,False,2
+2023-10-13,Kunz Gourmet,Germany,1,False,True,-1
+2023-10-13,Roter Hahn,Germany,1,False,True,-1
+2023-10-13,The Georg,China Mainland,1,False,True,-1
+2023-10-13,Country Kitchen,China Mainland,1,False,True,-1
+2023-10-13,Lao Ji Tang (Gongrentiyuchang South Road),China Mainland,1,False,True,-1
+2023-10-13,Vege Wonder,China Mainland,1,False,True,-1
+2023-10-13,Mio,China Mainland,1,False,True,-1
+2023-10-13,Ren He Guan (Zhaojiabang Road),China Mainland,1,False,True,-1
+2023-10-13,Lu Style,China Mainland,1,False,True,-1
