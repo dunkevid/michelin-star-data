@@ -14,7 +14,7 @@ HTML_CLASS_NAME = {
   'l_r_short_location': 'card__menu-footer--location flex-fill pl-text',
   'l_r_coords': 'card__menu box-placeholder js-restaurant__list_item js-match-height js-map',
   'l_r_type': 'card__menu-footer--price pl-text',
-  'l_r_link_to_detail_page': 'link with-love',
+  'l_r_link_to_detail_page': 'link',
 
   # Retaurant details
   'd_r_details': 'restaurant-details',
