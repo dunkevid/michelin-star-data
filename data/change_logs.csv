@@ -427,3 +427,10 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-10-21,Sushi Inaba,USA,0,True,False,1
 2023-10-21,Sushi I-NABA,USA,1,False,True,-1
 2023-10-21,Inter Scaldes,Netherlands,3,False,True,-3
+2023-10-25,Hayakawa,USA,0,True,False,1
+2023-10-25,Bacchanalia,USA,0,True,False,1
+2023-10-25,Mujō,USA,0,True,False,1
+2023-10-25,Lazy Betty,USA,0,True,False,1
+2023-10-25,Atlas,USA,0,True,False,1
+2023-10-25,Colombi Restaurant Zirbelstube,Germany,0,True,False,1
+2023-10-25,Colombi Restaurant,Germany,1,False,True,-1
