@@ -434,3 +434,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-10-25,Atlas,USA,0,True,False,1
 2023-10-25,Colombi Restaurant Zirbelstube,Germany,0,True,False,1
 2023-10-25,Colombi Restaurant,Germany,1,False,True,-1
+2023-10-26,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-10-26,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-10-26,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-10-26,Forum,Hong Kong SAR China,1,False,False,2
+2023-10-26,Restaurant 1797,Germany,1,False,True,-1
