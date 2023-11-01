@@ -455,3 +455,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-10-31,Baan Tepa Culinary Space,Thailand,0,True,False,1
 2023-10-31,Baan Tepa,Thailand,1,False,True,-1
 2023-10-31,Contra,USA,1,False,True,-1
+2023-11-01,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-11-01,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-11-01,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-11-01,Forum,Hong Kong SAR China,1,False,False,2
+2023-11-01,Arbidel,Spain,1,False,True,-1
