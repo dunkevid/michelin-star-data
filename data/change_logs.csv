@@ -462,3 +462,9 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-01,Arbidel,Spain,1,False,True,-1
 2023-11-02,Baan Tepa,Thailand,0,True,False,1
 2023-11-02,Baan Tepa Culinary Space,Thailand,1,False,True,-1
+2023-11-03,Restaurant Wolfslaar,Netherlands,0,True,False,1
+2023-11-03,Tang Court,Hong Kong,1,False,False,2
+2023-11-03,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-11-03,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-11-03,Forum,Hong Kong,1,False,False,2
+2023-11-03,Wolfslaar,Netherlands,1,False,True,-1
