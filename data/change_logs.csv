@@ -487,3 +487,29 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-08,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
 2023-11-08,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
 2023-11-08,Forum,Hong Kong,1,False,False,2
+2023-11-09,Rania,USA,0,True,False,1
+2023-11-09,Causa,USA,0,True,False,1
+2023-11-09,Shmoné,USA,0,True,False,1
+2023-11-09,Sushi Ichimura,USA,0,True,False,1
+2023-11-09,bōm,USA,0,True,False,1
+2023-11-09,Torrisi,USA,0,True,False,1
+2023-11-09,Meju,USA,0,True,False,1
+2023-11-09,Jōji,USA,0,True,False,1
+2023-11-09,Essential by Christophe,USA,0,True,False,1
+2023-11-09,Restaurant Yuu,USA,0,True,False,1
+2023-11-09,Indienne,USA,0,True,False,1
+2023-11-09,odo,USA,1,False,False,1
+2023-11-09,Sushi Noz,USA,1,False,False,1
+2023-11-09,Smyth,USA,2,False,False,1
+2023-11-09,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-11-09,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-11-09,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-11-09,Forum,Hong Kong SAR China,1,False,False,2
+2023-11-09,Don Angie,USA,1,False,True,-1
+2023-11-09,Casa Enrique,USA,1,False,True,-1
+2023-11-09,Kanoyama,USA,1,False,True,-1
+2023-11-09,Claro,USA,1,False,True,-1
+2023-11-09,The River Café,USA,1,False,True,-1
+2023-11-09,Cranes,USA,1,False,True,-1
+2023-11-09,Goosefoot,USA,1,False,True,-1
+2023-11-09,North Pond,USA,1,False,True,-1
