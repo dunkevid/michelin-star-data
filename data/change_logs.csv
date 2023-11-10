@@ -513,3 +513,16 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-09,Cranes,USA,1,False,True,-1
 2023-11-09,Goosefoot,USA,1,False,True,-1
 2023-11-09,North Pond,USA,1,False,True,-1
+2023-11-10,Teruar Urla,Türkiye,0,True,False,1
+2023-11-10,Arkestra,Türkiye,0,True,False,1
+2023-11-10,Vino Locale,Türkiye,0,True,False,1
+2023-11-10,OD Urla,Türkiye,0,True,False,1
+2023-11-10,Maçakızı,Türkiye,0,True,False,1
+2023-11-10,Sankai by Nagaya,Türkiye,0,True,False,1
+2023-11-10,A Casa di Mà,France,0,True,False,1
+2023-11-10,Tang Court,Hong Kong,1,False,False,2
+2023-11-10,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-11-10,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-11-10,Forum,Hong Kong,1,False,False,2
+2023-11-10,A Casa di Ma,France,1,False,True,-1
+2023-11-10,Au Souper Fin,France,1,False,True,-1
