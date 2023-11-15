@@ -528,3 +528,55 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-10,Au Souper Fin,France,1,False,True,-1
 2023-11-11,Forum,Hong Kong SAR China,1,False,False,2
 2023-11-12,Forum,Hong Kong,1,False,False,2
+2023-11-15,Il Bavaglino,Italy,0,True,False,1
+2023-11-15,Nin,Italy,0,True,False,1
+2023-11-15,sui generis.,Italy,0,True,False,1
+2023-11-15,La Coldana,Italy,0,True,False,1
+2023-11-15,Horto,Italy,0,True,False,1
+2023-11-15,Il Marin,Italy,0,True,False,1
+2023-11-15,Crocifisso,Italy,0,True,False,1
+2023-11-15,Il Fagiano,Italy,0,True,False,1
+2023-11-15,Dolomieu,Italy,0,True,False,1
+2023-11-15,Ada,Italy,0,True,False,1
+2023-11-15,Vite,Italy,0,True,False,1
+2023-11-15,Votavota,Italy,0,True,False,1
+2023-11-15,Vignamare,Italy,0,True,False,1
+2023-11-15,Un Piano nel Cielo,Italy,0,True,False,1
+2023-11-15,Saporium Firenze,Italy,0,True,False,1
+2023-11-15,Alici,Italy,0,True,False,1
+2023-11-15,Casa Mazzucchelli,Italy,0,True,False,1
+2023-11-15,Il Luogo di Aimo e Nadia,Italy,2,False,False,-1
+2023-11-15,Bracali,Italy,2,False,False,-1
+2023-11-15,Orma Roma,Italy,0,True,False,1
+2023-11-15,Wood,Italy,0,True,False,1
+2023-11-15,Cortile Spirito Santo,Italy,0,True,False,1
+2023-11-15,La Magnolia,Italy,0,True,False,1
+2023-11-15,Elementi,Italy,0,True,False,1
+2023-11-15,Osmosi,Italy,0,True,False,1
+2023-11-15,Il Visibilio,Italy,0,True,False,1
+2023-11-15,Une,Italy,0,True,False,1
+2023-11-15,Contrada Bricconi,Italy,0,True,False,1
+2023-11-15,Bluh Furore,Italy,0,True,False,1
+2023-11-15,La Rei Natura by Michelangelo Mammoliti,Italy,0,True,False,2
+2023-11-15,Verso Capitaneo,Italy,0,True,False,2
+2023-11-15,Andrea Aprea,Italy,1,False,False,1
+2023-11-15,Piazzetta Milù,Italy,1,False,False,1
+2023-11-15,George Restaurant,Italy,1,False,False,1
+2023-11-15,Atelier Moessmer Norbert Niederkofler,Italy,0,True,False,3
+2023-11-15,Quattro Passi,Italy,2,False,False,1
+2023-11-15,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-11-15,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-11-15,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-11-15,Forum,Hong Kong SAR China,1,False,False,2
+2023-11-15,Tano Passami lOlio,Italy,1,False,True,-1
+2023-11-15,Cielo,Italy,1,False,True,-1
+2023-11-15,Il Cascinalenuovo,Italy,1,False,True,-1
+2023-11-15,Virtuoso Gourmet - Tenuta Le Tre Virtù,Italy,1,False,True,-1
+2023-11-15,Casa Vicina,Italy,1,False,True,-1
+2023-11-15,La Fermata,Italy,1,False,True,-1
+2023-11-15,I Tigli in Theoria,Italy,1,False,True,-1
+2023-11-15,Pietramare Natural Food,Italy,1,False,True,-1
+2023-11-15,La Bottega del 30,Italy,1,False,True,-1
+2023-11-15,La Terrazza,Italy,1,False,True,-1
+2023-11-15,Pierino Penati,Italy,1,False,True,-1
+2023-11-15,Ma.Ri.Na.,Italy,1,False,True,-1
