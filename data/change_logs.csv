@@ -580,3 +580,9 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-15,La Terrazza,Italy,1,False,True,-1
 2023-11-15,Pierino Penati,Italy,1,False,True,-1
 2023-11-15,Ma.Ri.Na.,Italy,1,False,True,-1
+2023-11-16,Tang Court,Hong Kong,1,False,False,2
+2023-11-16,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-11-16,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-11-16,Forum,Hong Kong,1,False,False,2
+2023-11-16,Ilpan,South Korea,1,False,True,-1
+2023-11-16,Falco,Germany,2,False,True,-2
