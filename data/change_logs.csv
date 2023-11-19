@@ -595,3 +595,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-17,Sir Ellys,China Mainland,1,False,True,-1
 2023-11-18,Beta,Malaysia,0,True,False,1
 2023-11-18,Dewakan,Malaysia,1,False,False,1
+2023-11-19,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-11-19,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-11-19,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-11-19,Forum,Hong Kong SAR China,1,False,False,2
