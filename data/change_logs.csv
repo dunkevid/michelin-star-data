@@ -625,3 +625,6 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-22,Leclere,France,1,False,True,-1
 2023-11-22,Une Table, au Sud,France,1,False,True,-1
 2023-11-22,La Pyramide- Maison Henriroux,France,2,False,True,-2
+2023-11-23,Récif,France,0,True,False,1
+2023-11-23,Une Table, au Sud,France,0,True,False,1
+2023-11-23,Récif - Les Roches Rouges,France,1,False,True,-1
