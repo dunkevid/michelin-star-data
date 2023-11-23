@@ -3,7 +3,7 @@ from src.utils.constants import HTML_CLASS_NAME, ROOT_URL
 
 def get_restaurant_name(html):
   element = html.find('h3', class_=HTML_CLASS_NAME['l_r_name'])
-  name = element.text.strip()
+  name = element.text.strip().replace(',', '')
 
   return name
 
