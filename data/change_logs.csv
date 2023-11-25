@@ -646,3 +646,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-24,Une Table, au Sud,France,1,False,True,-1
 2023-11-24,Elements, Inspired by Ciel Bleu,Thailand,1,False,True,-1
 2023-11-24,Le Manoir aux Quat Saisons, a Belmond Hotel,United Kingdom,2,False,True,-2
+2023-11-25,Aramburu,Argentina,0,True,False,2
+2023-11-25,Tang Court,Hong Kong,1,False,False,2
+2023-11-25,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2023-11-25,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2023-11-25,Forum,Hong Kong,1,False,False,2
