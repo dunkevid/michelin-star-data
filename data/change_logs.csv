@@ -651,3 +651,9 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-25,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
 2023-11-25,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
 2023-11-25,Forum,Hong Kong,1,False,False,2
+2023-11-26,Trescha,Argentina,0,True,False,1
+2023-11-26,Azafrán,Argentina,0,True,False,1
+2023-11-26,Don Julio,Argentina,0,True,False,1
+2023-11-26,Casa Vigil,Argentina,0,True,False,1
+2023-11-26,Brindillas,Argentina,0,True,False,1
+2023-11-26,Zonda Cocina de Paisaje,Argentina,0,True,False,1
