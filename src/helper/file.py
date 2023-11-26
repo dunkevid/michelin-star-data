@@ -44,8 +44,8 @@ def write_diff_df_to_change_logs_csv_file(date, df):
   values_str = ''
   # Extract the values from the dataframe
   for _, row in df.iterrows():
-    name = row['name'].replace("'", '')
-    region = row['region'].replace("'", '')
+    name = row['name'].replace("'", '').replace(',', '')
+    region = row['region'].replace("'", '').replace(',', '')
     previous_star = row['previous_star']
     is_new_restaurant = row['is_new_restaurant']
     is_removed = row['is_removed']
