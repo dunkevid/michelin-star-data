@@ -639,10 +639,10 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-24,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
 2023-11-24,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2023-11-24,Forum,Hong Kong SAR China,1,False,False,2
-2023-11-24,Christian & Friends, Tastekitchen,Germany,1,False,True,-1
-2023-11-24,Cuines,33,Belgium,1,False,True,-1
-2023-11-24,114, Faubourg,France,1,False,True,-1
-2023-11-24,Pavyllon, un restaurant de Yannick Alléno, Monte-Carlo,France,1,False,True,-1
+2023-11-24,Christian & Friends Tastekitchen,Germany,1,False,True,-1
+2023-11-24,Cuines 33,Belgium,1,False,True,-1
+2023-11-24,114 Faubourg,France,1,False,True,-1
+2023-11-24,Pavyllon un restaurant de Yannick Alléno Monte-Carlo,France,1,False,True,-1
 2023-11-24,Une Table au Sud,France,1,False,True,-1
 2023-11-24,Elements Inspired by Ciel Bleu,Thailand,1,False,True,-1
 2023-11-24,Le Manoir aux Quat Saisons a Belmond Hotel,United Kingdom,2,False,True,-2
