@@ -657,3 +657,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-11-26,Casa Vigil,Argentina,0,True,False,1
 2023-11-26,Brindillas,Argentina,0,True,False,1
 2023-11-26,Zonda Cocina de Paisaje,Argentina,0,True,False,1
+2023-11-28,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-11-28,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-11-28,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-11-28,Forum,Hong Kong SAR China,1,False,False,2
+2023-11-28,the K by mauro colagreco,Switzerland,1,False,True,-1
