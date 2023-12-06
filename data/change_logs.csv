@@ -709,3 +709,57 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-12-05,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
 2023-12-05,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2023-12-05,Forum,Hong Kong SAR China,1,False,False,2
+2023-12-06,Ginza L’écrin,Japan,0,True,False,1
+2023-12-06,Ichirin,Japan,0,True,False,1
+2023-12-06,Kaiseki Komuro,Japan,2,False,False,-1
+2023-12-06,Édition Koji Shimomura,Japan,2,False,False,-1
+2023-12-06,Daigo,Japan,2,False,False,-1
+2023-12-06,MONOLITH,Japan,0,True,False,1
+2023-12-06,Kabi,Japan,0,True,False,1
+2023-12-06,Koshikiryori Koki,Japan,0,True,False,1
+2023-12-06,TROIS VISAGES,Japan,0,True,False,1
+2023-12-06,Tentempura Uchitsu,Japan,2,False,False,-1
+2023-12-06,Miyasaka,Japan,0,True,False,1
+2023-12-06,Nishiazabu Noguchi,Japan,0,True,False,1
+2023-12-06,Piao-Xiang,Japan,0,True,False,1
+2023-12-06,Hiroo Ishizaka,Japan,0,True,False,1
+2023-12-06,Mētis Roppongi,Japan,0,True,False,1
+2023-12-06,Ginza Kitagawa,Japan,0,True,False,1
+2023-12-06,Mutsukari,Japan,0,True,False,1
+2023-12-06,Ubuka,Japan,0,True,False,1
+2023-12-06,LÉTERRE,Japan,0,True,False,1
+2023-12-06,MAZ,Japan,0,True,False,2
+2023-12-06,Sushi Yoshitake,Japan,3,False,False,-1
+2023-12-06,Harutaka,Japan,2,False,False,1
+2023-12-06,Le Petit Hôtel du Grand Large,France,1,False,True,-1
+2023-12-06,Ginza Fujiyama,Japan,1,False,True,-1
+2023-12-06,Regalo,Japan,1,False,True,-1
+2023-12-06,Ristorante HONDA,Japan,1,False,True,-1
+2023-12-06,TACUBO,Japan,1,False,True,-1
+2023-12-06,Chukasoba Ginza Hachigou,Japan,1,False,True,-1
+2023-12-06,Sosakumenkobo NAKIRYU,Japan,1,False,True,-1
+2023-12-06,Ode,Japan,1,False,True,-1
+2023-12-06,Le Coq,Japan,1,False,True,-1
+2023-12-06,sio,Japan,1,False,True,-1
+2023-12-06,SOBAHOUSE KONJIKI HOTOTOGISU,Japan,1,False,True,-1
+2023-12-06,BIRD LAND,Japan,1,False,True,-1
+2023-12-06,Takumi Sushi Owana,Japan,1,False,True,-1
+2023-12-06,Le Mange-Tout,Japan,1,False,True,-1
+2023-12-06,BVLGARI IL RISTORANTE LUCA FANTIN,Japan,1,False,True,-1
+2023-12-06,REQUINQUER,Japan,1,False,True,-1
+2023-12-06,WASA,Japan,1,False,True,-1
+2023-12-06,Tempura Shimomura,Japan,1,False,True,-1
+2023-12-06,Ginza Yamanobe Edo Chuka,Japan,1,False,True,-1
+2023-12-06,ALTER EGO,Japan,1,False,True,-1
+2023-12-06,lintemporel,Japan,1,False,True,-1
+2023-12-06,Kaiseki Ohara,Japan,1,False,True,-1
+2023-12-06,Ginza Adachi Naoto,Japan,1,False,True,-1
+2023-12-06,Takumi,Japan,1,False,True,-1
+2023-12-06,Akasaka Momonoki,Japan,1,False,True,-1
+2023-12-06,Kagurazaka Marutomi,Japan,1,False,True,-1
+2023-12-06,LUGDUNUM Bouchon Lyonnais,Japan,1,False,True,-1
+2023-12-06,Sushi Takamitsu,Japan,1,False,True,-1
+2023-12-06,Akasaka Ogino,Japan,1,False,True,-1
+2023-12-06,Nihombashikakigaracho Sugita,Japan,2,False,True,-2
+2023-12-06,Higashiazabu Amamoto,Japan,2,False,True,-2
+2023-12-06,Sawada,Japan,2,False,True,-2
