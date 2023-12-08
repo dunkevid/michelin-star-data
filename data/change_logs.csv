@@ -769,3 +769,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2023-12-07,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
 2023-12-07,Forum,Hong Kong,1,False,False,2
 2023-12-07,Hämmerles Restaurant - Barrique,Germany,1,False,True,-1
+2023-12-08,Erth,Abu Dhabi,0,True,False,1
+2023-12-08,Tang Court,Hong Kong SAR China,1,False,False,2
+2023-12-08,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2023-12-08,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2023-12-08,Forum,Hong Kong SAR China,1,False,False,2
