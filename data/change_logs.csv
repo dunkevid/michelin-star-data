@@ -874,3 +874,9 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-01-03,Al Coro,USA,2,False,True,-2
 2024-01-03,Pavillon,Switzerland,2,False,True,-2
 2024-01-03,Joo Ok,South Korea,2,False,True,-2
+2024-01-04,Tang Court,Hong Kong,1,False,False,2
+2024-01-04,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2024-01-04,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2024-01-04,Forum,Hong Kong,1,False,False,2
+2024-01-04,The Araki,Hong Kong,1,False,True,-1
+2024-01-04,Liberté,Taiwan,2,False,True,-2
