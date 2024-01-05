@@ -880,3 +880,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-01-04,Forum,Hong Kong,1,False,False,2
 2024-01-04,The Araki,Hong Kong,1,False,True,-1
 2024-01-04,Liberté,Taiwan,2,False,True,-2
+2024-01-05,The Man Behind The Curtain,United Kingdom,1,False,True,-1
+2024-01-05,Pensons,United Kingdom,1,False,True,-1
+2024-01-05,SY23,United Kingdom,1,False,True,-1
+2024-01-05,Le Sénéchal,France,1,False,True,-1
