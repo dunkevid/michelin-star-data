@@ -888,3 +888,10 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-01-07,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
 2024-01-08,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2024-01-08,Forum,Hong Kong SAR China,1,False,False,2
+2024-01-09,Restaurant Andrew Fairlie,United Kingdom,0,True,False,2
+2024-01-09,Tang Court,Hong Kong,1,False,False,2
+2024-01-09,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2024-01-09,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2024-01-09,Forum,Hong Kong,1,False,False,2
+2024-01-09,bhoga,Sweden,1,False,True,-1
+2024-01-09,Andrew Fairlie at Gleneagles,United Kingdom,2,False,True,-2
