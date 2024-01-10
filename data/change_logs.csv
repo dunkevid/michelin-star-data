@@ -895,3 +895,5 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-01-09,Forum,Hong Kong,1,False,False,2
 2024-01-09,bhoga,Sweden,1,False,True,-1
 2024-01-09,Andrew Fairlie at Gleneagles,United Kingdom,2,False,True,-2
+2024-01-10,Carters at Westlands,United Kingdom,1,False,True,-1
+2024-01-10,Hof van Cleve,Belgium,3,False,True,-3
