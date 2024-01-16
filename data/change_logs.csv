@@ -911,3 +911,6 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-01-13,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
 2024-01-13,Forum,Hong Kong,1,False,False,2
 2024-01-13,Ichigo Ichie,Ireland,1,False,True,-1
+2024-01-16,Alte Pfarrey,Germany,1,False,True,-1
+2024-01-16,Schwingshackl ESSKULTUR Gourmet,Germany,1,False,True,-1
+2024-01-16,Le Gavroche,United Kingdom,2,False,True,-2
