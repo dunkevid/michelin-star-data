@@ -916,3 +916,5 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-01-16,Le Gavroche,United Kingdom,2,False,True,-2
 2024-01-19,Spazio7,Italy,1,False,True,-1
 2024-01-20,Nebo by Deni Srdoč,Croatia,0,True,False,1
+2024-01-21,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2024-01-21,Forum,Hong Kong SAR China,1,False,False,2
