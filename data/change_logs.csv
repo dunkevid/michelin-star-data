@@ -922,3 +922,4 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-01-22,Forum,Hong Kong,1,False,False,2
 2024-01-23,Almo,Spain,0,True,False,1
 2024-01-23,AlmaMater,Spain,1,False,True,-1
+2024-01-24,Les Climats,France,1,False,True,-1
