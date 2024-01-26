@@ -925,3 +925,6 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-01-24,Les Climats,France,1,False,True,-1
 2024-01-25,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2024-01-25,Forum,Hong Kong SAR China,1,False,False,2
+2024-01-26,Hofstube Deimann,Germany,0,True,False,1
+2024-01-26,Hofstube,Germany,1,False,True,-1
+2024-01-26,Sichuan Moon,Macau,2,False,True,-2
