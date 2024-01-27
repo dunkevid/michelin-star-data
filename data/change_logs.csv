@@ -928,3 +928,9 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-01-26,Hofstube Deimann,Germany,0,True,False,1
 2024-01-26,Hofstube,Germany,1,False,True,-1
 2024-01-26,Sichuan Moon,Macau,2,False,True,-2
+2024-01-27,Terra The Magic Place,Italy,0,True,False,2
+2024-01-27,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2024-01-27,Forum,Hong Kong,1,False,False,2
+2024-01-27,Richard,Germany,1,False,True,-1
+2024-01-27,La Table dAurélien Largeau,France,1,False,True,-1
+2024-01-27,Terra,Italy,1,False,False,1
