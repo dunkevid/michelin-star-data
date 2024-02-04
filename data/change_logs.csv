@@ -946,3 +946,5 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-02-01,Kasteel Heemstede,Netherlands,1,False,True,-1
 2024-02-02,Schlägergården,Norway,1,False,True,-1
 2024-02-03,Floraison,Japan,1,False,True,-1
+2024-02-04,Tang Court,Hong Kong SAR China,1,False,False,2
+2024-02-04,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
