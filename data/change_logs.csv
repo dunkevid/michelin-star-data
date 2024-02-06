@@ -950,3 +950,38 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-02-04,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
 2024-02-05,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2024-02-05,Forum,Hong Kong SAR China,1,False,False,2
+2024-02-06,Crocadon,United Kingdom,0,True,False,1
+2024-02-06,Humble Chicken,United Kingdom,0,True,False,1
+2024-02-06,Lake Road Kitchen,United Kingdom,0,True,False,1
+2024-02-06,mýse,United Kingdom,0,True,False,1
+2024-02-06,Ormer Mayfair,United Kingdom,0,True,False,1
+2024-02-06,Cedar Tree by Hrishikesh Desai,United Kingdom,0,True,False,1
+2024-02-06,Pavyllon London,United Kingdom,0,True,False,1
+2024-02-06,Sushi Kanesaka,United Kingdom,2,False,False,-1
+2024-02-06,Chishuru,United Kingdom,0,True,False,1
+2024-02-06,Akoko,United Kingdom,0,True,False,1
+2024-02-06,Aulis,United Kingdom,0,True,False,1
+2024-02-06,Mountain,United Kingdom,0,True,False,1
+2024-02-06,DOlier Street,Ireland,0,True,False,1
+2024-02-06,The Bishops Buttery,Ireland,0,True,False,1
+2024-02-06,1890 by Gordon Ramsay,United Kingdom,0,True,False,1
+2024-02-06,Dorian,United Kingdom,0,True,False,1
+2024-02-06,Homestead Cottage,Ireland,0,True,False,1
+2024-02-06,Humo,United Kingdom,0,True,False,1
+2024-02-06,Gymkhana,United Kingdom,1,False,False,1
+2024-02-06,The Glenturret Lalique,United Kingdom,1,False,False,1
+2024-02-06,Opheem,United Kingdom,1,False,False,1
+2024-02-06,Terre,Ireland,1,False,False,1
+2024-02-06,Trivet,United Kingdom,1,False,False,1
+2024-02-06,Brooklands,United Kingdom,0,True,False,2
+2024-02-06,The Ledbury,United Kingdom,2,False,False,1
+2024-02-06,Tang Court,Hong Kong,1,False,False,2
+2024-02-06,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2024-02-06,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2024-02-06,Forum,Hong Kong,1,False,False,2
+2024-02-06,Paco Tapas,United Kingdom,1,False,True,-1
+2024-02-06,Hakkasan Mayfair,United Kingdom,1,False,True,-1
+2024-02-06,The Cellar,United Kingdom,1,False,True,-1
+2024-02-06,Barrafina,United Kingdom,1,False,True,-1
+2024-02-06,Leroy,United Kingdom,1,False,True,-1
+2024-02-06,Hakkasan Hanway Place,United Kingdom,1,False,True,-1
