@@ -1039,3 +1039,6 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-02-20,Forum,Hong Kong,1,False,False,2
 2024-02-20,PRESQU’ÎLE,Japan,1,False,True,-1
 2024-02-20,Gasthaus Zur Fernsicht - Incantare,Switzerland,2,False,True,-2
+2024-02-21,Credo,Norway,1,False,True,-1
+2024-02-21,Gutshaus Stolpe,Germany,1,False,True,-1
+2024-02-21,San Martino - Gourmet by Jochen Fecht,Germany,1,False,True,-1
