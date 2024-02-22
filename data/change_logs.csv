@@ -1042,3 +1042,9 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-02-21,Credo,Norway,1,False,True,-1
 2024-02-21,Gutshaus Stolpe,Germany,1,False,True,-1
 2024-02-21,San Martino - Gourmet by Jochen Fecht,Germany,1,False,True,-1
+2024-02-22,Yat Lok (Central),Hong Kong,0,True,False,1
+2024-02-22,Tang Court,Hong Kong SAR China,1,False,False,2
+2024-02-22,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2024-02-22,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2024-02-22,Forum,Hong Kong SAR China,1,False,False,2
+2024-02-22,Yat Lok,Hong Kong,1,False,True,-1
