@@ -1048,3 +1048,16 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-02-22,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
 2024-02-22,Forum,Hong Kong SAR China,1,False,False,2
 2024-02-22,Yat Lok,Hong Kong,1,False,True,-1
+2024-02-23,Palate,South Korea,0,True,False,1
+2024-02-23,Haobin,South Korea,0,True,False,1
+2024-02-23,VINHO,South Korea,0,True,False,1
+2024-02-23,Limpression,South Korea,0,True,False,1
+2024-02-23,Mori,South Korea,0,True,False,1
+2024-02-23,Fiotto,South Korea,0,True,False,1
+2024-02-23,Mitou,South Korea,1,False,False,1
+2024-02-23,Restaurant Allen,South Korea,1,False,False,1
+2024-02-23,Tang Court,Hong Kong,1,False,False,2
+2024-02-23,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2024-02-23,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2024-02-23,Forum,Hong Kong,1,False,False,2
+2024-02-23,Myomi,South Korea,1,False,True,-1
