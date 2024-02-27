@@ -1061,3 +1061,17 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-02-23,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
 2024-02-23,Forum,Hong Kong,1,False,False,2
 2024-02-23,Myomi,South Korea,1,False,True,-1
+2024-02-27,Neon,Belgium,0,True,False,1
+2024-02-27,Hoeve De Bies,Belgium,0,True,False,1
+2024-02-27,Apdikt,Luxembourg,0,True,False,1
+2024-02-27,Menssa,Belgium,0,True,False,1
+2024-02-27,La Roseraie,Belgium,0,True,False,1
+2024-02-27,Pré de chez vous,Belgium,0,True,False,1
+2024-02-27,Julien,Belgium,0,True,False,1
+2024-02-27,Pont neuf,Belgium,0,True,False,1
+2024-02-27,lImpératif dÉole,Belgium,0,True,False,1
+2024-02-27,Hof van Cleve - Floris Van Der Veken,Belgium,0,True,False,2
+2024-02-27,Sir Kwinten,Belgium,1,False,False,1
+2024-02-27,Abama Kabuki,Spain,1,False,True,-1
+2024-02-27,Le Pré des Oréades,Belgium,1,False,True,-1
+2024-02-27,t Overhamme,Belgium,1,False,True,-1
