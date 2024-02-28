@@ -1075,3 +1075,9 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-02-27,Abama Kabuki,Spain,1,False,True,-1
 2024-02-27,Le Pré des Oréades,Belgium,1,False,True,-1
 2024-02-27,t Overhamme,Belgium,1,False,True,-1
+2024-02-28,SÁLA de João Sá,Portugal,0,True,False,1
+2024-02-28,Ó Balcão,Portugal,0,True,False,1
+2024-02-28,2Monkeys,Portugal,0,True,False,1
+2024-02-28,Desarma,Portugal,0,True,False,1
+2024-02-28,Antiqvvm,Portugal,1,False,False,1
+2024-02-28,Vistas Monte Rei,Portugal,1,False,True,-1
