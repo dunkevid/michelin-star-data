@@ -1087,3 +1087,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-02-29,Forum,Hong Kong SAR China,1,False,False,2
 2024-02-29,communico,Japan,1,False,True,-1
 2024-02-29,PHOENIX,Germany,1,False,True,-1
+2024-03-01,Tang Court,Hong Kong,1,False,False,2
+2024-03-01,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
+2024-03-01,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
+2024-03-01,Forum,Hong Kong,1,False,False,2
+2024-03-01,Osteria del Povero Diavolo,Italy,1,False,True,-1
