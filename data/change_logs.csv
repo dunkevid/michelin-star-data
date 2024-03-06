@@ -1104,3 +1104,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-03-03,Forum,Hong Kong,1,False,False,2
 2024-03-05,Château Attisholz - Le Fleu,Switzerland,0,True,False,1
 2024-03-05,Château Attisholz,Switzerland,1,False,True,-1
+2024-03-06,Les Loges,France,1,False,True,-1
+2024-03-06,À Contre Sens,France,1,False,True,-1
+2024-03-06,Jin,France,1,False,True,-1
+2024-03-06,Usukifugu Yamadaya,Japan,2,False,True,-2
+2024-03-06,Hostellerie Jérôme,France,2,False,True,-2
