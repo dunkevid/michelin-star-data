@@ -1109,3 +1109,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-03-06,Jin,France,1,False,True,-1
 2024-03-06,Usukifugu Yamadaya,Japan,2,False,True,-2
 2024-03-06,Hostellerie Jérôme,France,2,False,True,-2
+2024-03-07,Château Attisholz - Le feu,Switzerland,0,True,False,1
+2024-03-07,De Rozario,Netherlands,0,True,False,1
+2024-03-07,Château Attisholz - Le Fleu,Switzerland,1,False,True,-1
+2024-03-07,Derozario,Netherlands,1,False,True,-1
+2024-03-07,SIEDEPUNKT,Germany,1,False,True,-1
