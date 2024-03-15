@@ -1125,3 +1125,14 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-03-14,8 1/2 Otto e Mezzo - Bombana,Hong Kong,1,False,False,2
 2024-03-14,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
 2024-03-14,Forum,Hong Kong,1,False,False,2
+2024-03-15,The Legacy House,Hong Kong SAR China,0,True,False,1
+2024-03-15,Cristal Room by Anne-Sophie Pic,Hong Kong SAR China,0,True,False,1
+2024-03-15,Sun Tung Lok,Hong Kong,2,False,False,-1
+2024-03-15,Sushi Kinetsu,Macau,0,True,False,1
+2024-03-15,Chef Tams Seasons,Macau,0,True,False,1
+2024-03-15,Feuille,Hong Kong,0,True,False,1
+2024-03-15,Mora,Hong Kong,0,True,False,1
+2024-03-15,The Eight,Macau,3,False,False,-1
+2024-03-15,The Huaiyang Garden,Macau,1,False,False,1
+2024-03-15,Noi,Hong Kong,1,False,False,1
+2024-03-15,Jardin de Jade (Wan Chai),Hong Kong,1,False,True,-1
