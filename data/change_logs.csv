@@ -1136,3 +1136,8 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-03-15,The Huaiyang Garden,Macau,1,False,False,1
 2024-03-15,Noi,Hong Kong,1,False,False,1
 2024-03-15,Jardin de Jade (Wan Chai),Hong Kong,1,False,True,-1
+2024-03-16,8 1/2 Otto e Mezzo - Bombana,Hong Kong SAR China,1,False,False,2
+2024-03-16,Forum,Hong Kong SAR China,1,False,False,2
+2024-03-16,LAtelier de Joël Robuchon,Hong Kong SAR China,2,False,False,1
+2024-03-16,Tang Court,Hong Kong SAR China,1,False,False,2
+2024-03-16,Bianca sul Lago by Emanuele Petrosino,Italy,1,False,True,-1
