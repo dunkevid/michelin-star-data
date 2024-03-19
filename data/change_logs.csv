@@ -1145,3 +1145,91 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-03-17,Forum,Hong Kong,1,False,False,2
 2024-03-17,LAtelier de Joël Robuchon,Hong Kong,2,False,False,1
 2024-03-17,Tang Court,Hong Kong,1,False,False,2
+2024-03-19,ONICE,France,0,True,False,1
+2024-03-19,SEPT,France,0,True,False,1
+2024-03-19,La Vieille Auberge,France,0,True,False,1
+2024-03-19,Alpage,France,0,True,False,1
+2024-03-19,Le Tout-Paris,France,0,True,False,1
+2024-03-19,Galanga,France,0,True,False,1
+2024-03-19,La Terrasse - Cheval Blanc St-Tropez,France,0,True,False,1
+2024-03-19,Onor,France,0,True,False,1
+2024-03-19,Chakaiseiki Akiyoshi,France,0,True,False,1
+2024-03-19,La Table de lOrangerie - Château de Fonscolombe,France,0,True,False,1
+2024-03-19,AinTimiste,France,0,True,False,1
+2024-03-19,Ar Men Du,France,0,True,False,1
+2024-03-19,Burgundy by Matthieu,France,0,True,False,1
+2024-03-19,Mont Blanc Restaurant & Goûter,France,0,True,False,1
+2024-03-19,Le Champ des Lunes,France,0,True,False,1
+2024-03-19,Auberge de la Forge,France,0,True,False,1
+2024-03-19,Auberge du Cheval Blanc,France,2,False,False,-1
+2024-03-19,Auberge du XIIème Siècle,France,0,True,False,1
+2024-03-19,Espadon,France,0,True,False,1
+2024-03-19,Le K,France,0,True,False,1
+2024-03-19,LAuberge de Lucinges,France,0,True,False,1
+2024-03-19,Le Cèdre de Montcaud,France,0,True,False,1
+2024-03-19,Racines - Bruno Cirino,France,0,True,False,1
+2024-03-19,LAlmandin,France,0,True,False,1
+2024-03-19,LAtelier des Augustins,France,0,True,False,1
+2024-03-19,Bessem,France,0,True,False,1
+2024-03-19,Le Petit Léon,France,0,True,False,1
+2024-03-19,Bacôve,France,0,True,False,1
+2024-03-19,Nhome,France,0,True,False,1
+2024-03-19,Sushi Yoshinaga,France,0,True,False,1
+2024-03-19,Maison Rosella par Francesco Di Marzio,France,0,True,False,1
+2024-03-19,Le Chamarlenc,France,0,True,False,1
+2024-03-19,Auberge de la Grive,France,0,True,False,1
+2024-03-19,Le Cin5 - Au Cœur du Village,France,0,True,False,1
+2024-03-19,Le Feuillée - Le Couvent des Minimes,France,0,True,False,1
+2024-03-19,Émilie & Thomas - Moulin de Cambelong,France,0,True,False,1
+2024-03-19,Restaurant Hervé Busset,France,0,True,False,1
+2024-03-19,La Bastide Bourrelly - Mathias Dandine,France,0,True,False,1
+2024-03-19,Datil,France,0,True,False,1
+2024-03-19,Géosmine,France,0,True,False,1
+2024-03-19,Blanc,France,0,True,False,1
+2024-03-19,La Verrière,France,0,True,False,1
+2024-03-19,Cueillette,France,0,True,False,1
+2024-03-19,Château de Collias,France,0,True,False,1
+2024-03-19,La Coopérative - Domaine Riberach,France,0,True,False,1
+2024-03-19,LImpulsif,France,0,True,False,1
+2024-03-19,Le Saint Hilaire,France,0,True,False,1
+2024-03-19,Maison Dubois,France,0,True,False,1
+2024-03-19,Hémicycle,France,0,True,False,1
+2024-03-19,Nacre,France,0,True,False,1
+2024-03-19,Calice,France,0,True,False,1
+2024-03-19,Maison Ruggieri,France,1,False,False,1
+2024-03-19,Sylvestre Wahid - Les Grandes Alpes,France,1,False,False,1
+2024-03-19,Le Mas Les Eydins,France,0,True,False,2
+2024-03-19,Les Ambassadeurs by Christophe Cussac,France,0,True,False,2
+2024-03-19,Le Jules Verne,France,1,False,False,1
+2024-03-19,LOrangerie,France,1,False,False,1
+2024-03-19,René et Maxime Meilleur,France,3,False,False,-1
+2024-03-19,Maison Ronan Kervarrec,France,1,False,False,1
+2024-03-19,Maison Benoît Vidal,France,0,True,False,2
+2024-03-19,La Table du Castellet,France,0,True,False,3
+2024-03-19,Le Gabriel - La Réserve Paris,France,2,False,False,1
+2024-03-19,Manzke,USA,1,False,True,-1
+2024-03-19,Le Sérac,France,1,False,True,-1
+2024-03-19,Le Chiquito,France,1,False,True,-1
+2024-03-19,René Sens,France,1,False,True,-1
+2024-03-19,La Table de la Mainaz,France,1,False,True,-1
+2024-03-19,La Barbacane,France,1,False,True,-1
+2024-03-19,Château de Courban,France,1,False,True,-1
+2024-03-19,La Condesa,France,1,False,True,-1
+2024-03-19,ASPIC,France,1,False,True,-1
+2024-03-19,Le Val dAuge,France,1,False,True,-1
+2024-03-19,ERH,France,1,False,True,-1
+2024-03-19,Hostellerie de lAbbaye de la Celle,France,1,False,True,-1
+2024-03-19,Les Oliviers,France,1,False,True,-1
+2024-03-19,LAtelier de Joël Robuchon - St-Germain,France,1,False,True,-1
+2024-03-19,Roza,France,1,False,True,-1
+2024-03-19,Le 1825 - La Table,France,1,False,True,-1
+2024-03-19,Le Foch,France,1,False,True,-1
+2024-03-19,La Dune du Château de Sable,France,1,False,True,-1
+2024-03-19,Nature,France,1,False,True,-1
+2024-03-19,La Signoria,France,1,False,True,-1
+2024-03-19,Le Bénaton,France,1,False,True,-1
+2024-03-19,Auberge Nicolas Flamel,France,1,False,True,-1
+2024-03-19,Buerehiesel,France,1,False,True,-1
+2024-03-19,Au Déjeuner de Sousceyrac,France,1,False,True,-1
+2024-03-19,Le Cénacle,France,1,False,True,-1
+2024-03-19,Sur Mesure par Thierry Marx,France,2,False,True,-2
