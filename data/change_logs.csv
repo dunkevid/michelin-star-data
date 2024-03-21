@@ -1233,3 +1233,6 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-03-19,Au Déjeuner de Sousceyrac,France,1,False,True,-1
 2024-03-19,Le Cénacle,France,1,False,True,-1
 2024-03-19,Sur Mesure par Thierry Marx,France,2,False,True,-2
+2024-03-21,IKIGAI,Germany,0,True,False,2
+2024-03-21,Table65,Singapore,1,False,True,-1
+2024-03-21,Luce dOro,Germany,2,False,True,-2
