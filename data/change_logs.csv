@@ -1284,3 +1284,7 @@ date,name,region,previous_star,is_new_restaurant,is_removed,increase_star_num
 2024-03-27,Alfredo,Germany,1,False,True,-1
 2024-03-27,Gotthardts,Germany,1,False,True,-1
 2024-04-03,Ritzi Gourmet,Germany,1,False,True,-1
+2024-04-05,Rosamì,Malta,0,True,False,1
+2024-04-05,ION Harbour by Simon Rogan,Malta,1,False,False,1
+2024-04-05,Cannavacciuolo Cafè & Bistrot,Italy,1,False,True,-1
+2024-04-05,Denis Martin,Switzerland,1,False,True,-1
